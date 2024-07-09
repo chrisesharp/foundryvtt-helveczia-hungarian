@@ -1,11 +1,23 @@
 {
   "id": "helveczia-magyar-kompendium",
   "title": "Helvéczia Magyar Kompendium",
-  "version": "1.0.0",
+  "version": "This is auto replaced",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
   },
+  "authors": [
+    {
+      "name": "chrisesharp",
+      "email": "",
+      "discord": "chrissharp"
+    },
+    {
+      "name": "Topor",
+      "email": "",
+      "discord": "topor.314"
+    }
+  ],
   "description": "Magyar nyelvű kompendium a Helvéczia rendszerhez.",
   "packs": [
     {
@@ -173,5 +185,8 @@
         "ASSISTANT": "OWNER"
       }
     }
-  ]
+  ],
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced"
 }
