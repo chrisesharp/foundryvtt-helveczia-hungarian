@@ -5,7 +5,7 @@ on:
     types: [published]
 
 env:
-  package_type: system
+  package_type: module
   node_version: 18
 
 jobs:
