@@ -3,15 +3,15 @@
   "title": "Helvéczia Magyar Kompendium",
   "version": "1.0.0",
   "compatibility": {
-    "minimum": "12",
+    "minimum": "11",
     "verified": "12"
   },
   "description": "Magyar nyelvű kompendium a Helvéczia rendszerhez.",
   "packs": [
     {
-      "name": "panczelok",
+      "name": "armour",
       "label": "Pánczélok",
-      "path": "packs/panczelok",
+      "path": "packs/armour",
       "type": "Item",
       "system": "helveczia",
       "ownership": {
@@ -20,9 +20,9 @@
       }
     },
     {
-      "name": "konyvek",
+      "name": "books",
       "label": "Könyvek",
-      "path": "packs/konyvek",
+      "path": "packs/books",
       "type": "Item",
       "system": "helveczia",
       "ownership": {
@@ -31,9 +31,9 @@
       }
     },
     {
-      "name": "osztalyok",
+      "name": "classes",
       "label": "Osztályok",
-      "path": "packs/osztalyok",
+      "path": "packs/classes",
       "type": "Item",
       "system": "helveczia",
       "ownership": {
@@ -42,9 +42,9 @@
       }
     },
     {
-      "name": "mestersegek",
+      "name": "crafts",
       "label": "Mesterségek",
-      "path": "packs/mestersegek",
+      "path": "packs/crafts",
       "type": "Item",
       "system": "helveczia",
       "ownership": {
@@ -53,9 +53,9 @@
       }
     },
     {
-      "name": "cselekedetek",
+      "name": "deeds",
       "label": "Cselekedetek",
-      "path": "packs/cselekedetek",
+      "path": "packs/deeds",
       "type": "Item",
       "system": "helveczia",
       "ownership": {
@@ -64,9 +64,9 @@
       }
     },
     {
-      "name": "felszereles",
+      "name": "equipment",
       "label": "Vegyes felszerelés",
-      "path": "packs/felszereles",
+      "path": "packs/equipment",
       "type": "Item",
       "system": "helveczia",
       "ownership": {
@@ -75,9 +75,9 @@
       }
     },
     {
-      "name": "nepek",
+      "name": "peoples",
       "label": "Népek",
-      "path": "packs/nepek",
+      "path": "packs/peoples",
       "type": "Item",
       "system": "helveczia",
       "ownership": {
@@ -86,9 +86,9 @@
       }
     },
     {
-      "name": "tudomanyok",
+      "name": "sciences",
       "label": "Tudományok",
-      "path": "packs/tudomanyok",
+      "path": "packs/sciences",
       "type": "Item",
       "system": "helveczia",
       "ownership": {
@@ -97,9 +97,9 @@
       }
     },
     {
-      "name": "kepzettsegek",
+      "name": "skills",
       "label": "Képzettségek",
-      "path": "packs/kepzettsegek",
+      "path": "packs/skills",
       "type": "Item",
       "system": "helveczia",
       "ownership": {
@@ -108,9 +108,9 @@
       }
     },
     {
-      "name": "specializacziok",
+      "name": "specialisms",
       "label": "Specializácziók",
-      "path": "packs/specializacziok",
+      "path": "packs/specialisms",
       "type": "Item",
       "system": "helveczia",
       "ownership": {
@@ -119,9 +119,9 @@
       }
     },
     {
-      "name": "varazslatok",
+      "name": "spells",
       "label": "Varázslatok",
-      "path": "packs/varazslatok",
+      "path": "packs/spells",
       "type": "Item",
       "system": "helveczia",
       "ownership": {
@@ -130,9 +130,9 @@
       }
     },
     {
-      "name": "fegyverek",
+      "name": "weapons",
       "label": "Fegyverek",
-      "path": "packs/fegyverek",
+      "path": "packs/weapons",
       "type": "Item",
       "system": "helveczia",
       "ownership": {
@@ -141,9 +141,9 @@
       }
     },
     {
-      "name": "guritas-tablak",
+      "name": "rolltables",
       "label": "Gurítás táblák",
-      "path": "packs/guritas-tablak",
+      "path": "packs/rolltables",
       "type": "RollTable",
       "system": "helveczia",
       "ownership": {
@@ -152,9 +152,9 @@
       }
     },
     {
-      "name": "njk-k",
+      "name": "npcs",
       "label": "NJK-k",
-      "path": "packs/njk-k",
+      "path": "packs/npcs",
       "type": "Actor",
       "system": "helveczia",
       "ownership": {
@@ -163,9 +163,9 @@
       }
     },
     {
-      "name": "kartya",
+      "name": "cards",
       "label": "Kártya",
-      "path": "packs/kartya",
+      "path": "packs/cards",
       "type": "Cards",
       "system": "helveczia",
       "ownership": {
