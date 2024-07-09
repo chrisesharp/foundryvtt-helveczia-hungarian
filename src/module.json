@@ -19,6 +19,9 @@
     }
   ],
   "description": "Magyar nyelvű kompendium a Helvéczia rendszerhez.",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
   "packs": [
     {
       "name": "armour",
@@ -186,6 +189,15 @@
       }
     }
   ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "helveczia",
+        "type": "system",
+        "manifest": "https://github.com/chrisesharp/foundryvtt-helveczia/releases/latest/download/system.json"
+      }
+    ]
+  },
   "url": "This is auto replaced",
   "manifest": "This is auto replaced",
   "download": "This is auto replaced"
