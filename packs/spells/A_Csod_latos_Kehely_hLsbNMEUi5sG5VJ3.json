@@ -1,0 +1,37 @@
+{
+  "name": "A Csodálatos Kehely",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "DklZOXwgGCjyQb5s",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "cleric",
+    "range": "rövid",
+    "duration": "kakasszóig tart",
+    "area": "önmagára és társaira",
+    "save": "-",
+    "component": "",
+    "description": "<p class=\"p1\">Egy ragyog&oacute; kehely k&eacute;pe jelenik meg a s&ouml;t&eacute;ttől &ouml;vezett t&aacute;borhely felett, s ez a jelen&eacute;s az ellens&eacute;get &eacute;s a vadakat a pihenőktől t&aacute;vol tartja.</p>\n<p class=\"p1\">Mindenki +2 Hp-t gy&oacute;gyul ezidő alatt. Csak akkor t&ouml;rik meg, ha a pihenők k&ouml;z&ouml;tt van csal&aacute;rd sz&iacute;vű, ki rejtve ellen&uuml;k fordul.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720297847737,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "hLsbNMEUi5sG5VJ3",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!hLsbNMEUi5sG5VJ3"
+}

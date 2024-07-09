@@ -1,0 +1,33 @@
+{
+  "name": "Csapdák",
+  "type": "skill",
+  "img": "icons/svg/coins.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>A karakter a rendelkez&eacute;sre &aacute;ll&oacute; idő &eacute;s alapanyagok f&uuml;ggv&eacute;ny&eacute;ben szimpla vagy komplex csapd&aacute;kat, &eacute;s egy&eacute;b &ouml;rd&ouml;gi szerkezeteket k&eacute;sz&iacute;thet. A k&eacute;pzetts&eacute;g arra is j&oacute;, hogy a fentieket hat&aacute;stalan&iacute;tsa, t&ouml;nkre tegye, vagy elker&uuml;lje. Ha egy csapda elt&aacute;vol&iacute;t&aacute;s&aacute;ra tett pr&oacute;ba sikertelen, az kis&uuml;lhet &eacute;s vesz&eacute;lybe sodorhatja az &oacute;vatlan pr&oacute;b&aacute;lkoz&oacute;t.</p>",
+    "ability": "dex",
+    "subtype": "vagabond",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829583790,
+    "modifiedTime": 1720132970676,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "mVhxCmjaVzkbl8Jv",
+  "sort": 2500000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!mVhxCmjaVzkbl8Jv"
+}

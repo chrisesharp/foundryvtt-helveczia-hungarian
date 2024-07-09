@@ -1,0 +1,43 @@
+{
+  "name": "Hóhérbárd",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<ul>\n<li>K&eacute;tkezes, +1 j&aacute;r a sebz&eacute;sre</li>\n<li>megterhelts&eacute;get okoz</li>\n</ul>",
+    "attack": "melee",
+    "damage": "1d12",
+    "critical": {
+      "range": "20",
+      "multiple": "3"
+    },
+    "encumbrance": "2",
+    "bonus": "0",
+    "reload": 0,
+    "cost": {
+      "value": "2",
+      "coin": "th"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719828918413,
+    "modifiedTime": 1720032318479,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "zPznHpfVusUP8eYS",
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!zPznHpfVusUP8eYS"
+}

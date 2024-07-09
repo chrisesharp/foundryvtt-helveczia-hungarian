@@ -1,0 +1,37 @@
+{
+  "name": "Dr. Faustus Irtóztató Pajzsa (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ziA7MU7yGTlbURi0",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "student",
+    "range": "-",
+    "duration": "hét óráig, s még kissé tovább",
+    "area": "önmagára mondatik",
+    "save": "-",
+    "component": "hét lator koponyája, viaszkcsillag",
+    "description": "<p class=\"p1\">Igen erős v&eacute;delmező szer, de kősz&iacute;vű ember, ki hozz&aacute; folyamodna. +4 VO-t ad, s m&iacute;g ha az &uuml;t&eacute;s ezt is meghaladja, rend szerint sebez; ha a pajzsot &eacute;rn&eacute; (ebbe a n&eacute;gyes z&oacute;n&aacute;ba dob), v&eacute;letlenszerűen m&aacute;s fogja a k&ouml;zelben vagy negyedm&eacute;rf&ouml;ld&ouml;n bel&uuml;l elszenvedni azt. H&eacute;t csap&aacute;st &aacute;ll ki, majd szertefoszlik. Igen rettenetes, ha &aacute;rtatlanokat &eacute;r, s ki tudja, mif&eacute;le k&ouml;vetkezm&eacute;nyei t&aacute;madnak ennek.</p>\n<p class=\"p1\"><strong>Komponensek</strong>: h&eacute;t lator kopony&aacute;ja kell hozz&aacute;, kik bak&oacute; &aacute;ltal vesztek, majd kordobai viaszkb&oacute;l egy h&eacute;t&aacute;g&uacute; csillag, melybe a magiszter bele&aacute;lljon &eacute;s egy pecs&eacute;tet itt elk&eacute;sz&iacute;tsen.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720276154207,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "9gSIosDF2GrmyNnI",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!9gSIosDF2GrmyNnI"
+}

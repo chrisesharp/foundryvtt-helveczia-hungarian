@@ -1,0 +1,22 @@
+{
+  "name": "Épületek",
+  "sorting": "m",
+  "folder": null,
+  "type": "Item",
+  "_id": "3LyOQo8arzBzeUYk",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719918593994,
+    "modifiedTime": 1719954649249,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!folders!3LyOQo8arzBzeUYk"
+}

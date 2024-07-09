@@ -1,0 +1,41 @@
+{
+  "name": "Őriző Kard",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "DklZOXwgGCjyQb5s",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "cleric",
+    "range": "érintés",
+    "duration": "míg a strázsát le nem győzik",
+    "area": "egy kis tér, mint pl. sekrestye, előcsarnok",
+    "save": "-",
+    "component": "",
+    "data": {
+      "level": 2,
+      "class": "cleric"
+    },
+    "description": "<p class=\"p1\">Szent f&eacute;nnyel derengő &eacute;s a l&eacute;gben lebegő kardot emel egy hely v&eacute;delm&eacute;re: ha azt illet&eacute;ktelen &ndash; alacsony vagy k&ouml;zepes Virtus&uacute;, avagy rossz sz&aacute;nd&eacute;kkal k&ouml;zel&iacute;tő &ndash; h&aacute;bor&iacute;tani mer&eacute;szeln&eacute;, a fegyver r&aacute;t&aacute;mad, s vele lovagk&eacute;nt megv&iacute;v. A kard 3+1., &ouml;t&ouml;dik szinttől 4+2. szintű, VO-ja 17, sebz&eacute;se 1d10+3. Ezt az ig&eacute;t egyed&uuml;l Magyarf&ouml;ldi Szent Istv&aacute;n &eacute;s Szent L&aacute;szl&oacute; k&ouml;vetői őrzik, &eacute;s csak annak adj&aacute;k ki, aki meg&eacute;rdemelte.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720297591859,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "lALrNcJ7o8umMLGV",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!lALrNcJ7o8umMLGV"
+}

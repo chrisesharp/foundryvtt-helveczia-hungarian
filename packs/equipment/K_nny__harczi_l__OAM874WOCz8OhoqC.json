@@ -1,0 +1,33 @@
+{
+  "folder": "nL1nmgNsew4svgUO",
+  "name": "Könnyű harczi ló",
+  "type": "possession",
+  "_id": "OAM874WOCz8OhoqC",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>3 rakom&aacute;ny (3#)</p>",
+    "cost": {
+      "value": "15",
+      "coin": "th"
+    },
+    "encumbrance": "1"
+  },
+  "effects": [],
+  "sort": 600000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719953445471,
+    "modifiedTime": 1719953519652,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!items!OAM874WOCz8OhoqC"
+}

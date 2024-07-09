@@ -1,0 +1,37 @@
+{
+  "name": "Oltalom a Vadaktól és Másféle Utálatosságoktól",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ER3HMq6AdzRgV93H",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "cleric",
+    "range": "rövid",
+    "duration": "legföllebb egy óra",
+    "area": "vadállatok és más kreaturák",
+    "save": "temptation",
+    "component": "",
+    "description": "<p class=\"p1\">A papra nem t&aacute;madnak re&aacute; az &aacute;llatok, sem a vadon besti&aacute;i, sem pediglen az &ouml;l&eacute;sre idom&iacute;tott kuty&aacute;k, harczi lovak s. a. t. Ezen figyelmess&eacute;g a pap t&aacute;rsaira nem vonatkozik, kiv&eacute;ve, ha a pap m&eacute;g a csetepat&eacute; kezdete előtt előremenv&eacute;n t&iacute;z minut&aacute;ig pr&eacute;dik&aacute;lva csillap&iacute;tja a vadakat. Az oly &aacute;llatok, mellyek boszork&aacute;nyok, var&aacute;zsl&oacute;k vagy egy&eacute;b s&aacute;t&aacute;nfattyak uralma alatt &aacute;llanak, K&iacute;s&eacute;rt&eacute;s mentődob&aacute;sra jogosultak. Ha a pap vagy t&aacute;rsai &aacute;rtan&aacute;nak n&eacute;kik vagy fenyegetn&eacute;k apraikat, az minden esetben megt&ouml;ri a csod&aacute;t. A franczisk&aacute;nus testv&eacute;rek rendh&aacute;zaiban gyakori ige.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720296546587,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "gaCIKqYsNBSIC30N",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!gaCIKqYsNBSIC30N"
+}

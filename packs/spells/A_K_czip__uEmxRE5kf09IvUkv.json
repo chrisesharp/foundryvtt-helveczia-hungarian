@@ -1,0 +1,41 @@
+{
+  "name": "A Kőczipó",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "DklZOXwgGCjyQb5s",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "cleric",
+    "range": "-",
+    "duration": "nagyon sokáig",
+    "area": "-",
+    "save": "-",
+    "component": "",
+    "data": {
+      "level": 2,
+      "class": "cleric"
+    },
+    "description": "<p class=\"p1\">Egy gr&aacute;nitkő czip&oacute;t teremt, de akinek Virtusa magas, az j&oacute;&iacute;zűen megeheti &eacute;s semmif&eacute;le baja nem esik tőle. Hogy mif&eacute;le m&aacute;s haszna lehet, azt nem mondj&aacute;k a bar&aacute;tok, akik az ig&eacute;t őrzik.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720298346783,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "uEmxRE5kf09IvUkv",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!uEmxRE5kf09IvUkv"
+}

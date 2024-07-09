@@ -1,0 +1,41 @@
+{
+  "name": "Méreg Kivonása",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "DklZOXwgGCjyQb5s",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "cleric",
+    "range": "érintés",
+    "duration": "egy hét",
+    "area": "egy czélpontra",
+    "save": "bravery",
+    "component": "",
+    "data": {
+      "level": 2,
+      "class": "cleric"
+    },
+    "description": "<p class=\"p1\">A legk&uuml;l&ouml;nb m&eacute;rgeket is kivonja &eacute;telből, italb&oacute;l, megm&eacute;rgezettekből, de m&eacute;rges n&ouml;v&eacute;nyekből &eacute;s &aacute;llatokb&oacute;l is; ut&aacute;na m&eacute;g a vipera is &aacute;rtalmatlan j&oacute;sz&aacute;gg&aacute; l&eacute;szen (&uacute;.m. harap, de full&aacute;nkj&aacute;val &aacute;rtani nem tud). Ut&oacute;bb felgyűlhet ism&eacute;t, de egy h&eacute;tig biztosan &aacute;rtalom n&eacute;lk&uuml;li. A fennmaradt m&eacute;reggel azt lehet csin&aacute;lni, ami sz&uuml;ks&eacute;ges, hisz&rsquo; sok mediczin&aacute;ban gy&oacute;gy&iacute;rr&eacute; v&aacute;lik az.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720298524254,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "YZLnc8quxbbBO4Cn",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!YZLnc8quxbbBO4Cn"
+}

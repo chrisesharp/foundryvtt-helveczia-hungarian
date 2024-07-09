@@ -1,0 +1,37 @@
+{
+  "name": "Megbánt Szavak",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ER3HMq6AdzRgV93H",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "cleric",
+    "range": "közepes",
+    "duration": "egy hétig",
+    "area": "egy személy",
+    "save": "temptation",
+    "component": "",
+    "description": "<p class=\"p1\">A bűn gondolatban, sz&oacute;ban &eacute;s cselekedetben is bűn: ez az ige pedig a m&aacute;sodik fajt&aacute;ra h&iacute;vja fel a figyelmet, mert aki sz&aacute;j&aacute;val r&uacute;ts&aacute;got, &aacute;lnoks&aacute;got &eacute;s gonoszs&aacute;got mondana, annak ajkain sz&aacute;zl&aacute;buak, pondr&oacute;k &eacute;s pinczebogarak sz&ouml;knek ki. Nincs ellene felment&eacute;s a h&eacute;t leforg&aacute;s&aacute;ig: de h&aacute;t nem is kell cs&uacute;ful besz&eacute;lni.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720296601374,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "eKNt9MvWgUPcGTYU",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!eKNt9MvWgUPcGTYU"
+}

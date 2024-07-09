@@ -1,0 +1,37 @@
+{
+  "name": "Polimorfizmus (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "LUIL15KYrp683hE7",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "student",
+    "range": "rövid",
+    "duration": "míg fel nem oldják",
+    "area": "egy czélpont",
+    "save": "bravery",
+    "component": "Kígyó bőre",
+    "description": "<p class=\"p1\">&Aacute;llati form&aacute;ba bűv&ouml;li, akire hat&aacute;ssal van, de ez az &aacute;llat besz&eacute;lni tud majd, s egy szerelmes cs&oacute;kra vagy m&eacute;g n&eacute;h&aacute;ny hasonl&oacute; praktik&aacute;ra a var&aacute;zs al&oacute;l feloldatik.</p>\n<p class=\"p1\"><strong>Komponense:</strong> K&iacute;gy&oacute; bőre, mit k&eacute;nben &eacute;s sall&eacute;tromban kell kiprepar&aacute;lni.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720282131504,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "4MpefKSyicNhWMg6",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!4MpefKSyicNhWMg6"
+}

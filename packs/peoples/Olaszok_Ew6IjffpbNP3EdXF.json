@@ -1,0 +1,32 @@
+{
+  "name": "Olaszok",
+  "type": "people",
+  "img": "icons/svg/village.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>Ah&aacute;ny v&aacute;roska, annyi kicsiny birodalom &aacute;ll a talj&aacute;nok rendetlen f&ouml;ldj&eacute;n. N&eacute;h&aacute;ny, mint a P&aacute;pai &Aacute;llam, Florenczia &eacute;s Ven&eacute;czia nagyobb erejű &eacute;s befoly&aacute;s&uacute;, &eacute;s minduntalan van valaki, aki szomsz&eacute;djait megh&oacute;d&iacute;tva &uacute;jra a r&eacute;gi r&oacute;maiak nyomdok&aacute;ba l&eacute;pne, ami k&ouml;nnyen j&ouml;n, k&ouml;nnyen is megy: az olaszok sokat nyernek &eacute;s sokat vesztenek, mert tudj&aacute;k, hogy mind Isten &aacute;ld&aacute;s&aacute;t, mind Fortuna javait bős&eacute;gesen m&eacute;rt&eacute;k boldog nemzets&eacute;g&uuml;knek.</p>\n<ul>\n<li>Mint Ő szents&eacute;g&eacute;hez, a R&oacute;mai P&aacute;p&aacute;hoz k&ouml;zel &aacute;ll&oacute; n&eacute;p, minden gy&oacute;n&aacute;s eset&eacute;ben +1-et kapnak a visszakapott Virtushoz.</li>\n<li>Fortuna kegyeltjeik&eacute;nt +1d6 tall&eacute;rral kezdenek, &eacute;s k&eacute;sőbb is j&oacute; sors k&iacute;s&eacute;ri őket a szerencsej&aacute;t&eacute;kokban (+2 a k&eacute;pzetts&eacute;gre).</li>\n<li>&bdquo;Az umbriai szab&aacute;ly&rdquo;: Ha a mes&eacute;lő m&aacute;sk&eacute;nt&nbsp;nem hat&aacute;roz, k&eacute;t olasz mindig 1:6 es&eacute;llyel hal&aacute;los ellens&eacute;gnek sz&aacute;m&iacute;t a sz&uuml;lőv&aacute;rosaik k&ouml;z&ouml;tti h&aacute;bor&uacute;s&aacute;g, valamilyen r&eacute;gi vendetta, vagy p&aacute;rtoskod&aacute;s miatt.</li>\n</ul>",
+    "quantity": null,
+    "weight": null
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829666347,
+    "modifiedTime": 1720161261994,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "Ew6IjffpbNP3EdXF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!Ew6IjffpbNP3EdXF"
+}

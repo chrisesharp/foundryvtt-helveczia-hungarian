@@ -1,0 +1,177 @@
+{
+  "id": "helveczia-magyar-kompendium",
+  "title": "Helvéczia Magyar Kompendium",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "Magyar nyelvű kompendium a Helvéczia rendszerhez.",
+  "packs": [
+    {
+      "name": "panczelok",
+      "label": "Pánczélok",
+      "path": "packs/panczelok",
+      "type": "Item",
+      "system": "helveczia",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "konyvek",
+      "label": "Könyvek",
+      "path": "packs/konyvek",
+      "type": "Item",
+      "system": "helveczia",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "osztalyok",
+      "label": "Osztályok",
+      "path": "packs/osztalyok",
+      "type": "Item",
+      "system": "helveczia",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "mestersegek",
+      "label": "Mesterségek",
+      "path": "packs/mestersegek",
+      "type": "Item",
+      "system": "helveczia",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "cselekedetek",
+      "label": "Cselekedetek",
+      "path": "packs/cselekedetek",
+      "type": "Item",
+      "system": "helveczia",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "felszereles",
+      "label": "Vegyes felszerelés",
+      "path": "packs/felszereles",
+      "type": "Item",
+      "system": "helveczia",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "nepek",
+      "label": "Népek",
+      "path": "packs/nepek",
+      "type": "Item",
+      "system": "helveczia",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tudomanyok",
+      "label": "Tudományok",
+      "path": "packs/tudomanyok",
+      "type": "Item",
+      "system": "helveczia",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "kepzettsegek",
+      "label": "Képzettségek",
+      "path": "packs/kepzettsegek",
+      "type": "Item",
+      "system": "helveczia",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "specializacziok",
+      "label": "Specializácziók",
+      "path": "packs/specializacziok",
+      "type": "Item",
+      "system": "helveczia",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "varazslatok",
+      "label": "Varázslatok",
+      "path": "packs/varazslatok",
+      "type": "Item",
+      "system": "helveczia",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "fegyverek",
+      "label": "Fegyverek",
+      "path": "packs/fegyverek",
+      "type": "Item",
+      "system": "helveczia",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "guritas-tablak",
+      "label": "Gurítás táblák",
+      "path": "packs/guritas-tablak",
+      "type": "RollTable",
+      "system": "helveczia",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "njk-k",
+      "label": "NJK-k",
+      "path": "packs/njk-k",
+      "type": "Actor",
+      "system": "helveczia",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "kartya",
+      "label": "Kártya",
+      "path": "packs/kartya",
+      "type": "Cards",
+      "system": "helveczia",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}

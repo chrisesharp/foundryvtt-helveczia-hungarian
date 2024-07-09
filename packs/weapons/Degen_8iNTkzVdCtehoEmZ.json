@@ -1,0 +1,41 @@
+{
+  "name": "Degen",
+  "type": "weapon",
+  "_id": "8iNTkzVdCtehoEmZ",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": "",
+    "attack": "melee",
+    "damage": "1d6",
+    "critical": {
+      "range": "19",
+      "multiple": "2"
+    },
+    "encumbrance": "1",
+    "bonus": "0",
+    "reload": 0,
+    "cost": {
+      "value": "2",
+      "coin": "th"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 2200000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719867886303,
+    "modifiedTime": 1720032507634,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!items!8iNTkzVdCtehoEmZ"
+}

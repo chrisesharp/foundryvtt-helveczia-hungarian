@@ -1,0 +1,41 @@
+{
+  "name": "Varázsfordítás",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "DklZOXwgGCjyQb5s",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "cleric",
+    "range": "közepes",
+    "duration": "azonnali",
+    "area": "egy varázslat s aki mondja",
+    "save": "deftness",
+    "component": "",
+    "data": {
+      "level": 2,
+      "class": "cleric"
+    },
+    "description": "<p class=\"p1\">Nincs is egyszerűbb ige. Ki az előbb var&aacute;zslatot mondott, arra azt r&ouml;gvest visszak&uuml;ldi, fogyassza eg&eacute;szs&eacute;ggel. Mentődob&aacute;st az&eacute;rt dobhat ellene, de ha m&eacute;gsem teljes&uuml;lt be, az eredeti cz&eacute;lpontokr&oacute;l mindenesetre elh&aacute;rul.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720297185473,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "yIqtFXaTLRbtLTR3",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!yIqtFXaTLRbtLTR3"
+}

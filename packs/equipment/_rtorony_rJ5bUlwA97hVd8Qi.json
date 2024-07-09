@@ -1,0 +1,33 @@
+{
+  "folder": "3LyOQo8arzBzeUYk",
+  "name": "Őrtorony",
+  "type": "possession",
+  "_id": "rJ5bUlwA97hVd8Qi",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "cost": {
+      "value": "50",
+      "coin": "th"
+    },
+    "encumbrance": "1"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719954715769,
+    "modifiedTime": 1719954718088,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!items!rJ5bUlwA97hVd8Qi"
+}

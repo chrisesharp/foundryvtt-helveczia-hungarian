@@ -1,0 +1,33 @@
+{
+  "folder": "3LyOQo8arzBzeUYk",
+  "name": "Kőház",
+  "type": "possession",
+  "_id": "oX7MbASenXaFp1SG",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "cost": {
+      "value": "30",
+      "coin": "th"
+    },
+    "encumbrance": "1"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719954656160,
+    "modifiedTime": 1719954661031,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!items!oX7MbASenXaFp1SG"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Világszép Ludmilla Elhozatala",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "LUIL15KYrp683hE7",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "student",
+    "range": "két szintenként egy napi járóföld",
+    "duration": "-",
+    "area": "egy czélpontra",
+    "save": "deftness",
+    "component": "varázsfüvek",
+    "description": "<p class=\"p1\">Akit ismer, maga el&eacute; hozathatja akarata szerint k&eacute;t szintenk&eacute;nt egy nap j&aacute;r&oacute;f&ouml;ldnyi t&aacute;vols&aacute;gb&oacute;l: &eacute;s f&eacute;l &oacute;r&aacute;n bel&uuml;l itt lesz, ha mentődob&aacute;s&aacute;t meg nem dobja, mert egy szőrrel bor&iacute;tott nagy fekete &aacute;llat legott elragadja &eacute;s a de&aacute;k el&eacute; czipeli. Csak azon műk&ouml;dik, akit m&aacute;r r&eacute;gebb &oacute;ta ismer, s von&aacute;sait pontosan fel tudja id&eacute;zni, &uacute;gyhogy ak&aacute;rkit nem zaklat&eacute;rozhat vele. Vil&aacute;gsz&eacute;p Ludmilla k&eacute;sz&iacute;tette, ki val&oacute;ban gy&ouml;ny&ouml;rű volt, de igen rossz term&eacute;szetű.</p>\n<p class=\"p1\"><strong>Komponense:</strong> var&aacute;zsf&uuml;veket kell főzni egy l&aacute;bosban; az &aacute;llatnak, ha megj&ouml;tt, egy koloncz s&oacute;t kell vetni, k&uuml;l&ouml;nben d&uuml;hre k&eacute;l.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720282616134,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "naLgLB4wlIZ4EakK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!naLgLB4wlIZ4EakK"
+}

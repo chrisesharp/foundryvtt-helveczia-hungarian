@@ -1,0 +1,37 @@
+{
+  "name": "Jerikó Kürtjei",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "UNLAvFf46znK3j0K",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "cleric",
+    "range": "hosszú",
+    "duration": "egynegyed óráig",
+    "area": "hol meghallani",
+    "save": "bravery",
+    "component": "",
+    "description": "<p class=\"p1\">Hatalmas &eacute;s zengő k&uuml;rtsz&oacute; harsan fel, melynek t&ouml;bb hat&aacute;sa ismeretes, &eacute;s &eacute;gi segedelem gyan&aacute;nt az &Uacute;r szolg&aacute;i t&ouml;bb cz&eacute;lb&oacute;l is felhaszn&aacute;lhatj&aacute;k. Ha ellens&eacute;ges hadak, harami&aacute;k, net&aacute;n az &ouml;rd&ouml;g szolg&aacute;i k&ouml;zeledn&eacute;nek, hatalmas harsonasz&oacute; t&aacute;mad, s aki nem el&eacute;g erősek l&eacute;lekben, azok gy&aacute;v&aacute;n megfutamodnak: kinek m&eacute;g Virtusa is alacsony, az f&uuml;l&eacute;t befogni k&eacute;nyszer&uuml;l, s harczra k&eacute;ptelen l&eacute;v&eacute;n menek&uuml;lni is nehezen tud csak. A harson&aacute;k rivall&aacute;sa, mi Jerik&oacute; falait egykor lerontotta, kisebb falakat, omlad&eacute;kokat, ajt&oacute;kat is &aacute;tt&ouml;r, &iacute;gy ha valaki bent rekedne ilyen helyen, biztons&aacute;gban ki tud jutni: de alkalmas arra is, hogy &eacute;p&uuml;leteket megrogyasszon, falaikat a porba rontsa.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720299977323,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "aocOIty93eiZCqnd",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!aocOIty93eiZCqnd"
+}

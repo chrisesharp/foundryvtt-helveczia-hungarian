@@ -1,0 +1,35 @@
+{
+  "name": "Tubákos szelencze, tubák",
+  "type": "possession",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": "VXQRE2M8PihkoxBT",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "",
+    "cost": {
+      "value": "5",
+      "coin": "pf"
+    },
+    "encumbrance": "1"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719828958482,
+    "modifiedTime": 1719954607063,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "K9PNie8pn5DrSSxE",
+  "sort": 5099219,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!K9PNie8pn5DrSSxE"
+}

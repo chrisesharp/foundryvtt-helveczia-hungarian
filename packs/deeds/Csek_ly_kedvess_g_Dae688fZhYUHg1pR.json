@@ -1,0 +1,84 @@
+{
+  "name": "Csekély kedvesség",
+  "type": "deed",
+  "img": "icons/svg/aura.svg",
+  "effects": [
+    {
+      "img": "icons/svg/aura.svg",
+      "origin": "Compendium.helveczia-magyar-kompendium.cselekedetek.Item.Dae688fZhYUHg1pR",
+      "transfer": true,
+      "changes": [
+        {
+          "key": "system.virtue",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "name": "erény",
+      "_id": "ZYzWWVH4w96GABPj",
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": 1719835267643,
+        "modifiedTime": 1719835267643,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!items.effects!Dae688fZhYUHg1pR.ZYzWWVH4w96GABPj"
+    }
+  ],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "",
+    "subtype": "virtue",
+    "magnitude": "1",
+    "cardinality": "3",
+    "type": [
+      "favour",
+      "sin"
+    ],
+    "quantity": null,
+    "weight": null,
+    "value": "1"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719828849207,
+    "modifiedTime": 1719835267605,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "Dae688fZhYUHg1pR",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!Dae688fZhYUHg1pR"
+}

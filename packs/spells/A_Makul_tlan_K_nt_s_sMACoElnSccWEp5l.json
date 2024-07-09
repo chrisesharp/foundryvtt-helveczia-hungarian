@@ -1,0 +1,41 @@
+{
+  "name": "A Makulátlan Köntös",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "DklZOXwgGCjyQb5s",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "cleric",
+    "range": "-",
+    "duration": "félóráig",
+    "area": "önmagára avagy más személyre",
+    "save": "deftness",
+    "component": "",
+    "data": {
+      "level": 2,
+      "class": "cleric"
+    },
+    "description": "<p class=\"p1\"><em>(Mentődob&aacute;s: F&uuml;rges&eacute;g 1/2)</em></p>\n<p class=\"p1\">K&uuml;l&ouml;n&ouml;sen tiszt&aacute;nak &eacute;s koszt&oacute;l mentesnek mutatkozik annak a k&ouml;nt&ouml;se, akire ezt elmondj&aacute;k. Aki pedig rossz sz&aacute;nd&eacute;kb&oacute;l kez&eacute;vel vagy m&aacute;s t&aacute;rggyal illetn&eacute;, &ouml;ssze&eacute;g tőle. A sebz&eacute;se 2d6 Hp &eacute;s m&eacute;g szintenk&eacute;nt 1, de aki sikeres mentődob&aacute;st dob, a fel&eacute;t az is elszenvedi. &Aacute;m lőfegyverek ellen nem j&oacute;.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720297745138,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "sMACoElnSccWEp5l",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!sMACoElnSccWEp5l"
+}

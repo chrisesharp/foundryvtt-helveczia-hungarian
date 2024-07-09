@@ -1,0 +1,37 @@
+{
+  "name": "Az Idősebb Montévol Fekete Fátyla (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ziA7MU7yGTlbURi0",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "student",
+    "range": "-",
+    "duration": "egy óraütés, de fényes helyen hamar elfoszlik",
+    "area": "önmagára mondatik",
+    "save": "-",
+    "component": "egy halotti fátyol",
+    "description": "<p class=\"p1\">Ezzel a f&aacute;tyollal &uacute;gy lehet osonni, mint az &aacute;rny&eacute;k, azonos szintű s 18-as &Uuml;gyess&eacute;gű tolvaj gyan&aacute;nt. Kevesen fogj&aacute;k &eacute;szrevenni, de ő maga megfojthatja ellenfeleit (harczi manőverrel, r&ouml;vid tusa ut&aacute;n: ha nem j&aacute;r sikerrel, a f&aacute;tylat let&eacute;pik s előnye oda).</p>\n<p class=\"p1\"><strong>Komponense:</strong> egy hasadt sz&iacute;vű &ouml;zvegy halotti f&aacute;tyla, mellyet p&oacute;kok por&aacute;val kell &ouml;sszet&ouml;rni, s f&eacute;nytől ment &oacute;lomszelencz&eacute;ben őrizgetni.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720277612354,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "GQd0tbCqfCx3k9e2",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!GQd0tbCqfCx3k9e2"
+}

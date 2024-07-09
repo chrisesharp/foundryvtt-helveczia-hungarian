@@ -1,0 +1,37 @@
+{
+  "name": "Mennyei Szózat",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "UNLAvFf46znK3j0K",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "cleric",
+    "range": "közepes",
+    "duration": "specziális",
+    "area": "aki az éneket meghallja",
+    "save": "temptation",
+    "component": "",
+    "description": "<p class=\"p1\"><em>(Mentődob&aacute;s: speczi&aacute;lis)</em></p>\n<p class=\"p1\">A mennyei szf&eacute;r&aacute;k zen&eacute;j&eacute;t vet&iacute;ti a f&ouml;ldre ez az ige, &aacute;m csak addig, am&iacute;g a pap folyamatosan &eacute;nekel, vagy reczit&aacute;l a Szent&iacute;r&aacute;sb&oacute;l. Magas Virtus&uacute;ak 1d6+szint Hp-t gy&oacute;gyulnak, majd minden k&ouml;rben +2-t kapnak egy v&aacute;lasztott dob&aacute;sukra, m&iacute;g az alacsony Virtus&uacute;akra a hat&aacute;s &eacute;ppen ellent&eacute;tes, &eacute;s m&eacute;g k&ouml;r&ouml;nk&eacute;nt 1d4 Hp-t is sebződnek.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720299903957,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "5IYNDKBW0haKKBj6",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!5IYNDKBW0haKKBj6"
+}

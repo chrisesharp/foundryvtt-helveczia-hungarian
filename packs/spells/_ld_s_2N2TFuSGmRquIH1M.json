@@ -1,0 +1,37 @@
+{
+  "name": "Áldás",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ER3HMq6AdzRgV93H",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "cleric",
+    "range": "rövid",
+    "duration": "igen sokféle",
+    "area": "egy csoport",
+    "save": "-",
+    "component": "",
+    "description": "<p class=\"p1\">Mindenf&eacute;le dologra mondatik &aacute;ld&aacute;s, &uacute;.m. h&aacute;zass&aacute;gra, &uacute;j ist&aacute;ll&oacute;ra, kocsira, v&aacute;s&aacute;rra &eacute;s m&aacute;s okokb&oacute;l. Nem is lehet minden hat&aacute;s&aacute;t felsorolni. De a leggyakoribb m&eacute;gis ha &uacute;ti szerencsek&eacute;nt adj&aacute;k a t&aacute;voz&oacute; gy&uuml;lekezetnek, kik ezut&aacute;n legk&ouml;zelebbi szorult helyzet&uuml;kben +1-et kapnak minden pr&oacute;badob&aacute;sukra. M&aacute;s form&aacute;ja, ha csat&aacute;ban hangzik el, mert ekkor a sebz&eacute;sre is ad +2-t, de ekkor csak a v&eacute;g&eacute;ig tart.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720295111013,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "2N2TFuSGmRquIH1M",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!2N2TFuSGmRquIH1M"
+}

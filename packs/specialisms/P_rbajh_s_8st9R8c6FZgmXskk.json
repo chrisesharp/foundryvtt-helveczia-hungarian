@@ -1,0 +1,76 @@
+{
+  "name": "Párbajhős",
+  "type": "class",
+  "img": "icons/svg/combat.svg",
+  "effects": [
+    {
+      "_id": "J6pL2OyA8npp0K9H",
+      "changes": [
+        {
+          "key": "system.attack.cc.bonus",
+          "mode": 2,
+          "value": "2",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Item.3KN6hLQ73A5StIt7",
+      "transfer": true,
+      "flags": {},
+      "tint": "#ffffff",
+      "name": "Duellist Prowess",
+      "description": "",
+      "statuses": [],
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "img": "icons/svg/aura.svg",
+      "type": "base",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!8st9R8c6FZgmXskk.J6pL2OyA8npp0K9H"
+    }
+  ],
+  "folder": "Ov21n03SbW2TZT8u",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>Kik &eacute;les peng&eacute;vel t&aacute;nczolva bizony&iacute;tj&aacute;k harczi t&aacute;lentumukat, k&ouml;nnyű v&eacute;rtben j&aacute;rulnak a p&aacute;stra.</p>\n<p>Az alap t&aacute;mad&aacute;sb&oacute;nuszuk tetszőleges r&eacute;sz&eacute;t &aacute;tvihetik VO-jukra, hogy jobban megv&eacute;dhess&eacute;k &ouml;nmagukat vagy m&aacute;sokat. Ezt a VO b&oacute;nuszt p&aacute;ros szintenk&eacute;nt egy embernek biztos&iacute;thatj&aacute;k. Ha magasabb, &Uuml;gyess&eacute;g-b&oacute;nuszukat adj&aacute;k hozz&aacute; k&ouml;zelharczi t&aacute;mad&aacute;saikhoz.</p>\n<p>V&eacute;g&uuml;l pedig +2-t kapnak harczi manővereikre.</p>",
+    "specialism": true,
+    "parent": "fighter"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829788934,
+    "modifiedTime": 1720165275696,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "8st9R8c6FZgmXskk",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!8st9R8c6FZgmXskk"
+}

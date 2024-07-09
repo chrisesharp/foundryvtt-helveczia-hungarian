@@ -1,0 +1,78 @@
+{
+  "name": "Pap",
+  "type": "class",
+  "img": "icons/svg/mystery-man.svg",
+  "effects": [
+    {
+      "_id": "812D2z40bm4K8XAi",
+      "changes": [
+        {
+          "key": "system.attack",
+          "mode": 0,
+          "value": "{\"type\":\"attack_bonus\"}",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Item.WnY4nVorWwMKnKlJ",
+      "transfer": true,
+      "flags": {},
+      "tint": "#ffffff",
+      "name": "Attack",
+      "description": "",
+      "statuses": [],
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "img": "icons/svg/aura.svg",
+      "type": "base",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!4mdbmhWkuVqglqLX.812D2z40bm4K8XAi"
+    }
+  ],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>Az Anyaszentegyh&aacute;z szolg&aacute;inak megszabott regul&aacute;k a Virtus szigor&uacute; interpretati&oacute;i, amelyet a kl&eacute;rus, a szerzet vagy az ap&aacute;czarend regul&aacute;i eg&eacute;sz&iacute;tenek ki. Helv&eacute;czia f&ouml;ldj&eacute;n, hab&aacute;r a k&aacute;lomista t&eacute;velygők ig&eacute;i t&ouml;bb kantonban is term&eacute;keny talajra hullottak, Gen&eacute;via k&ouml;zt&aacute;rsas&aacute;g&aacute;t pedig teljes m&eacute;rt&eacute;kben hatalmukba ker&iacute;tett&eacute;k, erős m&eacute;g a hit, &eacute;s tem&eacute;rdek templom, k&aacute;polna &eacute;s kolostor hirdeti az &Uacute;r dicsős&eacute;g&eacute;t. B&aacute;r az igehirdet&eacute;sre a f&eacute;rfinemet rendelte a vall&aacute;s, az ap&aacute;cz&aacute;k szint&uacute;gy r&eacute;szes&uuml;lhetnek a papi hivat&aacute;s kegyelm&eacute;ben.</p>\n<ul>\n<li>T&aacute;mad&aacute;sb&oacute;nusz: Szint*2/3</li>\n<li>Mentődob&aacute;s: B&aacute;tors&aacute;g &eacute;s K&iacute;s&eacute;rt&eacute;s az első, F&uuml;rges&eacute;g a m&aacute;sodik oszlop szerint</li>\n<li>Fegyverhaszn&aacute;lat: csak botokat &eacute;s hus&aacute;ngokat, s csak &ouml;nv&eacute;delemből haszn&aacute;lhatnak</li>\n<li>P&aacute;ncz&eacute;lhaszn&aacute;lat: csak papi &ouml;lt&ouml;z&eacute;kek</li>\n<li>Hp: szintenk&eacute;nt 1d8</li>\n</ul>\n<p>Minden papnak, lett l&eacute;gyen nő vagy f&eacute;rfi, v&aacute;ndor pr&eacute;dik&aacute;tor, esperes avagy remete, be kell tartania a k&ouml;vetkező szab&aacute;lyokat. B&aacute;rmely pont megszeg&eacute;se a rendesn&eacute;l egy ponttal s&uacute;lyosabb bűnk&eacute;nt kezeltetik!</p>\n<ul>\n<li>Cz&ouml;lib&aacute;tus: a testi &eacute;s lelki tisztas&aacute;g legteljesebb megőrz&eacute;se.</li>\n<li>Engedelmess&eacute;g: az egyh&aacute;zi feljebbval&oacute;k tisztelete, parancsolataik k&ouml;vet&eacute;se (ha az hamis vagy &aacute;rtalmas, a pap kib&uacute;jhat al&oacute;luk, de csak form&aacute;lis teljes&iacute;t&eacute;s&uuml;kkel).</li>\n<li>Pax Dei: az &Uacute;r b&eacute;k&eacute;j&eacute;nek megőrz&eacute;se &eacute;s k&eacute;pviselete. A papok csakis botokkal avagy m&aacute;s hus&aacute;ngokkal harczolhatnak, &eacute;s &ndash; hacsak előzetes feloldoz&aacute;st nem kapnak, avagy nem &ouml;rd&ouml;gfattyakkal &eacute;s term&eacute;szet ellen val&oacute; fertelmekkel ker&uuml;lnek &ouml;sszetűz&eacute;sbe &ndash; csakis &ouml;nv&eacute;delemből. Nem &ouml;lhetik meg ellenfeleiket, &eacute;s nem viselhetnek csuh&aacute;jukn&aacute;l nehezebb v&eacute;rtezetet.</li>\n</ul>\n<p>Mint az l&aacute;that&oacute;, a klerikus hivat&aacute;sa neh&eacute;z keny&eacute;r, s se szeri, se sz&aacute;ma a kiugrott nov&iacute;cziusoknak &eacute;s nov&iacute;czi&aacute;knak, vagy az er&eacute;nyekben rest paps&aacute;gnak. Hab&aacute;r a Szent Inkviz&iacute;czi&oacute; t&ouml;rekszik a t&eacute;velygők &eacute;s bűn&ouml;s&ouml;k felkutat&aacute;s&aacute;ra &eacute;s j&oacute; &uacute;tra terel&eacute;s&eacute;re, sz&aacute;muk csek&eacute;ly, kortynyi v&iacute;z a bűn h&aacute;borg&oacute; tenger&eacute;ben.</p>\n<ul>\n<li>Az alacsony Virtus&uacute; papok nem szerezhetnek &uacute;j var&aacute;zslatokat, am&iacute;g gy&oacute;n&aacute;ssal, j&oacute;t&eacute;tem&eacute;nyekkel &eacute;s vezekl&eacute;ssel legal&aacute;bb k&ouml;zepes Virtust nem &eacute;rnek el.</li>\n<li>Vannak olyan meg&aacute;talkodottak is, akik a bűn &eacute;s az &ouml;rd&ouml;ng&ouml;ss&eacute;g &uacute;tj&aacute;ra h&aacute;gnak: ők szabadon &aacute;tv&aacute;lthatnak a de&aacute;kok hivat&aacute;s&aacute;ra, &eacute;s azonos szinten elkezdhetik var&aacute;zslataik tanulm&aacute;nyoz&aacute;s&aacute;t, &aacute;m soha t&ouml;bb&eacute; nem t&eacute;rhetnek vissza az Anyaszentegyh&aacute;z kebel&eacute;re!</li>\n</ul>",
+    "specialism": false,
+    "parent": "cleric",
+    "quantity": null,
+    "weight": null
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829769836,
+    "modifiedTime": 1720163885005,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "4mdbmhWkuVqglqLX",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!4mdbmhWkuVqglqLX"
+}

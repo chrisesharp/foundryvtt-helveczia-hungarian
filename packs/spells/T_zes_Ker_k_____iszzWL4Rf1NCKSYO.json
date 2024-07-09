@@ -1,0 +1,37 @@
+{
+  "name": "Tüzes Kerék (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ziA7MU7yGTlbURi0",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "student",
+    "range": "hosszú",
+    "duration": "szintenként egy kör",
+    "area": "mi a keréknek útjába akad",
+    "save": "deftness",
+    "component": "Egy fazék vagy korsó",
+    "description": "<p class=\"p1\"><em>(Mentődob&aacute;s: F&uuml;rgs&eacute;g 1/2)</em></p>\n<p class=\"p1\">A var&aacute;zslattal alkotott embermagas ker&eacute;k p&ouml;r&ouml;g-forog, s akin &aacute;ltalmegyen, azon l&aacute;ngjaival 3d6 Hp-t sebez, ha előle f&eacute;lre nem ugrik. Minden k&ouml;rben egyf&eacute;le ir&aacute;nyba gur&iacute;that&oacute;, b&aacute;r ennek a p&aacute;ly&aacute;nak &iacute;ve is lehet. Ami szikr&aacute;t sz&eacute;jjelh&aacute;ny, azzal a sz&aacute;raz f&uuml;vet b&iacute;zv&aacute;st felgy&uacute;jtja.</p>\n<p class=\"p1\"><strong>Komponense:</strong> Egy faz&eacute;kb&oacute;l vagy kors&oacute;b&oacute;l kell deton&aacute;czi&oacute;ra alkalmas szerkentyűt fabrik&aacute;lni, azt pedig zs&iacute;rral, enyvvel, lőporral, szegekkel &eacute;s m&aacute;ssal megt&ouml;mni. Ugyan neh&eacute;z (k&eacute;t helyet elfoglal), de ha var&aacute;zslatra nem haszn&aacute;lj&aacute;k fel, t&uuml;zes kors&oacute;nak m&eacute;g bev&aacute;lik (4d6+ Hp, F&uuml;rges&eacute;g 1/2).</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720277389465,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "iszzWL4Rf1NCKSYO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!iszzWL4Rf1NCKSYO"
+}

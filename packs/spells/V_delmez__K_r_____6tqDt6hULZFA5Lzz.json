@@ -1,0 +1,41 @@
+{
+  "name": "Védelmező Kör (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "DklZOXwgGCjyQb5s",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "cleric",
+    "range": "igen rövid",
+    "duration": "kakasszóig",
+    "area": "kamrányi területű kör",
+    "save": "temptation",
+    "component": "",
+    "data": {
+      "level": 2,
+      "class": "cleric"
+    },
+    "description": "<p class=\"p1\"><em>(Mentődob&aacute;s: K&iacute;s&eacute;rt&eacute;s &eacute;s B&aacute;tors&aacute;g)</em></p>\n<p class=\"p1\">Az &ouml;rd&ouml;g &eacute;s m&aacute;s term&eacute;szet ellen val&oacute; kreatur&aacute;k &eacute;s szellemek ellen val&oacute; v&eacute;delem. A k&ouml;rt kr&eacute;t&aacute;val &eacute;s szenteltv&iacute;zzel vonj&aacute;k, egyikkel egyik, m&aacute;sikkal m&aacute;sik ir&aacute;nyba (&eacute;s aki &eacute;rti a var&aacute;zstudom&aacute;nyt, tudja melyikkel merre kell). Vagy kint, vagy bent tartja a cz&eacute;lpontj&aacute;t, mi azon csak akkor f&eacute;rkőzhet &aacute;t, s akkor is csak egy-egy k&ouml;rre, ha egyszerre mindk&eacute;t mentődob&aacute;s&aacute;t megdobja. Ha egyet elv&eacute;t, a k&ouml;r visszaveri; ha kettőt, 2d6 pontot sebez rajta. Ez a var&aacute;zsige ritka m&oacute;don a papok &eacute;s de&aacute;kok előtt is ismert.</p>\n<p class=\"p1\"><strong>Komponense:</strong> ha de&aacute;k mondja, a fentieken fel&uuml;l ez&uuml;stporra is sz&uuml;ks&eacute;ge lesz, mi megfelelő lun&aacute;ris f&aacute;zisban a szf&eacute;r&aacute;k esszenczi&aacute;ival felruh&aacute;ztatik.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720298302125,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "6tqDt6hULZFA5Lzz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!6tqDt6hULZFA5Lzz"
+}

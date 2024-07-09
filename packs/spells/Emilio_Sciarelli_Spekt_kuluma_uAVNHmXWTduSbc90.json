@@ -1,0 +1,37 @@
+{
+  "name": "Emilio Sciarelli Spektákuluma",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "MUygynGYWUAKLwPj",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "student",
+    "range": "-",
+    "duration": "egy napot avagy egy éjszakát tart",
+    "area": "önmagára avagy más személyre",
+    "save": "-",
+    "component": "egy kicserzett kutyabőr",
+    "description": "<p class=\"p1\">Igen sz&eacute;p &eacute;s gazdag ruh&aacute;kba &ouml;lt&ouml;ztet egy szem&eacute;lyt, ki benn&uuml;k j&aacute;rhat &eacute;s kelhet kedve szerint. Az esti harang&uuml;t&eacute;s avagy a kakassz&oacute; v&eacute;get vet a m&oacute;dinak.</p>\n<p class=\"p1\"><strong>Komponense:</strong> egy kicserzett kutyabőr.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720278357229,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "uAVNHmXWTduSbc90",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!uAVNHmXWTduSbc90"
+}

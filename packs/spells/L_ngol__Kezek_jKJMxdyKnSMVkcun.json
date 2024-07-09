@@ -1,0 +1,37 @@
+{
+  "name": "Lángoló Kezek",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "LUIL15KYrp683hE7",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "student",
+    "range": "rövid",
+    "duration": "-",
+    "area": "aki a csóva útjában áll",
+    "save": "deftness",
+    "component": "kén és salétrom",
+    "description": "<p class=\"p1\"><em>(Mentődob&aacute;s: F&uuml;rges&eacute;g 1/2)</em></p>\n<p class=\"p1\">A kezekből kiterjedő tűzcs&oacute;va 3d4 Hp-t sebez &eacute;s m&eacute;g szintenk&eacute;nt 1-et, s mit &eacute;r, b&iacute;zv&aacute;st fel is gy&uacute;jtja.</p>\n<p class=\"p1\"><strong>Komponense:</strong> k&eacute;nből &eacute;s sal&eacute;tromb&oacute;l kell tinctur&aacute;t kikeverni.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720281932744,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "jKJMxdyKnSMVkcun",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!jKJMxdyKnSMVkcun"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Az Ördög Asztrológiája",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "LUIL15KYrp683hE7",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "student",
+    "range": "-",
+    "duration": "míg a jelet ki nem olvassák",
+    "area": "-",
+    "save": "-",
+    "component": "egy asztrológiai térkép",
+    "description": "<p class=\"p1\">&Uacute;tmutat&aacute;st ad egy neh&eacute;z helyzetben vagy megold&aacute;st k&iacute;v&aacute;n&oacute; feladatban, mit sikerre kell vinni. Az &ouml;rd&ouml;g seg&iacute;t kiolvasni a csillagokat (+6 Asztrol&oacute;gia), &eacute;s a szok&aacute;sosn&aacute;l pontosabb &ouml;sszef&uuml;gg&eacute;seket seg&iacute;t megtal&aacute;lni. &Oacute;vakodjon azonban, ki tan&aacute;csait k&ouml;vetn&eacute;: &aacute;rtalom &eacute;s csal&aacute;rds&aacute;g lakik benn&uuml;k.</p>\n<p class=\"p1\"><strong>Komponense:</strong> egy asztrol&oacute;giai t&eacute;rk&eacute;p (5 Th) kell hozz&aacute;, de mint a var&aacute;zst &uacute;jra &eacute;s &uacute;jra felhaszn&aacute;lj&aacute;k, &uacute;gy lesznek a csillagzatok rajta egyre rendetlenebbek, &eacute;s a t&eacute;ved&eacute;s es&eacute;lye egyre magasabb; m&iacute;g azt&aacute;n a szok&aacute;soshoz m&eacute;rten k&eacute;tszeres haszn&aacute;lat ut&aacute;n az eg&eacute;sz l&aacute;ngra lobban s perny&eacute;v&eacute; &eacute;g.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720281706718,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "eDmyb7CtnTtPML2m",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!eDmyb7CtnTtPML2m"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Szent Lőrincz és Szent Flórián Védelmező Keze",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "DklZOXwgGCjyQb5s",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "cleric",
+    "range": "-",
+    "duration": "negyedóra",
+    "area": "a pap maga, és akit magával czipel",
+    "save": "-",
+    "component": "",
+    "data": {
+      "level": 2,
+      "class": "cleric"
+    },
+    "description": "<p class=\"p1\">A papot nem &eacute;geti a tűz, nem fojtogatja a f&uuml;st; sőt, ha egy l&aacute;ngol&oacute; &eacute;p&uuml;letben re&aacute; dőlne egy gerenda vagy hasonl&oacute;, azt &uacute;gy l&ouml;kheti f&eacute;lre, mintha 18-as Ereje volna. Ez csak a norm&aacute;lis t&uuml;zekre vonatkozik, bele&eacute;rtve az olyanokat is, amiket k&ouml;z&ouml;ns&eacute;ges olajjal gy&uacute;jtottak. Az alkimist&aacute;k szerei, a szalamandra, a legend&aacute;s s&aacute;rk&aacute;nyok &eacute;s a Pokol egy&eacute;b t&uuml;zei ellen kev&eacute;sb&eacute; hat&aacute;sos, b&aacute;r a sebz&eacute;st &iacute;gy is felezi.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720297661103,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "MI3HoohYS7TFfJ0Q",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!MI3HoohYS7TFfJ0Q"
+}

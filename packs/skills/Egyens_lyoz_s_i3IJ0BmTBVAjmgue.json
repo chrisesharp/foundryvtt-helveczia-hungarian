@@ -1,0 +1,33 @@
+{
+  "name": "Egyensúlyozás",
+  "type": "skill",
+  "img": "icons/svg/temple.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>Omlatag talajon, kifesz&iacute;tett p&aacute;nyv&aacute;n avagy keskeny p&aacute;rk&aacute;nyon val&oacute; &aacute;tjut&aacute;shoz sz&uuml;ks&eacute;ges k&eacute;pzetts&eacute;g.</p>",
+    "ability": "dex",
+    "subtype": "practical",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829583790,
+    "modifiedTime": 1720132970676,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "i3IJ0BmTBVAjmgue",
+  "sort": 2300000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!i3IJ0BmTBVAjmgue"
+}

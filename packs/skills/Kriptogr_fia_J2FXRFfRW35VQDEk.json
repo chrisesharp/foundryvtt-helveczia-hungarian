@@ -1,0 +1,33 @@
+{
+  "name": "Kriptográfia",
+  "type": "skill",
+  "img": "icons/svg/coins.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>A k&eacute;pzetts&eacute;ggel a karakter el tud olvasni m&aacute;s nyelven &iacute;rt &iacute;r&aacute;sokat &eacute;s feliratokat, k&uuml;l&ouml;n&ouml;sk&eacute;ppen az okkult &eacute;s titkos script&uacute;r&aacute;kat. Tov&aacute;bbi haszna, mit csak Vagabundok haszn&aacute;lhatnak, a &bdquo;koldusjelek&rdquo; (Gaunerzinken) felismer&eacute;se. Ezeket a rejtett jelz&eacute;seket csavarg&oacute;k &eacute;s utaz&oacute;k hagyj&aacute;k h&aacute;tra tan&aacute;csk&eacute;nt avagy figyelmeztet&eacute;s&uuml;l &ndash; pl. vesz&eacute;lyre, bőkezű h&aacute;zigazd&aacute;ra, biztons&aacute;gos&nbsp; pihenőre h&iacute;vv&aacute;n fel a figyelmet. A cziviliz&aacute;lt helyeken 1:2, a f&eacute;lig cziviliz&aacute;ltakon 1:3, a vadonban pedig csak 1:6 es&eacute;llyel vannak ilyen jelek. A karakternek egy nagyobb ter&uuml;leten akt&iacute;van kell keresnie a jeleket, hogy re&aacute;juk tal&aacute;lhasson.</p>",
+    "ability": "int",
+    "subtype": "vagabond",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829583790,
+    "modifiedTime": 1720132970676,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "J2FXRFfRW35VQDEk",
+  "sort": 1200000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!J2FXRFfRW35VQDEk"
+}

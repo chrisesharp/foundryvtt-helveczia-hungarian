@@ -1,0 +1,30 @@
+{
+  "name": "Kozákok",
+  "type": "people",
+  "img": "icons/svg/village.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>T&aacute;voli s&iacute;ks&aacute;gok lak&oacute;i, kik egyar&aacute;nt harczolnak t&ouml;r&ouml;kkel&ndash;tat&aacute;rral, s n&eacute;ha Helv&eacute;czi&aacute;ig is elkalandoznak. Itt azt&aacute;n alaposan el&aacute;multatnak mindenkit isz&aacute;koss&aacute;gukkal &eacute;s mulatoz&aacute;sukkal; de az is igaz, ikonokra festett szentjeiket is ilyen h&eacute;vvel tisztelik.</p>\n<ul>\n<li>Egy palaczk erős italt felhajtva a jelenet v&eacute;g&eacute;ig +2-t kapnak B&aacute;tors&aacute;gukra; &eacute;s +3-at, ha az ital samp&aacute;nyi bor vagy vodka; de t&ouml;bb&nbsp; palaczkn&aacute;l m&aacute;r -2 j&aacute;r t&aacute;mad&aacute;saikra &eacute;s &Uuml;gyess&eacute;g-alap&uacute; dob&aacute;saikra.</li>\n<li>Kalandok k&ouml;z&ouml;tt megpihenve mindig k&eacute;tszer dobnak &bdquo;A rests&eacute;g &aacute;ra&rdquo; t&aacute;bl&aacute;zaton (XVI. fejezet), s mind&eacute;g a magasabb vakmerős&eacute;get mutat&oacute; eredm&eacute;nyt kell v&aacute;lasztaniuk.</li>\n</ul>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829666347,
+    "modifiedTime": 1720160527140,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "C3FkMy3KJwYmtPJV",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!C3FkMy3KJwYmtPJV"
+}

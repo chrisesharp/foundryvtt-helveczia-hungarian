@@ -1,0 +1,37 @@
+{
+  "name": "Kölcsön Kenyér Visszajár",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "UNLAvFf46znK3j0K",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "cleric",
+    "range": "hosszú",
+    "duration": "míg kell",
+    "area": "egy személyre",
+    "save": "-",
+    "component": "",
+    "description": "<p class=\"p1\">A megfontolt tett k&ouml;vetkezm&eacute;nyeit kamatostul visszaadja kitervelőj&eacute;nek: ak&aacute;r a j&oacute;t, ak&aacute;r a rosszat. Ezt a figyelmeztet&eacute;st hordozza a pap ig&eacute;je, mit a Gondvisel&eacute;s kif&uuml;rk&eacute;szhetetlen akarata val&oacute;ra is v&aacute;lt. A leczke j&ouml;het k&ouml;zeli vagy t&aacute;voli cselekedetre; hirtelen tettre &eacute;s fondorlatos tervre is; de ha kim&eacute;retik, akkor gyorsan jő &eacute;s mindenki bel&aacute;tja tanuls&aacute;g&aacute;t. Aki &eacute;rti a var&aacute;zslat l&eacute;nyeg&eacute;t, azon nem fog, mert gondolatai m&aacute;r nem őszint&eacute;k; s jaj annak, aki azt a maga vagy t&aacute;rsai haszn&aacute;ra pr&oacute;b&aacute;ln&aacute; haszn&aacute;lni!</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720300621556,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "JoTgwTVFjQjwzJo7",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!JoTgwTVFjQjwzJo7"
+}

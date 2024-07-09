@@ -1,0 +1,37 @@
+{
+  "name": "Dr. Faustus Izzó Vetése",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "LUIL15KYrp683hE7",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "student",
+    "range": "rövid",
+    "duration": "szintenként egy kör",
+    "area": "több czélra is",
+    "save": "deftness",
+    "component": "borostyánkő magvak",
+    "description": "<p class=\"p1\"><em>(Mentődob&aacute;s: F&uuml;rges&eacute;g 1/2)</em></p>\n<p class=\"p1\">Mint f&ouml;ldm&iacute;ves a magot, &uacute;gy sz&oacute;rja a zsar&aacute;tnokot, melyből ahol lehet, r&ouml;gvest tűz k&eacute;l. Akinek parazsat vetnek a l&aacute;ba el&eacute;, 2d4 Hp-t avagy mentő eset&eacute;n fel&eacute;t vesz&iacute;ti, de ekkor el kell hely&eacute;ről ugornia.</p>\n<p class=\"p1\"><strong>Komponense:</strong> borosty&aacute;nkő magvak kellenek hozz&aacute;.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720281836655,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "S8IBGXLhtDq5Va7s",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!S8IBGXLhtDq5Va7s"
+}

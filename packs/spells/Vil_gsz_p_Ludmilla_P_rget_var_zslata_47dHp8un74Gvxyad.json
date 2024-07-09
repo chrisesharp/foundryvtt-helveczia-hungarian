@@ -1,0 +1,37 @@
+{
+  "name": "Világszép Ludmilla Pörgetővarázslata",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "MUygynGYWUAKLwPj",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "student",
+    "range": "rövid",
+    "duration": "három körig",
+    "area": "egy czélpontra",
+    "save": "deftness",
+    "component": "egy 5 ezüstpfenniges",
+    "description": "<p class=\"p1\">Derekasan megp&ouml;rgeti, akire mondj&aacute;k, &uacute;gyhogy csak a harmadik k&ouml;rre &aacute;ll meg, ha mentődob&aacute;s&aacute;t elv&eacute;ti, s p&eacute;nze-t&aacute;rgya szanasz&eacute;t sz&oacute;r&oacute;dik. Am&iacute;g p&ouml;r&ouml;g, +4 j&aacute;r a VO-j&aacute;ra &eacute;s +2 F&uuml;rges&eacute;g mentődob&aacute;saira, &uacute;gyhogy van csek&eacute;ly előnye is. Vil&aacute;gsz&eacute;p Ludmilla azokon alkalmazta, akik t&aacute;nczba k&eacute;rt&eacute;k, de tisztes polg&aacute;rok kifoszt&aacute;s&aacute;ra vagy rossz kedv&eacute;ben megleczk&eacute;ztet&eacute;s&eacute;re is.</p>\n<p class=\"p1\"><strong>Komponense:</strong> igen egyszerűen egy 5 ez&uuml;stpfennigest kell ujjhegyen megp&ouml;rd&iacute;teni, mi azt&aacute;n haszn&aacute;lat ut&aacute;n eltűnik.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720281256229,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "47dHp8un74Gvxyad",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!47dHp8un74Gvxyad"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Asztrológia",
+  "type": "skill",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>A karakter a k&eacute;pzetts&eacute;ggel egyr&eacute;szt k&eacute;pes meghat&aacute;rozni a csapat hozz&aacute;vetőleges poz&iacute;czi&oacute;j&aacute;t a t&eacute;rk&eacute;pen (hex szerint), m&aacute;sr&eacute;szt egyszerűbb j&oacute;slatokat k&eacute;sz&iacute;thet a kiv&aacute;lasztottak csillagjegyei alapj&aacute;n. Mindehhez a munk&aacute;hoz a csillagos &eacute;gbolt mellett egy kalend&aacute;riom is sz&uuml;ks&eacute;ges.</p>",
+    "ability": "wis",
+    "subtype": "magical",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829583790,
+    "modifiedTime": 1720132970676,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "V0RFU894YLLfZFn9",
+  "sort": 1900000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!V0RFU894YLLfZFn9"
+}

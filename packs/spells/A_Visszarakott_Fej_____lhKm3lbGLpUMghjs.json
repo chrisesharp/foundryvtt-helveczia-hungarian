@@ -1,0 +1,37 @@
+{
+  "name": "A Visszarakott Fej (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ziA7MU7yGTlbURi0",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "student",
+    "range": "érintés",
+    "duration": "legalább egy éjszaka",
+    "area": "más személyre",
+    "save": "bravery",
+    "component": "liliom",
+    "description": "<p class=\"p1\">Ez arra hat, akinek h&oacute;h&eacute;r v&aacute;gta le a fej&eacute;t. Mikor eltemett&eacute;k, akkor elő lehet &aacute;sni &eacute;s a főt visszaforrasztani. Egy &eacute;jszak&aacute;ig biztosan &eacute;l az ember, de kakassz&oacute;kor B&aacute;tors&aacute;g mentődob&aacute;st kell dobnia, vagy feje &uacute;jra leesik, &eacute;s most m&aacute;r t&ouml;bbet nem rakhat&oacute; a hely&eacute;re. M&aacute;s h&aacute;tul&uuml;tői is lehetnek a var&aacute;zslatnak.</p>\n<p class=\"p1\"><strong>Komponense:</strong> liliomb&oacute;l kell esszenczi&aacute;t desztill&aacute;lni, &eacute;s vele kiv&eacute;gz&eacute;s előtt a h&oacute;h&eacute;r eszk&ouml;z&eacute;t, majd k&eacute;sőbb a nyakat megkenni.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720276360101,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "lhKm3lbGLpUMghjs",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!lhKm3lbGLpUMghjs"
+}

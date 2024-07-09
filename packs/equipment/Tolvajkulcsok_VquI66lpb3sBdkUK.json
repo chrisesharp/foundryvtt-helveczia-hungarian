@@ -1,0 +1,33 @@
+{
+  "folder": "jb0VFQ7c5oEmR7GQ",
+  "name": "Tolvajkulcsok",
+  "type": "possession",
+  "_id": "VquI66lpb3sBdkUK",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "cost": {
+      "value": "3",
+      "coin": "th"
+    },
+    "encumbrance": "1"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719954887240,
+    "modifiedTime": 1719954889022,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!items!VquI66lpb3sBdkUK"
+}

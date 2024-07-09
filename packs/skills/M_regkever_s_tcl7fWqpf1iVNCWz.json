@@ -1,0 +1,33 @@
+{
+  "name": "Méregkeverés",
+  "type": "skill",
+  "img": "icons/svg/coins.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>A megfelelő instrumentumok &eacute;s anyagok birtok&aacute;ban k&uuml;l&ouml;nf&eacute;le hat&aacute;sos m&eacute;rgek k&eacute;sz&iacute;thetők. Sikertelen pr&oacute;badob&aacute;s eset&eacute;n a kever&eacute;k &eacute;rt&eacute;ktelen, vagy a m&eacute;regkeverő vesz&eacute;lybe sodorja &ouml;nmag&aacute;t.</p>",
+    "ability": "int",
+    "subtype": "vagabond",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829583790,
+    "modifiedTime": 1720132970676,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "tcl7fWqpf1iVNCWz",
+  "sort": 2600000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!tcl7fWqpf1iVNCWz"
+}

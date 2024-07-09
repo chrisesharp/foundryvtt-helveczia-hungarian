@@ -1,0 +1,41 @@
+{
+  "name": "Védelem a Nyilaktól és Hasonlóktól",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "DklZOXwgGCjyQb5s",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "cleric",
+    "range": "-",
+    "duration": "félóráig",
+    "area": "önmaga körül",
+    "save": "-",
+    "component": "",
+    "data": {
+      "level": 2,
+      "class": "cleric"
+    },
+    "description": "<p class=\"p1\">Az a f&eacute;nylő bura, ami a j&oacute;raval&oacute; lelkeket k&ouml;r&uuml;l&ouml;leli, felfogja a nyilakat, gol&oacute;bisokat &eacute;s hajig&aacute;lt k&ouml;veket, b&aacute;r ami enn&eacute;l k&uuml;l&ouml;nb, &uacute;.m. &aacute;gy&uacute;goly&oacute;, var&aacute;zslatos l&ouml;ved&eacute;k vagy gr&aacute;n&aacute;t, annak csak az erej&eacute;t cs&ouml;kkenti szintenk&eacute;nt egy ponttal (t&aacute;mad&aacute;s &eacute;s sebz&eacute;s).</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720298180011,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "7qaX7hTTRM9YwRPR",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!7qaX7hTTRM9YwRPR"
+}

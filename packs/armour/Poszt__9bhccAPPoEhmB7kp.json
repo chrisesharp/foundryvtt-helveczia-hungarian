@@ -1,0 +1,35 @@
+{
+  "name": "Posztó",
+  "type": "armour",
+  "_id": "9bhccAPPoEhmB7kp",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": "",
+    "bonus": 1,
+    "encumbrance": 1,
+    "shield": false,
+    "cost": {
+      "value": "3",
+      "coin": "pf"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1720164773277,
+    "modifiedTime": 1720164780341,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!items!9bhccAPPoEhmB7kp"
+}

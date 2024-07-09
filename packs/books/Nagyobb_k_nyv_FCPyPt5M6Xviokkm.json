@@ -1,0 +1,36 @@
+{
+  "name": "Nagyobb könyv",
+  "type": "book",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "",
+    "cost": {
+      "value": "3",
+      "coin": "th"
+    },
+    "encumbrance": "1",
+    "spells": []
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719829616044,
+    "modifiedTime": 1719912205831,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "FCPyPt5M6Xviokkm",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!FCPyPt5M6Xviokkm"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Ostor",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<ul>\n<li>\n<p>+2 Harczi Manőverekre (HM)</p>\n</li>\n<li>\n<p>K&aacute;b&iacute;t&oacute; sebz&eacute;st okoz</p>\n</li>\n<li>auto absolvo</li>\n</ul>",
+    "attack": "melee",
+    "damage": "1d3",
+    "critical": {
+      "range": "20",
+      "multiple": "2"
+    },
+    "encumbrance": "1",
+    "bonus": "0",
+    "reload": 0,
+    "cost": {
+      "value": "5",
+      "coin": "pf"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719828918413,
+    "modifiedTime": 1720032507634,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "folder": null,
+  "_id": "PcoWQ6kYUzF19vXD",
+  "sort": 3200000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!PcoWQ6kYUzF19vXD"
+}

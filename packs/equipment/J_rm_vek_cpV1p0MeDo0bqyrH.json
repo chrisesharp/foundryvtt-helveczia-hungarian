@@ -1,0 +1,22 @@
+{
+  "name": "Járművek",
+  "sorting": "m",
+  "folder": null,
+  "type": "Item",
+  "_id": "cpV1p0MeDo0bqyrH",
+  "description": "",
+  "sort": -3125,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719918586009,
+    "modifiedTime": 1719953676689,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!folders!cpV1p0MeDo0bqyrH"
+}

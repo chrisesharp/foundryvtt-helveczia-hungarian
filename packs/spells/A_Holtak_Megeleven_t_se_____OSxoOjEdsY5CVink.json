@@ -1,0 +1,37 @@
+{
+  "name": "A Holtak Megelevenítése (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ziA7MU7yGTlbURi0",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "student",
+    "range": "rövid",
+    "duration": "negyedóra",
+    "area": "one group",
+    "save": "-",
+    "component": "embercsont furulya",
+    "description": "<p class=\"p1\">Csak azokat hozza vissza holtaikb&oacute;l, akik szenteletlen f&ouml;ldben nyugosznak, &eacute;s utols&oacute; kenetben nem r&eacute;szes&uuml;ltek. Ők viszont ki fogj&aacute;k magukat &aacute;sni a hantok al&oacute;l, &eacute;s mint 1. szintű csontv&aacute;zak vagy 2+1. szintű holttetemek szolg&aacute;lj&aacute;k h&iacute;v&oacute;jukat, k&eacute;tannyian mint annak a szintje. T&ouml;bbsz&ouml;r is el lehet mondani, de ha a temetetlen holtak egyhely&uuml;tt sokan &ouml;sszegyűlnek, nagyon gonosz akarat &eacute;ledhet fel benn&uuml;k.</p>\n<p class=\"p1\"><strong>Komponense:</strong> embercsontb&oacute;l kell egy sz&eacute;p furuly&aacute;t faragni &eacute;s halotti &aacute;br&aacute;kkal kiczifr&aacute;zni.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720277564837,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "OSxoOjEdsY5CVink",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!OSxoOjEdsY5CVink"
+}

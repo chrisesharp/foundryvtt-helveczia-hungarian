@@ -1,0 +1,37 @@
+{
+  "name": "Fegyverfordító",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ER3HMq6AdzRgV93H",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "cleric",
+    "range": "közepes",
+    "duration": "szintenként egy kör",
+    "area": "egy csoport fegyverei",
+    "save": "deftness",
+    "component": "",
+    "description": "<p class=\"p1\">B&eacute;kebont&oacute;k ellen k&uuml;l&ouml;n&ouml;sen hasznos ez a var&aacute;zslat, mert egy sz&oacute;val a t&aacute;mad&oacute; sz&aacute;nd&eacute;k&uacute;ak ellen ford&iacute;tja fegyvereiket. Amikor azok t&aacute;mad&aacute;sra dobn&aacute;nak, egy&uacute;ttal F&uuml;rges&eacute;g&uuml;kre is kell: ha elv&eacute;tik, &ouml;nmagukra s&uacute;jtanak.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720297027577,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "a7Ib4M96OdslddDP",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!a7Ib4M96OdslddDP"
+}

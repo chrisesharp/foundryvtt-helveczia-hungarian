@@ -1,0 +1,33 @@
+{
+  "folder": "scVRL431SfWRT8Kg",
+  "name": "Átlagos szállás",
+  "type": "possession",
+  "_id": "hRWT5tIZbWnAMyEx",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "cost": {
+      "value": "1",
+      "coin": "pf"
+    },
+    "encumbrance": "1"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719952983815,
+    "modifiedTime": 1719952989914,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!items!hRWT5tIZbWnAMyEx"
+}

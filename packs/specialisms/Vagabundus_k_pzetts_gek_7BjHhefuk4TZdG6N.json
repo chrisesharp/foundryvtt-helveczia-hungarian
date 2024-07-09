@@ -1,0 +1,32 @@
+{
+  "name": "Vagabundus képzettségek",
+  "type": "class",
+  "img": "icons/svg/coins.svg",
+  "effects": [],
+  "folder": "SsAP5eF6CyQzPsPM",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>A karakter kiv&aacute;laszthat n&eacute;gy tetszőleges k&eacute;pzetts&eacute;get, amelyek seg&iacute;tik a rejtőzk&ouml;d&eacute;sben, a meggazdagod&aacute;sban, a j&oacute;l őrz&ouml;tt &eacute;rt&eacute;kek eltulajdon&iacute;t&aacute;s&aacute;ban &eacute;s hasonl&oacute; feladatokban.</p>\n<p>Tudom&aacute;ny ezek k&ouml;z&ouml;tt nem v&aacute;laszthat&oacute;.</p>",
+    "specialism": true,
+    "parent": "vagabond"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829788934,
+    "modifiedTime": 1720165904069,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "7BjHhefuk4TZdG6N",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!7BjHhefuk4TZdG6N"
+}

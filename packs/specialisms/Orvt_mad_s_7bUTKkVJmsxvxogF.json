@@ -1,0 +1,32 @@
+{
+  "name": "Orvtámadás",
+  "type": "class",
+  "img": "icons/svg/coins.svg",
+  "effects": [],
+  "folder": "SsAP5eF6CyQzPsPM",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>Az orvt&aacute;mad&aacute;s akkor haszn&aacute;lhat&oacute;, ha a karakter meglepi &aacute;ldozat&aacute;t, teh&aacute;t pl. cs&ouml;ndesen a h&aacute;t&aacute;ba ker&uuml;l, vagy besz&eacute;lget&eacute;s k&ouml;zben tőrt r&aacute;nt &eacute;s egyetlen mozdulattal gyomron sz&uacute;rja.</p>\n<p>Az orvt&aacute;mad&aacute;s minden p&aacute;ratlan szint&eacute;rt 1d6 b&oacute;nusz sebz&eacute;st okoz (maximuma +3d6).</p>\n<p>Dob&oacute;- &eacute;s lőfegyverrel is haszn&aacute;lhat&oacute;, &eacute;s ha a karakter &uacute;gy d&ouml;nt, illetve a haszn&aacute;lt fegyver lehetőv&eacute; teszi, az ellenf&eacute;l elk&aacute;b&iacute;t&aacute;s&aacute;ra is alkalmazhat&oacute;.</p>",
+    "specialism": true,
+    "parent": "vagabond"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829788934,
+    "modifiedTime": 1720165850384,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "7bUTKkVJmsxvxogF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!7bUTKkVJmsxvxogF"
+}

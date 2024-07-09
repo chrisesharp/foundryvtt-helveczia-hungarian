@@ -1,0 +1,37 @@
+{
+  "name": "A Bűn Megnyilvánulása",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ER3HMq6AdzRgV93H",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "cleric",
+    "range": "közepes",
+    "duration": "egy minuta",
+    "area": "egy csoport",
+    "save": "temptation",
+    "component": "",
+    "description": "<p class=\"p1\">Egy f&eacute;nylő alakot jelen&iacute;t meg, ki r&aacute;n&eacute;zőiben megtestes&iacute;ti bűneiket &eacute;s annak minden t&uacute;lvil&aacute;gi b&uuml;ntet&eacute;s&eacute;t. Ez a czudar l&aacute;tv&aacute;ny el&eacute;g ahhoz, hogy a gy&aacute;v&aacute;bb haramia szertefusson, vagy sz&aacute;nd&eacute;kaiban pillanatnyira elbizonytalanodj&eacute;k. Ami fontos, hogy e jelen&eacute;stől &eacute;jszaka jobban f&eacute;lnek, mert nappal a bűn kev&eacute;sb&eacute; k&iacute;s&eacute;rteties: +2 j&aacute;r a mentődob&aacute;sra. Magas Virtus&uacute;akra nem hat&aacute;sos, mert akik a bűnt elker&uuml;lik, nem kell f&eacute;lni&uuml;k a bűnhőd&eacute;stől sem.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720296395115,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "GJEqeVDpMgFepfiK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!GJEqeVDpMgFepfiK"
+}

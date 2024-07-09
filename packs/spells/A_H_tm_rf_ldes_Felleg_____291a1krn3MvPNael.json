@@ -1,0 +1,37 @@
+{
+  "name": "A Hétmérföldes Felleg (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ziA7MU7yGTlbURi0",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "student",
+    "range": "hosszú",
+    "duration": "fél óráig",
+    "area": "önmaga körül",
+    "save": "-",
+    "component": "üveghenger",
+    "description": "<p class=\"p1\">Csak &uacute;ttalan utakon &eacute;s a lakott v&ouml;lgyektől t&aacute;vol lehet felhaszn&aacute;lni ezt a var&aacute;zslatot, mi&aacute;ltal a magasb&oacute;l leereszkedő felhő a k&ouml;rny&eacute;ket k&ouml;dbe bor&iacute;tja, &eacute;s kik e k&ouml;dbe lovon vagy gyalogosan bel&eacute;pnek, m&aacute;s f&ouml;ldeken fognak belőle előkeveredni. Hov&aacute; viszi a k&ouml;d a rajta &aacute;tkelőket, az sokat f&uuml;gg a plan&eacute;t&aacute;k &aacute;ll&aacute;s&aacute;t&oacute;l &eacute;s m&aacute;s jelektől, miket a k&eacute;pzett asztrol&oacute;gus kiolvashat (Neh&eacute;z Asztrol&oacute;gia), de olykor olyan vid&eacute;kekre keverednek az utaz&oacute;k, amelyek sem a t&eacute;rk&eacute;peken, sem a kr&oacute;nik&aacute;s k&ouml;nyvekben meg&iacute;rva nincsenek.</p>\n<p class=\"p1\"><strong>Komponense:</strong> Phosphor esszenczi&aacute;j&aacute;val kell egy &uuml;veghengert megt&ouml;lteni, &eacute;s azt egy delejes r&uacute;ddal egy&uuml;tt a felhő kommand&iacute;roz&aacute;s&aacute;ra felhaszn&aacute;lni.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720277015638,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "291a1krn3MvPNael",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!291a1krn3MvPNael"
+}

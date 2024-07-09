@@ -1,0 +1,37 @@
+{
+  "name": "Az Elfáradt Por",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "UNLAvFf46znK3j0K",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "cleric",
+    "range": "közepes",
+    "duration": "azonnal hat",
+    "area": "önmaga elé s környül",
+    "save": "bravery",
+    "component": "",
+    "description": "<p class=\"p1\">Mindennek, mi porb&oacute;l v&eacute;tetett, s idej&eacute;n j&oacute;csk&aacute;n t&uacute;l van, azonm&oacute;d mentődob&aacute;st kell dobnia avagy legott porr&aacute; omlik. Nagyon hasznos &eacute;lőhalottak ellen, de az erősebbekre nem mindig hat&aacute;sos, mert egyik-m&aacute;sik dolga m&eacute;g elv&eacute;gzetlen maradt.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720300867764,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "33n3sx1QgayoCGqR",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!33n3sx1QgayoCGqR"
+}

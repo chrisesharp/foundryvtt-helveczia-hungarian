@@ -1,0 +1,33 @@
+{
+  "name": "Orvoslás",
+  "type": "skill",
+  "img": "icons/svg/temple.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>A sebek bek&ouml;t&ouml;z&eacute;s&eacute;nek, m&eacute;rgek &eacute;s betegs&eacute;gek semleges&iacute;t&eacute;s&eacute;nek vagy enyh&iacute;t&eacute;s&eacute;nek tudom&aacute;nya. Tusa vagy m&aacute;s s&eacute;r&uuml;l&eacute;s ut&aacute;n alkalmazva a bek&ouml;t&ouml;z&ouml;tt karakter siker eset&eacute;n visszanyer 1d4 elvesztett Hp-t, Neh&eacute;z pr&oacute;ba megdob&aacute;sa eset&eacute;n 1d4+2-t, Hősies eset&eacute;n pedig 1d4+4-et. 1-es dob&aacute;son 1d4 pontot vesz&iacute;t. Ezt &bdquo;Cserei-m&oacute;dszernek&rdquo; is nevezik a jeles erd&eacute;lyi v&aacute;ndorleg&eacute;ny, Cserei Farkas ut&aacute;n, ki &iacute;gy t&aacute;rsai k&ouml;z&uuml;l t&ouml;bbeket a t&uacute;lvil&aacute;gra &aacute;tseg&iacute;tett.</p>",
+    "ability": "wis",
+    "subtype": "practical",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829583790,
+    "modifiedTime": 1720132970676,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "KOEuLCVzZILLXx0a",
+  "sort": 1300000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!KOEuLCVzZILLXx0a"
+}

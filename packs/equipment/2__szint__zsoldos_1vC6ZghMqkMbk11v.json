@@ -1,0 +1,33 @@
+{
+  "folder": "oGr17cYoLm3lXBP0",
+  "name": "2. szintű zsoldos",
+  "type": "possession",
+  "_id": "1vC6ZghMqkMbk11v",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "cost": {
+      "value": "3",
+      "coin": "th"
+    },
+    "encumbrance": "1"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719953141152,
+    "modifiedTime": 1719953142974,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!items!1vC6ZghMqkMbk11v"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Állatidomítás",
+  "type": "skill",
+  "img": "icons/svg/temple.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>Vadak megszel&iacute;d&iacute;t&eacute;s&eacute;re &eacute;s betan&iacute;t&aacute;s&aacute;ra szolg&aacute;l. A j&aacute;ratos karakter pr&oacute;b&aacute;t tehet arra is, hogy a k&uuml;l&ouml;nf&eacute;le besti&aacute;k ne tekints&eacute;k ellens&eacute;g&uuml;knek vagy pr&eacute;d&aacute;juknak.</p>",
+    "ability": "cha",
+    "subtype": "practical",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829583790,
+    "modifiedTime": 1720132970676,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "7c6YEXEaR9hZa0Mk",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!7c6YEXEaR9hZa0Mk"
+}

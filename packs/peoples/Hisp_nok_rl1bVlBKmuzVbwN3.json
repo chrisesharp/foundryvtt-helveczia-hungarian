@@ -1,0 +1,80 @@
+{
+  "name": "Hispánok",
+  "type": "people",
+  "img": "icons/svg/village.svg",
+  "effects": [
+    {
+      "_id": "T4KYQJpILcaeXtpT",
+      "changes": [
+        {
+          "key": "system.saves.bravery.bonus",
+          "mode": 2,
+          "value": "2",
+          "priority": null
+        },
+        {
+          "key": "system.saves.temptation.bonus",
+          "mode": 2,
+          "value": "2",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Item.I0N4E7oWU1qJRoWw",
+      "transfer": true,
+      "flags": {},
+      "tint": "#ffffff",
+      "name": "Spaniard",
+      "description": "",
+      "statuses": [],
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "img": "icons/svg/aura.svg",
+      "type": "base",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!rl1bVlBKmuzVbwN3.T4KYQJpILcaeXtpT"
+    }
+  ],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>A spanyol n&eacute;pnek az &Uacute;j Vil&aacute;gban van manaps&aacute;g a legt&ouml;bb dolga, de mivel pog&aacute;ny &eacute;s az Anyaszentegyh&aacute;zat tagad&oacute; eretnek a Spanyol N&eacute;metalf&ouml;ld&ouml;n, az esőverte Katal&oacute;ni&aacute;ban &eacute;s m&aacute;shol is sok van, h&aacute;t ut&aacute;nuk mennek, ki a Hisp&aacute;n Inkviz&iacute;czi&oacute;t, ki pedig saj&aacute;t b&aacute;tors&aacute;g&aacute;t k&ouml;vetve.</p>\n<ul>\n<li>+2-t kapnak a B&aacute;tors&aacute;g &eacute;s K&iacute;s&eacute;rt&eacute;s mentődob&aacute;saikra.</li>\n<li>P&eacute;nz&uuml;k negyed&eacute;t minden k&ouml;r&uuml;lm&eacute;nyek k&ouml;z&ouml;tt eleg&aacute;ns &ouml;lt&ouml;z&eacute;kekre &eacute;s a hisp&aacute;n m&oacute;dihoz illő dr&aacute;gas&aacute;gokra kell k&ouml;lteni&uuml;k.</li>\n</ul>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829666347,
+    "modifiedTime": 1720161450174,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "rl1bVlBKmuzVbwN3",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!rl1bVlBKmuzVbwN3"
+}

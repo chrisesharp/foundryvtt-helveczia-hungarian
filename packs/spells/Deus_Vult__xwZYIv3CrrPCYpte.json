@@ -1,0 +1,37 @@
+{
+  "name": "Deus Vult!",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "UNLAvFf46znK3j0K",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "cleric",
+    "range": "-",
+    "duration": "2 kör és szintenként még egy",
+    "area": "egy kisebb bandérium körül",
+    "save": "temptation",
+    "component": "",
+    "description": "<p class=\"p1\">A r&eacute;gi keresztesek im&aacute;ja, de a mai eretneks&eacute;gek kor&aacute;ban is hasznos. A pap k&ouml;r&uuml;l minden igaz kereszt&eacute;ny +1-et kap t&aacute;mad&aacute;s&aacute;ra, sebz&eacute;s&eacute;re &eacute;s VO-j&aacute;ra, +2-t, ha Virtusa magas, &eacute;s +3-at, ha 21-es. A hat&oacute;ter&uuml;leten bel&uuml;l minden hitetlennek &ndash; vagyis eretneknek, mohamed&aacute;nnak, zsid&oacute;nak, pog&aacute;nynak &eacute;s a S&aacute;t&aacute;n k&ouml;vetőinek &ndash; K&iacute;s&eacute;rt&eacute;s mentődob&aacute;st kell tennie, k&uuml;l&ouml;nben csak maguk v&eacute;d&eacute;s&eacute;re k&eacute;pesek; nagyon rossz dob&aacute;s eset&eacute;n ak&aacute;r fegyver&uuml;ket eldobva a f&ouml;ldre is vetik magukat vagy elszaladnak. Ez bizony &aacute;ll mindenkire, aki nem kereszt&eacute;ny, bele&eacute;rtve a pap saj&aacute;t bar&aacute;tait is, &eacute;s vall&aacute;s&aacute;t&oacute;l f&uuml;ggetlen&uuml;l hat minden de&aacute;kra, hacsak annak Virtusa a bűnb&aacute;nat miatt nem magas.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720299334055,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "xwZYIv3CrrPCYpte",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!xwZYIv3CrrPCYpte"
+}

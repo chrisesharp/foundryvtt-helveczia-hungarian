@@ -1,0 +1,41 @@
+{
+  "name": "Borból Vizet",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "DklZOXwgGCjyQb5s",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "cleric",
+    "range": "rövid",
+    "duration": "negyedóra",
+    "area": "egy csoport",
+    "save": "temptation",
+    "component": "",
+    "data": {
+      "level": 2,
+      "class": "cleric"
+    },
+    "description": "<p class=\"p1\">Ez a var&aacute;zs a legbőszebb harczos t&aacute;mad&oacute; kedv&eacute;t is elveszi. Hacsak nem &eacute;let&uuml;k&eacute;rt k&uuml;zdenek, le fogj&aacute;k tenni a fegyvereiket &eacute;s fert&aacute;ly&oacute;r&aacute;ig az &eacute;let dolgain merengenek. Ezalatt bőven el lehet szaladni, vagy meggyőzni őket a b&eacute;ke fontoss&aacute;g&aacute;r&oacute;l, &aacute;mb&aacute;r elszaladni jobb, mert a hat&oacute;idő letelte ut&aacute;n ism&eacute;t nagyon d&uuml;h&ouml;sek szoktak lenni.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720298440979,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "G2ULyvyKEDB5az3i",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!G2ULyvyKEDB5az3i"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Hollandusok",
+  "type": "people",
+  "img": "icons/svg/village.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>Gazdag vid&eacute;k Hollandia, melynek csillaga egyre f&eacute;nyesebben ragyog, h&aacute;la a t&aacute;voli partokra eljut&oacute; kereskedőknek &eacute;s az &uuml;gyes mesterembereknek. Azt mondj&aacute;k, a hollandus tőzsde &uacute;gy őrli a p&eacute;nzt, mintha csak sz&eacute;lmalom volna. Nem csoda h&aacute;t, hogy a hisp&aacute;nok vask&eacute;zzel uralkodnak a vid&eacute;ken, melynek lak&oacute;i egyre ink&aacute;bb a rabiga ler&aacute;z&aacute;s&aacute;n mesterkednek.</p>\n<ul>\n<li>+2-t kapnak a Haj&oacute;z&aacute;s &eacute;s &Eacute;rt&eacute;kbecsl&eacute;s k&eacute;pzetts&eacute;g&uuml;kre, &eacute;s egy v&aacute;lasztott mesters&eacute;gre.</li>\n<li>A j&aacute;t&eacute;kot 1d3+1 hagym&aacute;val kezdik. Hogy ez a furcsa vaczak mire j&oacute;, csak a J&oacute; Isten tud&oacute;ja.</li>\n</ul>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829666347,
+    "modifiedTime": 1720160661618,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "ZagwJ9W3CAMP9yR3",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!ZagwJ9W3CAMP9yR3"
+}

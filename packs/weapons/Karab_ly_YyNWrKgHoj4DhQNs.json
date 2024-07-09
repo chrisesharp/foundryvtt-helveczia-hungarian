@@ -1,0 +1,43 @@
+{
+  "name": "Karabély",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<ul>\n<li>K&ouml;zepes t&aacute;v</li>\n<li>1 k&ouml;r &uacute;jrat&ouml;lt&eacute;s</li>\n<li>1-es t&aacute;mad&aacute;sdob&aacute;sn&aacute;l felrobban vagy bes&uuml;l, s csak alapos puczol&aacute;ssal repar&aacute;lhat&oacute;</li>\n</ul>",
+    "attack": "ranged",
+    "damage": "1d10x",
+    "critical": {
+      "range": "20",
+      "multiple": "3"
+    },
+    "encumbrance": "1",
+    "bonus": "0",
+    "reload": "1",
+    "cost": {
+      "value": "8",
+      "coin": "th"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719828918413,
+    "modifiedTime": 1720032627944,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "YyNWrKgHoj4DhQNs",
+  "sort": 3999219,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!YyNWrKgHoj4DhQNs"
+}

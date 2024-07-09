@@ -1,0 +1,37 @@
+{
+  "name": "Lerakott Teher",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ER3HMq6AdzRgV93H",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "cleric",
+    "range": "érintés",
+    "duration": "ameddig el nem mozdítják",
+    "area": "egy hely",
+    "save": "-",
+    "component": "",
+    "description": "<p class=\"p1\">Ezzel az ig&eacute;vel a pap leteszi a nyak&aacute;b&oacute;l a szent keresztet. Legyen az egyszerű fa vagy dr&aacute;gak&ouml;ves arany, egyszerre &oacute;loms&uacute;lya lesz, &eacute;s csak h&eacute;t erős ember mozd&iacute;thatja meg vagy emelheti fel &ndash; de ha egy &aacute;rtatlan fogna hozz&aacute;, kinek Virtusa 21, ollyan k&ouml;nynyűnek tal&aacute;lja majd, mint a tollpih&eacute;t. A keresztet, ha maga nem ilyen, a pap ism&eacute;t fel nem veheti; &uacute;jat kell szereznie, de addig -2 j&aacute;r a K&iacute;s&eacute;rt&eacute;s mentődob&aacute;saira.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720296112126,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "f0ZDvm3bKYOEisdq",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!f0ZDvm3bKYOEisdq"
+}

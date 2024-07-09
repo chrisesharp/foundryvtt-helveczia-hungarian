@@ -1,0 +1,37 @@
+{
+  "name": "Az Igazi Arcz",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ER3HMq6AdzRgV93H",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "cleric",
+    "range": "rövid",
+    "duration": "egy minuta, vagy tovább is",
+    "area": "egy czélpont",
+    "save": "temptation",
+    "component": "",
+    "description": "<p class=\"p1\">Az &aacute;lcz&aacute;z&aacute;s &eacute;s &aacute;tv&aacute;ltoztat&aacute;s minden form&aacute;j&aacute;t leh&aacute;ntja a cz&eacute;lr&oacute;l, &eacute;s ha egy k&uuml;l&ouml;n&ouml;sen s&uacute;lyos bűnt rejteget, annak jeleit is megmutatja (p&eacute;ld&aacute;ul fojtogat&oacute; j&oacute;kora, v&eacute;rtől csepegő kezekkel, hamis tan&uacute; gy&iacute;k nyelv&eacute;vel jelenik meg). Egy perczig mindenk&eacute;ppen hat, ut&aacute;na egy napig csak akkor, ha a cz&eacute;lpont mentődob&aacute;s&aacute;t elrontja. Az ige neh&eacute;zs&eacute;ge az, hogy mikor s kire ker&uuml;lj&ouml;n elmond&aacute;sra.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720296974651,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "uf9I8bC78CxtXorU",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!uf9I8bC78CxtXorU"
+}

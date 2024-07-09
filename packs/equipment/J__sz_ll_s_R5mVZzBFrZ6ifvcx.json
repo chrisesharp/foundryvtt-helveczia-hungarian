@@ -1,0 +1,33 @@
+{
+  "folder": "scVRL431SfWRT8Kg",
+  "name": "Jó szállás",
+  "type": "possession",
+  "_id": "R5mVZzBFrZ6ifvcx",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "cost": {
+      "value": "2",
+      "coin": "pf"
+    },
+    "encumbrance": "1"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719953000141,
+    "modifiedTime": 1719953005129,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!items!R5mVZzBFrZ6ifvcx"
+}

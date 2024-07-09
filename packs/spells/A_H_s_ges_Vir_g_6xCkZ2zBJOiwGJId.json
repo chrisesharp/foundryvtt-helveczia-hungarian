@@ -1,0 +1,37 @@
+{
+  "name": "A Hűséges Virág",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "DklZOXwgGCjyQb5s",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "cleric",
+    "range": "-",
+    "duration": "hét napig",
+    "area": "egy czélpont",
+    "save": "-",
+    "component": "",
+    "description": "<p class=\"p1\">&Uacute;tra indul&oacute;nak szokt&aacute;k adni ezt a szer&eacute;ny, de sz&eacute;p kis vir&aacute;got, mi &eacute;jjel &uacute;gy pisl&aacute;kol, mint a m&eacute;cses, s reggelre hordoz&oacute;ja mindig 2 Hp-vel t&ouml;bbet nyer vissza a pihen&eacute;ssel a szok&aacute;sosn&aacute;l, &eacute;s m&eacute;g egyet, ha magas Virtus&uacute;. Ha nagy sz&uuml;ks&eacute;g t&aacute;mad, &aacute;t lehet adni valakinek, de visszavenni nem. Bűn&ouml;s k&eacute;zre, alacsony Virtus&uacute;hoz ha jut: r&ouml;gvest megfeketedik s elhervad.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720297521527,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "6xCkZ2zBJOiwGJId",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!6xCkZ2zBJOiwGJId"
+}

@@ -1,0 +1,33 @@
+{
+  "folder": "cpV1p0MeDo0bqyrH",
+  "name": "Kisebb szekér",
+  "type": "possession",
+  "_id": "oLSnF3E36Yb5qtFF",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>6 rakom&aacute;ny (6#)</p>",
+    "cost": {
+      "value": "2",
+      "coin": "th"
+    },
+    "encumbrance": "1"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719953812768,
+    "modifiedTime": 1719953822738,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!items!oLSnF3E36Yb5qtFF"
+}

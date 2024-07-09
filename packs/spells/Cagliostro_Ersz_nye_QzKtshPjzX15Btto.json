@@ -1,0 +1,37 @@
+{
+  "name": "Cagliostro Erszénye",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "MUygynGYWUAKLwPj",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "student",
+    "range": "-",
+    "duration": "kakasszóig",
+    "area": "-",
+    "save": "-",
+    "component": "egy töltött selyemerszény",
+    "description": "<p class=\"p1\">Hamis aranyp&eacute;nzeket teremt, sz&aacute;m szerint 1d6-ot, s ezek k&ouml;vetkező kakassz&oacute;ig csengő &eacute;rm&eacute;k gyan&aacute;nt &aacute;tadhat&oacute;k s.a.t. Reggelre kelve azonban semmi nem marad belől&uuml;k. M&aacute;sodszor bel&eacute;ny&uacute;lva m&eacute;g 1d6 p&eacute;nz van az ersz&eacute;nyben, de 1:6 es&eacute;llyel mind azonnal eltűnik; harmadszorra ez az es&eacute;ly 1:3, negyedikre &eacute;s ut&aacute;na pedig 1:2. Akin&eacute;l sok&aacute;ig megmarad az arany, gyakran hiszi, hogy elvesz&iacute;tette vagy ellopt&aacute;k tőle; de min&eacute;l hamar&aacute;bb t&ouml;rt&eacute;nik vele az eset, ann&aacute;l k&ouml;nynyebben fog gyan&uacute;t.</p>\n<p class=\"p1\"><strong>Komponense</strong>: egy bolondok arany&aacute;val kit&ouml;m&ouml;tt selyemersz&eacute;ny. Kecskegan&eacute;val is műk&ouml;dik, &aacute;m ekkor az megmarad a zsebben vagy p&eacute;nzes l&aacute;d&aacute;ban.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720278199134,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "QzKtshPjzX15Btto",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!QzKtshPjzX15Btto"
+}

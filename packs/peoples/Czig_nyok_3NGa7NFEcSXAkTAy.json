@@ -1,0 +1,74 @@
+{
+  "name": "Czigányok",
+  "type": "people",
+  "img": "icons/svg/village.svg",
+  "effects": [
+    {
+      "_id": "dNAPbAF1xnprMDZd",
+      "changes": [
+        {
+          "key": "system.saves.deftness.bonus",
+          "mode": 2,
+          "value": "2",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Item.Xsm8ZwhsFzoBlhOo",
+      "transfer": true,
+      "flags": {},
+      "tint": "#ffffff",
+      "name": "Deftness",
+      "description": "",
+      "statuses": [],
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "img": "icons/svg/aura.svg",
+      "type": "base",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!3NGa7NFEcSXAkTAy.dNAPbAF1xnprMDZd"
+    }
+  ],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>Amilyen hűv&ouml;s az &aacute;nglius v&eacute;re, olyan t&uuml;zes a v&aacute;ndorl&oacute; czig&aacute;nyok&eacute;. Hab&aacute;r Helv&eacute;czi&aacute;b&oacute;l r&eacute;gen fegyverrel &eacute;s cs&oacute;v&aacute;val vert&eacute;k ki őket, sz&iacute;nes karav&aacute;njaik ezekben a jobb időkben ism&eacute;t felbukkantak. Kiv&aacute;l&oacute; kereskedők, t&aacute;nczosok &eacute;s sz&eacute;lh&aacute;mosok, mikor mi kell: n&eacute;h&aacute;nyan pedig a vaj&aacute;koss&aacute;g rejtelmeiben is j&aacute;ratosak.</p>\n<ul>\n<li>+2-t kapnak F&uuml;rges&eacute;g mentődob&aacute;sukra.</li>\n</ul>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829666347,
+    "modifiedTime": 1720161050051,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "3NGa7NFEcSXAkTAy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!3NGa7NFEcSXAkTAy"
+}

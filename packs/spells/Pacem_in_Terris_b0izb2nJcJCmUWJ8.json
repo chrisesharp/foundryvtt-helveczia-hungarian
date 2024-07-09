@@ -1,0 +1,37 @@
+{
+  "name": "Pacem in Terris",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "UNLAvFf46znK3j0K",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "cleric",
+    "range": "hosszú",
+    "duration": "egy nap és egy éjjel",
+    "area": "hallótávolságban",
+    "save": "temptation",
+    "component": "",
+    "description": "<p class=\"p1\"><em>(Mentődob&aacute;s: Neh&eacute;z K&iacute;s&eacute;rt&eacute;s)</em></p>\n<p class=\"p1\">Nagyon sz&eacute;p szavak, mellyek a b&eacute;ke mellett sz&oacute;lnak: &eacute;s aki az ig&eacute;t meghallja, fegyvereit legott a f&ouml;ldre dob&aacute;lja, hogy a sz&oacute;zatot meghallgassa. M&eacute;g a vad besti&aacute;k &eacute;s a pokol creatur&aacute;i is leheverednek, mert a szeretet mindenn&eacute;l előbb val&oacute;. Mindez a gy&oacute;n&aacute;ssal egy&eacute;rt&eacute;kű, vagyis 1d3+2 Virtust visszaad. A b&eacute;ke egy napon &eacute;s egy &eacute;jjelen &aacute;t tart, s ha csat&aacute;ban mondt&aacute;k el, akkor az bizonnyal meghi&uacute;sul. Aki ezt az ig&eacute;t felhaszn&aacute;lja, h&eacute;t napig olyan gyenge lesz, mint egy kisded. B&aacute;r mindenhonnan hirdetn&eacute;k e szavakat &ndash; de sajnos r&eacute;g&oacute;ta nyomuk veszett.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720300375733,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "b0izb2nJcJCmUWJ8",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!b0izb2nJcJCmUWJ8"
+}

@@ -1,0 +1,33 @@
+{
+  "folder": "oGr17cYoLm3lXBP0",
+  "name": "Speczialisták",
+  "type": "possession",
+  "_id": "TqyqoOVHhqYzaW7f",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>&Aacute;r: 5 leg&eacute;ny zsoldj&aacute;n, lovasok &eacute;s musk&eacute;t&aacute;sok + 25%</p>",
+    "cost": {
+      "value": "0",
+      "coin": "th"
+    },
+    "encumbrance": "1"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719953176966,
+    "modifiedTime": 1719953223077,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!items!TqyqoOVHhqYzaW7f"
+}

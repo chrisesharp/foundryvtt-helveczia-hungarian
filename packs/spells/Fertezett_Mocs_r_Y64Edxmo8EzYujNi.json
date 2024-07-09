@@ -1,0 +1,37 @@
+{
+  "name": "Fertezett Mocsár",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "UNLAvFf46znK3j0K",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "cleric",
+    "range": "közepes",
+    "duration": "ha megtörtént, megtörtént",
+    "area": "egy csoportra",
+    "save": "deftness",
+    "component": "",
+    "description": "<p class=\"p1\">A bűn mindig a pokol fel&eacute; vezeti a t&eacute;velygőket, s ez a var&aacute;zslat mindj&aacute;rt a leggyorsabb utat mutatja meg nekik. Ha mentődob&aacute;sukat elrontj&aacute;k, ahogy vannak, &uacute;gy a f&ouml;ldbe s&uuml;llyednek, ki-ki bűne szerint: a k&ouml;zepes Virtus&uacute; bok&aacute;j&aacute;ig, az alacsony Virtus&uacute; l&aacute;basz&aacute;r&aacute;ig, akinek pedig 3 vagy alacsonyabb a Virtusa, az k&ouml;t&eacute;sig. Az elsőből Neh&eacute;z Erő vagy K&ouml;zepes Szabadul&oacute;műv&eacute;szet pr&oacute;b&aacute;val lehet megszabadulni; a m&aacute;sikb&oacute;l &aacute;sni kell egy negyed&oacute;r&aacute;t; a harmadikb&oacute;l &oacute;r&aacute;kig is. Szikl&aacute;n&ndash;k&ouml;v&ouml;n nem hat&aacute;sos.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720300201585,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "Y64Edxmo8EzYujNi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!Y64Edxmo8EzYujNi"
+}

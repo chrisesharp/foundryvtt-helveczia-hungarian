@@ -1,0 +1,33 @@
+{
+  "name": "Ugrás",
+  "type": "skill",
+  "img": "icons/svg/temple.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>A karakter k&eacute;pes &aacute;tugrani sz&eacute;lesebb avagy magasabb akad&aacute;lyokat is, s tomp&iacute;thatja az es&eacute;sből sz&aacute;rmaz&oacute; sebes&uuml;l&eacute;seket (sikeres pr&oacute;b&aacute;val egy koczka, Neh&eacute;z pr&oacute;b&aacute;val kettő, s Hősiessel h&aacute;rom). Ha a pr&oacute;ba sikertelen, a karakter lezuhan.</p>",
+    "ability": "str",
+    "subtype": "practical",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829583790,
+    "modifiedTime": 1720132970676,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "Nn6mdEuWS6kjLbVO",
+  "sort": 1600000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!Nn6mdEuWS6kjLbVO"
+}

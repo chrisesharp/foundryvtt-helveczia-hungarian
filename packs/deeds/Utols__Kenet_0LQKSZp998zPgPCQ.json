@@ -1,0 +1,77 @@
+{
+  "name": "Utolsó Kenet",
+  "type": "deed",
+  "img": "icons/svg/aura.svg",
+  "effects": [
+    {
+      "img": "icons/svg/aura.svg",
+      "origin": "Compendium.helveczia-magyar-kompendium.cselekedetek.Item.0LQKSZp998zPgPCQ",
+      "transfer": true,
+      "changes": [
+        {
+          "key": "system.virtue",
+          "mode": 2,
+          "value": "6",
+          "priority": null
+        }
+      ],
+      "name": "erény",
+      "_id": "PdvdTV6eHP38Cub3",
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": 1719835007611,
+        "modifiedTime": 1719835007611,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!items.effects!0LQKSZp998zPgPCQ.PdvdTV6eHP38Cub3"
+    }
+  ],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "",
+    "subtype": "virtue",
+    "magnitude": "6",
+    "cardinality": "0"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719828849207,
+    "modifiedTime": 1719835007585,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "0LQKSZp998zPgPCQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!0LQKSZp998zPgPCQ"
+}

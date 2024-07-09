@@ -1,0 +1,31 @@
+{
+  "name": "Takács",
+  "type": "skill",
+  "_id": "sleDvtfpQ2Wtiskb",
+  "img": "icons/svg/hanging-sign.svg",
+  "system": {
+    "description": "",
+    "ability": "dex",
+    "subtype": "craft",
+    "bonus": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1720134149603,
+    "modifiedTime": 1720134188889,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!items!sleDvtfpQ2Wtiskb"
+}

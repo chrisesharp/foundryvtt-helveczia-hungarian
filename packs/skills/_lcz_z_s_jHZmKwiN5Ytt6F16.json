@@ -1,0 +1,33 @@
+{
+  "name": "Álczázás",
+  "type": "skill",
+  "img": "icons/svg/temple.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>&Aacute;l&ouml;lt&ouml;z&eacute;kek k&eacute;sz&iacute;t&eacute;se &eacute;s haszn&aacute;lata. Pr&oacute;badob&aacute;st akkor kell dobni, ha az &aacute;lcza hiteless&eacute;g&eacute;t valaki k&eacute;ts&eacute;gbe vonn&aacute; (&aacute;ltal&aacute;ban ellenpr&oacute;bak&eacute;nt, s az eredm&eacute;nyt csak a mes&eacute;lő ismerheti).</p>",
+    "ability": "cha",
+    "subtype": "practical",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829583790,
+    "modifiedTime": 1720132970676,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "jHZmKwiN5Ytt6F16",
+  "sort": 2400000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!jHZmKwiN5Ytt6F16"
+}

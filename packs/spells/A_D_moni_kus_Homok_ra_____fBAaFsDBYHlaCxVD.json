@@ -1,0 +1,37 @@
+{
+  "name": "A Démoniákus Homokóra (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ziA7MU7yGTlbURi0",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "student",
+    "range": "rövid",
+    "duration": "pont hat órát tart",
+    "area": "egy lezárt szobában lehet alkalmazni",
+    "save": "bravery",
+    "component": "halál faragványos homokóra",
+    "description": "<p class=\"p1\"><em>(Mentődob&aacute;s: Neh&eacute;z B&aacute;tors&aacute;g)</em></p>\n<p class=\"p1\">Hat &oacute;r&aacute;juk van azoknak, akik előtt ezt a homok&oacute;r&aacute;t megford&iacute;tj&aacute;k: azonm&oacute;d megb&eacute;nulnak &ndash; ezellen ments&eacute;g nincsen &ndash; majd amint idej&uuml;k lepereg, mentődob&aacute;st kell dobniuk, vagy a Hal&aacute;l elragadja őket; azid&aacute;ig meg gondolkodhatnak az elm&uacute;l&aacute;sr&oacute;l &eacute;s m&aacute;s hasonl&oacute;kr&oacute;l. Jobb azonban őket lakat alatt vagy silbakokkal őriztetni, mert ha az &oacute;r&aacute;t megford&iacute;tj&aacute;k, esetleg az &aacute;ldozatokat a szob&aacute;b&oacute;l megsz&ouml;ktetik, nem sok foganatja lesz a dolognak. Ha meg m&eacute;g az &uuml;veget is elt&ouml;rik, 3d3 sebz&eacute;st szenved a var&aacute;zslat kimond&oacute;ja.</p>\n<p class=\"p1\"><strong>Komponense:</strong> nem ak&aacute;rmilyen homok&oacute;ra kell hozz&aacute;, hanem amelynek minden faragv&aacute;ny&aacute;r&oacute;l a hal&aacute;l n&eacute;z vissza b&aacute;mul&oacute;j&aacute;ra.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720276030625,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "fBAaFsDBYHlaCxVD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!fBAaFsDBYHlaCxVD"
+}

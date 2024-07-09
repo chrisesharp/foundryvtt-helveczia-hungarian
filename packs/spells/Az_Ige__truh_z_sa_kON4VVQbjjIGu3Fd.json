@@ -1,0 +1,37 @@
+{
+  "name": "Az Ige Átruházása",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "UNLAvFf46znK3j0K",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "cleric",
+    "range": "érintés",
+    "duration": "egy hónapnál nem több",
+    "area": "egy czélpont",
+    "save": "-",
+    "component": "",
+    "description": "<p class=\"p1\">Ezt a var&aacute;zslatot mindhely&uuml;tt b&iacute;borosi pecs&eacute;t z&aacute;rja, mit csak a nagy sz&uuml;ks&eacute;g &eacute;s veszedelem &oacute;r&aacute;j&aacute;n nyitnak meg. Ezen a m&oacute;don egy szent hely valamelyik ig&eacute;j&eacute;t lehet &aacute;tpl&aacute;nt&aacute;lni valaki elm&eacute;j&eacute;be, m&eacute;ghozz&aacute; &uacute;gy, hogy eredeti hely&eacute;n ideiglenesen elveszik, a cz&eacute;lpont sz&aacute;m&aacute;ra azonban naponkint egyszer &uacute;jra &eacute;s &uacute;jra felhaszn&aacute;lhat&oacute;. Ha &uacute;gy tetszik, ő lesz az Ige hordoz&oacute;j&aacute;v&aacute;. Ha &uacute;gy akarja, esti vagy reggeli im&aacute;ds&aacute;g&aacute;val feloldhatja a k&ouml;tel&eacute;ket, &aacute;m ha v&aacute;ratlanul hal&aacute;l&aacute;t leli, a var&aacute;zslat 1:6 es&eacute;llyel teljesen elv&eacute;sz. Mondani sem kell, olyan ez a kegy, mint a becses kincs, &eacute;s m&eacute;g nagyobb a vele j&aacute;r&oacute; felelőss&eacute;g.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720299508404,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "kON4VVQbjjIGu3Fd",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!kON4VVQbjjIGu3Fd"
+}

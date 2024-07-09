@@ -1,0 +1,41 @@
+{
+  "name": "Anathéma",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "DklZOXwgGCjyQb5s",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "cleric",
+    "range": "rövid",
+    "duration": "negyed óra vagy több",
+    "area": "egy csoport",
+    "save": "temptation",
+    "component": "",
+    "data": {
+      "level": 2,
+      "class": "cleric"
+    },
+    "description": "<p class=\"p1\">Akire az ig&eacute;t elmondj&aacute;k, annak mind a pap, mind egy szents&eacute;ges hely tilalmas lesz: nem k&ouml;zel&iacute;theti s nem is t&aacute;madhatja, m&iacute;g &aacute;ltaluk veszedelembe nem ker&uuml;l. Csak k&ouml;zepes &eacute;s alacsony Virtus&uacute;akon hat&aacute;sos, s az ut&oacute;bbiak -2-vel dobj&aacute;k mentődob&aacute;sukat.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720297088439,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "pxTIZOGBI7h7Vd7O",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!pxTIZOGBI7h7Vd7O"
+}

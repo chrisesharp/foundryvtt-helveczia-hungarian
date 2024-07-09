@@ -1,0 +1,37 @@
+{
+  "name": "A Bűbájos Hasonmás",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "LUIL15KYrp683hE7",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "student",
+    "range": "hosszú",
+    "duration": "két szintenként egy óra",
+    "area": "közelben",
+    "save": "temptation",
+    "component": "egy aranykeretű tükör",
+    "description": "<p class=\"p1\">Csak egy magas Virtus&uacute; cz&eacute;lponton hat, kiről t&uuml;n&eacute;keny k&eacute;pet alkot. Ezut&aacute;n a k&eacute;pet megid&eacute;zője ir&aacute;ny&iacute;thatja, parancsolhat neki, s sz&oacute;lhat is v&eacute;le, b&aacute;r kin&eacute;zete enyh&eacute;n &aacute;ttetsző, besz&eacute;de pedig &eacute;rthetetlen lesz. Aki k&ouml;zelről tal&aacute;lkozik vele, gyan&uacute;t foghat, s erre mentődob&aacute;st kap.</p>\n<p class=\"p1\"><strong>Komponense:</strong> egy igen sz&eacute;p aranykeretű t&uuml;k&ouml;r kell hozz&aacute;.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720281321641,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "6k65D8AKXsTRZSDu",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!6k65D8AKXsTRZSDu"
+}

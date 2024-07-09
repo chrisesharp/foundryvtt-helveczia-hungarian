@@ -1,0 +1,41 @@
+{
+  "name": "Stiletto",
+  "type": "weapon",
+  "_id": "9sMjgl09N97hQJ6u",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": "<ul>\n<li>Dobhat&oacute;</li>\n<li>p&aacute;ncz&eacute;lsz&uacute;r&oacute;, kiker&uuml;li a p&aacute;ncz&eacute;lokat. A stiletto h&iacute;rhedett gyilkos szersz&aacute;m!</li>\n</ul>",
+    "attack": "melee",
+    "damage": "1d4",
+    "critical": {
+      "range": "18",
+      "multiple": "2"
+    },
+    "encumbrance": "1",
+    "bonus": "0",
+    "reload": 0,
+    "cost": {
+      "value": "2",
+      "coin": "th"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 3793750,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719870949783,
+    "modifiedTime": 1720032539981,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!items!9sMjgl09N97hQJ6u"
+}

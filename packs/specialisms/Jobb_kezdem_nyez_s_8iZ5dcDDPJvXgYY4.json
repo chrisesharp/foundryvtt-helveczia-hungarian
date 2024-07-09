@@ -1,0 +1,76 @@
+{
+  "name": "Jobb kezdeményezés",
+  "type": "class",
+  "img": "icons/svg/coins.svg",
+  "effects": [
+    {
+      "_id": "SPJRp6aTWmTUjKft",
+      "changes": [
+        {
+          "key": "system.initiative",
+          "mode": 2,
+          "value": "4",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Item.QVplyxj1GZiOuBPh",
+      "transfer": true,
+      "flags": {},
+      "tint": "#ffffff",
+      "name": "Improved Initiative",
+      "description": "",
+      "statuses": [],
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "img": "icons/svg/aura.svg",
+      "type": "base",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!8iZ5dcDDPJvXgYY4.SPJRp6aTWmTUjKft"
+    }
+  ],
+  "folder": "SsAP5eF6CyQzPsPM",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>A karakter olyan gyors, mint az olajozott istennyila: +4-et kap kezdem&eacute;nyez&eacute;si dob&aacute;saira.</p>",
+    "specialism": true,
+    "parent": "vagabond"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829788934,
+    "modifiedTime": 1720165723625,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "8iZ5dcDDPJvXgYY4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!8iZ5dcDDPJvXgYY4"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Megakadályozott Út",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "DklZOXwgGCjyQb5s",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "cleric",
+    "range": "rövid",
+    "duration": "egy napig",
+    "area": "egy kereszt, s körötte",
+    "save": "temptation",
+    "component": "",
+    "data": {
+      "level": 2,
+      "class": "cleric"
+    },
+    "description": "<p class=\"p1\">Egy keresztre mondatik, minek &aacute;rny&eacute;k&aacute;t ezut&aacute;n bűn&ouml;s &aacute;t nem l&eacute;pheti; csakis az, akinek Virtusa magas. M&aacute;r ahhoz is K&iacute;s&eacute;rt&eacute;st kell dobni, hogy megk&ouml;zel&iacute;ts&eacute;k. Ha m&eacute;gis k&eacute;nyszer&iacute;ten&eacute; mag&aacute;t, vagy a keresztet meg&eacute;rinti, nagy teher z&uacute;dul r&aacute;, ami 3d6 Hp-t sebez rajta, &eacute;s szintenk&eacute;nt m&eacute;g egyet. K&ouml;zepes Virtus&uacute;n ez a sebz&eacute;s csak elk&aacute;bul&aacute;st okoz, de a nagyobb bűn&ouml;st legott agyon&uuml;ti.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720298122908,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "ci0qP9L3HQ1aJQT5",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!ci0qP9L3HQ1aJQT5"
+}

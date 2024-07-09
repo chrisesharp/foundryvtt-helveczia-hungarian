@@ -1,0 +1,33 @@
+{
+  "name": "Hamisítás",
+  "type": "skill",
+  "img": "icons/svg/coins.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>Egyp&aacute;r &oacute;ra vagy nap munk&aacute;j&aacute;val hamis p&eacute;nz, irat, pecs&eacute;t avagy &eacute;rt&eacute;k k&eacute;sz&iacute;thető. Pr&oacute;badob&aacute;st akkor kell dobni, ha a hamis&iacute;tv&aacute;ny hiteless&eacute;g&eacute;t valaki k&eacute;ts&eacute;gbe vonn&aacute;.</p>",
+    "ability": "dex",
+    "subtype": "vagabond",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829583790,
+    "modifiedTime": 1720132970676,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "B6xjxi4R2uJOuty4",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!B6xjxi4R2uJOuty4"
+}

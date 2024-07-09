@@ -1,0 +1,37 @@
+{
+  "name": "Káin Bélyege",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "UNLAvFf46znK3j0K",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "cleric",
+    "range": "rövid",
+    "duration": "mindörökké",
+    "area": "egy czélpont",
+    "save": "bravery",
+    "component": "",
+    "description": "<p class=\"p1\"><em>(Mentődob&aacute;s: Neh&eacute;z B&aacute;tors&aacute;g)</em></p>\n<p class=\"p1\">Csakis a legelvetem&uuml;ltebb bűn&ouml;s&ouml;k ellen hat&eacute;kony, akiknek 3 vagy alacsonyabb a Virtusuk. Ha elv&eacute;tik mentődob&aacute;sukat, homlokukon &eacute;gető b&eacute;lyeg jelenik meg, ami r&ouml;gvest 3d6+6 Hp-t sebez, &eacute;s izz&oacute; jelk&eacute;nt mindhal&aacute;lukig rajtuk marad. Ha a var&aacute;zsige a cz&eacute;lpontot elveszejti, az r&ouml;gvest hamuv&aacute; &eacute;g &eacute;s izz&oacute; csontjait az &ouml;rd&ouml;g&ouml;k lap&aacute;ttal &eacute;s piszkavassal a pokolba r&aacute;nczig&aacute;lj&aacute;k. Ezt haszn&aacute;lni egy igen j&aacute;mbor &eacute;s p&eacute;ld&aacute;s dolog.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720300117798,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "QV5762wdMbG305h7",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!QV5762wdMbG305h7"
+}

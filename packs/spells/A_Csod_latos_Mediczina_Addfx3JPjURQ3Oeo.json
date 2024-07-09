@@ -1,0 +1,41 @@
+{
+  "name": "A Csodálatos Mediczina",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "DklZOXwgGCjyQb5s",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "cleric",
+    "range": "érintésre",
+    "duration": "azonnali",
+    "area": "önmagára, avagy más személyre",
+    "save": "-",
+    "component": "",
+    "data": {
+      "level": 2,
+      "class": "cleric"
+    },
+    "description": "<p class=\"p1\">Kik&uacute;r&aacute;l egy s m&aacute;s bajokat, &uacute;.m. k&oacute;rs&aacute;gokat &eacute;s m&eacute;rgeket, &aacute;mb&aacute;r b&eacute;lpokloss&aacute;gra, k&ouml;szv&eacute;nyre &eacute;s a k&ouml;z&ouml;ns&eacute;ges meghűl&eacute;sre csak enyh&uuml;l&eacute;st ad. Mindezeken felűl 2d6 Hp-t, &eacute;s m&eacute;g k&eacute;t szintenk&eacute;nt 1-et is visszaad. Azt mondj&aacute;k, a szentk&eacute;pek k&ouml;nnyei ilyenek m&eacute;g, ha vel&uuml;k a testet lemoss&aacute;k.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720297903399,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "Addfx3JPjURQ3Oeo",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!Addfx3JPjURQ3Oeo"
+}

@@ -1,0 +1,285 @@
+{
+  "name": "Útonálló",
+  "type": "npc",
+  "img": "systems/helveczia/assets/people/male/man_71.png",
+  "items": [
+    {
+      "_id": "QZFKZtBlgCdyAGfD",
+      "name": "Rapír",
+      "type": "weapon",
+      "img": "icons/svg/sword.svg",
+      "effects": [],
+      "folder": "pXBS1uYcZbpuURHn",
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Item.9OLHTuLyC4Qa5rWm"
+        }
+      },
+      "system": {
+        "description": "",
+        "attack": "melee",
+        "damage": "1d6",
+        "critical": {
+          "range": "18",
+          "multiple": "2"
+        },
+        "encumbrance": "1",
+        "bonus": "2",
+        "reload": 0,
+        "cost": {
+          "value": "3",
+          "coin": "th"
+        }
+      },
+      "ownership": {
+        "default": 2,
+        "k52po8UVGe0kJkBK": 3
+      },
+      "_stats": {
+        "compendiumSource": "Item.9OLHTuLyC4Qa5rWm",
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!Lwp5uxm0MagFdAFd.QZFKZtBlgCdyAGfD"
+    },
+    {
+      "_id": "qgwUJ25iZxwB0ayH",
+      "name": "Pisztoly",
+      "type": "weapon",
+      "img": "icons/svg/sword.svg",
+      "effects": [],
+      "folder": "pXBS1uYcZbpuURHn",
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Item.kbHe6JjlUNKK1Q3D"
+        }
+      },
+      "system": {
+        "description": "<ul>\n<li>Range 10 metres</li>\n<li>1 round to arm</li>\n<li>Misfires on a natural 1 (fumble)</li>\n</ul>",
+        "attack": "ranged",
+        "damage": "1d10x",
+        "critical": {
+          "range": "20",
+          "multiple": "3"
+        },
+        "encumbrance": "1",
+        "bonus": "0",
+        "reload": "1",
+        "cost": {
+          "value": "4",
+          "coin": "th"
+        }
+      },
+      "ownership": {
+        "default": 2,
+        "k52po8UVGe0kJkBK": 3
+      },
+      "_stats": {
+        "compendiumSource": "Item.kbHe6JjlUNKK1Q3D",
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!Lwp5uxm0MagFdAFd.qgwUJ25iZxwB0ayH"
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "",
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "hd": 8
+    },
+    "level": 1,
+    "people": "",
+    "class": "",
+    "origVirtue": 10,
+    "virtue": 10,
+    "initiative": 0,
+    "maxskills": 3,
+    "saves": {
+      "bravery": {
+        "base": 0,
+        "bonus": 0
+      },
+      "deftness": {
+        "base": 0,
+        "bonus": 0
+      },
+      "temptation": {
+        "base": 0,
+        "bonus": 0
+      }
+    },
+    "attack": {
+      "melee": {
+        "base": 0,
+        "bonus": 0
+      },
+      "ranged": {
+        "base": 0,
+        "bonus": 0
+      },
+      "cc": {
+        "base": 0,
+        "bonus": 0
+      }
+    },
+    "scores": {
+      "str": {
+        "value": 12,
+        "base": 10
+      },
+      "dex": {
+        "value": 12,
+        "base": 10
+      },
+      "con": {
+        "value": 12,
+        "base": 10
+      },
+      "int": {
+        "value": 12,
+        "base": 10
+      },
+      "wis": {
+        "value": 12,
+        "base": 10
+      },
+      "cha": {
+        "value": 12,
+        "base": 10
+      }
+    },
+    "wealth": {
+      "th": 0,
+      "pf": 0,
+      "gr": 0
+    },
+    "levelBonus": "1+1",
+    "baseAC": 14,
+    "experience": 50,
+    "stats": {}
+  },
+  "prototypeToken": {
+    "name": "Highwayman",
+    "displayName": 30,
+    "actorLink": true,
+    "width": 1,
+    "height": 1,
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "color": null,
+      "attenuation": 0.5,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "systems/helveczia/assets/people/male/man_6.png",
+      "tint": "#ffffff",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": true,
+      "range": 30,
+      "brightness": 0,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1720372439592,
+    "modifiedTime": 1720372439592,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "Lwp5uxm0MagFdAFd",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!actors!Lwp5uxm0MagFdAFd"
+}

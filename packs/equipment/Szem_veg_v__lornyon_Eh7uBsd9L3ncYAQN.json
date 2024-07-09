@@ -1,0 +1,33 @@
+{
+  "folder": "jb0VFQ7c5oEmR7GQ",
+  "name": "Szemüveg v. lornyon",
+  "type": "possession",
+  "_id": "Eh7uBsd9L3ncYAQN",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "cost": {
+      "value": "4",
+      "coin": "th"
+    },
+    "encumbrance": "1"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719954875408,
+    "modifiedTime": 1719954877544,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!items!Eh7uBsd9L3ncYAQN"
+}

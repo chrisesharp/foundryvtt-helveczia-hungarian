@@ -1,0 +1,37 @@
+{
+  "name": "Keserű Táplálék",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ER3HMq6AdzRgV93H",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "cleric",
+    "range": "érintés",
+    "duration": "szintenként egy napig",
+    "area": "egy asztalnyi étek",
+    "save": "-",
+    "component": "",
+    "description": "<p class=\"p1\">&Uacute;gy megkeser&iacute;ti a t&aacute;pl&aacute;l&eacute;kot, hogy lenyelni is k&eacute;sz vezekl&eacute;s. Ez&eacute;rt sokan b&uuml;ntet&eacute;snek hihetik, pedig nagy haszna van: m&eacute;reg elleni mentődob&aacute;sokra +2-t ad, am&iacute;g a hat&oacute;idő le nem j&aacute;r.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720295050669,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "0pD5EfIX67WJ79s4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!0pD5EfIX67WJ79s4"
+}

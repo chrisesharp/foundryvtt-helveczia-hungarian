@@ -1,0 +1,33 @@
+{
+  "name": "Nyilak",
+  "type": "possession",
+  "_id": "ET9m8Naa0VwULMun",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": "<p>10 ny&iacute;lvessző</p>",
+    "cost": {
+      "value": "1",
+      "coin": "pf"
+    },
+    "encumbrance": "1"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 3900000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719870072797,
+    "modifiedTime": 1720032587543,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!items!ET9m8Naa0VwULMun"
+}

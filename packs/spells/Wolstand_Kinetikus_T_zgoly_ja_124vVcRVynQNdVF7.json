@@ -1,0 +1,37 @@
+{
+  "name": "Wolstand Kinetikus Tűzgolyója",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "LUIL15KYrp683hE7",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "student",
+    "range": "közepes",
+    "duration": "-",
+    "area": "egy czélpont",
+    "save": "-",
+    "component": "kénes, szurkos, sallétromos golyó",
+    "description": "<p class=\"p1\">Pergő-forg&oacute; t&uuml;zes goly&oacute;bist haj&iacute;t a cz&eacute;lpontnak, mi őt &eacute;rve felrobban, s 3d6 Hp-t sebez. Cz&eacute;lozni sz&uuml;ks&eacute;ges vele, de p&aacute;ncz&eacute;l ellene nem v&eacute;d, csak pajzs &eacute;s f&uuml;rges&eacute;g.</p>\n<p class=\"p1\"><strong>Komponense:</strong> egy k&eacute;nből, szurokb&oacute;l &eacute;s sall&eacute;tromb&oacute;l gy&uacute;rt goly&oacute;bis.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720282680516,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "124vVcRVynQNdVF7",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!124vVcRVynQNdVF7"
+}

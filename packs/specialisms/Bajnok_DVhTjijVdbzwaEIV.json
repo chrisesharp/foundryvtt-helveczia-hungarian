@@ -1,0 +1,94 @@
+{
+  "name": "Bajnok",
+  "type": "class",
+  "img": "icons/svg/combat.svg",
+  "effects": [
+    {
+      "_id": "8a9i75IKy1YWUTrO",
+      "changes": [
+        {
+          "key": "system.saves.bravery.bonus",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        },
+        {
+          "key": "system.saves.deftness.bonus",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        },
+        {
+          "key": "system.saves.temptation.bonus",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        },
+        {
+          "key": "system.hp.hd",
+          "mode": 2,
+          "value": "2",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Item.HnFICIz5UiS73zW0",
+      "transfer": true,
+      "flags": {},
+      "tint": "#ffffff",
+      "name": "Champion",
+      "description": "",
+      "statuses": [],
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "img": "icons/svg/aura.svg",
+      "type": "base",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!DVhTjijVdbzwaEIV.8a9i75IKy1YWUTrO"
+    }
+  ],
+  "folder": "Ov21n03SbW2TZT8u",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>Marczona, mindent kib&iacute;r&oacute; fegyveresek a b&eacute;rczekről, s&ouml;t&eacute;t erdőkből &eacute;s a v&aacute;s&aacute;rok erőműv&eacute;szei k&ouml;z&uuml;l. Izmuk mint az edzett acz&eacute;l,&nbsp; csontjuk pedig kov&aacute;csolt vashoz hasonlatos.</p>\n<p>1d12-vel dobj&aacute;k a Hp-j&uuml;ket &eacute;s +1 b&oacute;nuszt kapnak a mentődob&aacute;saikra.</p>",
+    "specialism": true,
+    "parent": "fighter"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829788934,
+    "modifiedTime": 1720165216409,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "DVhTjijVdbzwaEIV",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!DVhTjijVdbzwaEIV"
+}

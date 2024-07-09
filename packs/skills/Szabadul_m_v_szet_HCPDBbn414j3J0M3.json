@@ -1,0 +1,33 @@
+{
+  "name": "Szabadulóművészet",
+  "type": "skill",
+  "img": "icons/svg/coins.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>A karakter kiszabadulhat k&ouml;tel&eacute;keiből &eacute;s l&aacute;nczaib&oacute;l.</p>",
+    "ability": "dex",
+    "subtype": "vagabond",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829583790,
+    "modifiedTime": 1720132970676,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "HCPDBbn414j3J0M3",
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!HCPDBbn414j3J0M3"
+}

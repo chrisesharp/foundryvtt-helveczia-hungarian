@@ -1,0 +1,37 @@
+{
+  "name": "Pietro Scaraffa Salétromos Pókhálója",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ziA7MU7yGTlbURi0",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "student",
+    "range": "rövid",
+    "duration": "negyed óra",
+    "area": "szobányi",
+    "save": "deftness",
+    "component": "pókhálószálak",
+    "description": "<p class=\"p1\"><em>(Mentődob&aacute;s: F&uuml;rges&eacute;g &eacute;s B&aacute;tors&aacute;g)</em></p>\n<p class=\"p1\">Igen gonosz var&aacute;zsige, mivel d&uacute;s sal&eacute;trommal neh&eacute;z p&oacute;kh&aacute;l&oacute; sz&ouml;vet&eacute;t ereszti egy szob&aacute;ra, tiszt&aacute;sra avagy m&aacute;s hat&aacute;ros helyre. A ki mentődob&aacute;s&aacute;t elrontja, benneragad a h&aacute;l&oacute;ban, &eacute;s k&ouml;r&ouml;nk&eacute;nt 1d6 Hp-t vesz&iacute;t a rettentő k&ouml;h&ouml;g&eacute;stől (ezellen minden k&ouml;rben B&aacute;tors&aacute;g dobhat&oacute;). A h&aacute;l&oacute;b&oacute;l kit&ouml;rni m&aacute;r Neh&eacute;z F&uuml;rges&eacute;g dob&aacute;st k&iacute;v&aacute;n. A h&aacute;l&oacute; felgyullad, ha cs&oacute;v&aacute;t vetnek r&aacute;, &aacute;m ekkor minden foglya 3d4 Hp sebz&eacute;st k&eacute;nytelen elszenvedni.</p>\n<p class=\"p1\"><strong>Komponense:</strong> egy nitr&oacute;zus s&iacute;r m&eacute;ly&eacute;ről felhozott p&oacute;kh&aacute;l&oacute;sz&aacute;lak, mellyek teljesen &aacute;tszőtt&eacute;k egy holttest csontjait.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720276876678,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "nRQu5CWF5ffkMBRt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!nRQu5CWF5ffkMBRt"
+}

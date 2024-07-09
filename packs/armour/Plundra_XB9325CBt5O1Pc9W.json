@@ -1,0 +1,35 @@
+{
+  "name": "Plundra",
+  "type": "armour",
+  "_id": "XB9325CBt5O1Pc9W",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": "",
+    "bonus": 3,
+    "encumbrance": 1,
+    "shield": false,
+    "cost": {
+      "value": "2",
+      "coin": "th"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1720164617396,
+    "modifiedTime": 1720164624347,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!items!XB9325CBt5O1Pc9W"
+}

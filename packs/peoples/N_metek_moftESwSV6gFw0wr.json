@@ -1,0 +1,32 @@
+{
+  "name": "Németek",
+  "type": "people",
+  "img": "icons/svg/village.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>Szorgalmuk &eacute;s szaporas&aacute;guk emelte a n&eacute;meteket a kereszt&eacute;nys&eacute;g legerősebb t&ouml;rzs&eacute;v&eacute;, b&aacute;r ezt a t&ouml;rzset a Sors akarata egyhamar sz&aacute;z kisebb &aacute;llamra &eacute;s v&aacute;rosra has&iacute;totta. Ezeket sz&aacute;mbavenni hi&aacute;baval&oacute;s&aacute;g lenne, &eacute;s akad k&ouml;z&ouml;tt&uuml;k b&eacute;k&eacute;s vid&eacute;k &eacute;pp&uacute;gy, mint kasz&aacute;rny&aacute;kt&oacute;l &eacute;s k&eacute;k mund&eacute;ros katonas&aacute;gt&oacute;l roskadoz&oacute; birodalom. Minden n&eacute;met kitanulja azonban ősei valamelyik mesters&eacute;g&eacute;t, &eacute;s azt hozz&aacute;&eacute;rtőn gyakorolja.</p>\n<ul>\n<li>Szorgalmuknak k&ouml;sz&ouml;nhetően egy extra Mesters&eacute;g k&eacute;pzetts&eacute;get tanulhatnak, &eacute;s abban +2 b&oacute;nuszt &eacute;lveznek. A cz&eacute;hek regul&aacute;i szerint a j&aacute;t&eacute;k kezdet&eacute;től mesterleg&eacute;nyek, &eacute;s m&aacute;r 4. szinten elnyerhetik a mester rangj&aacute;t.</li>\n</ul>",
+    "quantity": null,
+    "weight": null
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829666347,
+    "modifiedTime": 1720160996110,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "moftESwSV6gFw0wr",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!moftESwSV6gFw0wr"
+}

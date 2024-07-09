@@ -1,0 +1,33 @@
+{
+  "name": "Üveges",
+  "type": "skill",
+  "img": "icons/svg/hanging-sign.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "",
+    "ability": "dex",
+    "subtype": "craft",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719829635931,
+    "modifiedTime": 1720133331809,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "lWn4G258gt2E7iux",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!lWn4G258gt2E7iux"
+}

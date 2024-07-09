@@ -1,0 +1,33 @@
+{
+  "name": "Koczkavetés",
+  "type": "skill",
+  "img": "icons/svg/temple.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>Koczk&aacute;t vetni &eacute;s k&aacute;rty&aacute;t olvasni nem nagy dolog, &aacute;mde &uacute;jra s &uacute;jra nyerni &ndash; az m&aacute;r nem semmis&eacute;g! Ki ezt a k&eacute;pzetts&eacute;get haszn&aacute;lja, maga fel&eacute; ford&iacute;thatja Fortuna orcz&aacute;j&aacute;t, avagy megtudhatja, teszi-&eacute; ezt m&aacute;s asztalt&aacute;rsa.</p>",
+    "ability": "dex",
+    "subtype": "practical",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829583790,
+    "modifiedTime": 1720132970676,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "BaQC7x0Coogtr7bj",
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!BaQC7x0Coogtr7bj"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Pap",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "jYzqAI6RbyYhjCtW",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719829788910,
+    "modifiedTime": 1720165147344,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "description": "",
+  "_key": "!folders!jYzqAI6RbyYhjCtW"
+}

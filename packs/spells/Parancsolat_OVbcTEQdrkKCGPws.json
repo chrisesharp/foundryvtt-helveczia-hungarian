@@ -1,0 +1,37 @@
+{
+  "name": "Parancsolat",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ER3HMq6AdzRgV93H",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "cleric",
+    "range": "közepes",
+    "duration": "a parancs idejéig, de öt minutánál nem tovább",
+    "area": "egy czélpont, s három szintenként még egy, avagy gyenge czélpontok kisebb csoportja",
+    "save": "temptation",
+    "component": "",
+    "description": "<p class=\"p1\">A hit ereje s tekint&eacute;lye mutatkozik meg a r&ouml;vid parancsolatban, mit a mentődob&aacute;s&aacute;t elv&eacute;tő r&ouml;gvest teljes&iacute;t. Em&iacute;gy egy str&aacute;zsa kinyithat egy ajt&oacute;t, egy f&ouml;sv&eacute;ny megnyithatja őrizgetett ersz&eacute;ny&eacute;t, egy kisebb csoport haramia szabad &aacute;thalad&aacute;st adhat, s egy bak&oacute; leeresztheti csap&aacute;sra emelt b&aacute;rdj&aacute;t. Ha a parancsolat a cz&eacute;lpontok term&eacute;szete &eacute;s utas&iacute;t&aacute;sai ellen val&oacute;, a r&ouml;vidke idő lej&aacute;rt&aacute;val k&ouml;nnyen ism&eacute;t megm&aacute;s&iacute;thatj&aacute;k sz&aacute;nd&eacute;kukat.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720295777544,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "OVbcTEQdrkKCGPws",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!OVbcTEQdrkKCGPws"
+}

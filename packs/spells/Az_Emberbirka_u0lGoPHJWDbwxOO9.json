@@ -1,0 +1,37 @@
+{
+  "name": "Az Emberbirka",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "UNLAvFf46znK3j0K",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "cleric",
+    "range": "rövid",
+    "duration": "sajnos ez végleges",
+    "area": "egy czélpont",
+    "save": "bravery",
+    "component": "",
+    "description": "<p class=\"p1\">Ember &eacute;s birka szents&eacute;gtelen hibridj&eacute;v&eacute; v&aacute;ltoztat valakit, aki alacsony vagy k&ouml;zepes Virtus&uacute;. Az eredm&eacute;ny emberszerű, de itt-ott bolyhos, valamint fűevő, b&eacute;k&eacute;s, &eacute;s besz&eacute;d mellett igen sokat szokott b&eacute;getni. Mi haszna van ennek? M&eacute;g nem der&uuml;lt ki, hacsaknem valami p&eacute;ld&aacute;zatk&eacute;nt sz&aacute;nt&aacute;k.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720300036150,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "u0lGoPHJWDbwxOO9",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!u0lGoPHJWDbwxOO9"
+}

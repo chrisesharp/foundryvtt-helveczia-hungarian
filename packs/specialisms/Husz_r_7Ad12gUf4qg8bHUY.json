@@ -1,0 +1,32 @@
+{
+  "name": "Huszár",
+  "type": "class",
+  "img": "icons/svg/combat.svg",
+  "effects": [],
+  "folder": "Ov21n03SbW2TZT8u",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>A legjobb husz&aacute;rok a magyarok &eacute;s lengyelek k&ouml;z&ouml;tt teremnek, de regimentjeik m&aacute;r m&aacute;shol is l&oacute;ra kaptak.</p>\n<p>A nyeregből minden k&ouml;rben extra t&aacute;mad&aacute;st kapnak +1-es alap t&aacute;mad&oacute;&eacute;rt&eacute;kkel.</p>",
+    "specialism": true,
+    "parent": "fighter"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829788934,
+    "modifiedTime": 1720165307564,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "7Ad12gUf4qg8bHUY",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!7Ad12gUf4qg8bHUY"
+}

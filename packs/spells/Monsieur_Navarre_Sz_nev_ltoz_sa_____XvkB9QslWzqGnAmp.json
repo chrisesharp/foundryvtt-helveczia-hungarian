@@ -1,0 +1,37 @@
+{
+  "name": "Monsieur Navarre Színeváltozása (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ziA7MU7yGTlbURi0",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "student",
+    "range": "érintés",
+    "duration": "egy napig vagy tovább",
+    "area": "önmagára és egy más személyre",
+    "save": "bravery",
+    "component": "ezüstlemez",
+    "description": "<p class=\"p1\">Ezzel a h&aacute;tborzongat&oacute; met&oacute;dussal egy napra helyet cser&eacute;l a magiszter &eacute;s cz&eacute;lpontja orcz&aacute;ja, ha ut&oacute;bbi elt&eacute;veszti mentődob&aacute;s&aacute;t. Csak a k&eacute;t arczra hat, ez&eacute;rt m&aacute;s m&oacute;dszerekkel is kendőznie kell mag&aacute;t, &aacute;m &iacute;gy is ollyan roppant gonoszs&aacute;gokra lehet haszn&aacute;lni, hogy itt sz&oacute; sem fog esni r&oacute;luk. M&aacute;snap az &aacute;ldozat &uacute;jra dobhat a var&aacute;zslat ellen, ha ebben &aacute;lom vagy rosszabb sors meg nem akad&aacute;lyozza.</p>\n<p class=\"p1\"><strong>Komponense:</strong> egy ritka savakban &eacute;s s&oacute;kban prepar&aacute;lt, fekete pap&iacute;rlapok k&ouml;z&ouml;tt őrz&ouml;tt ez&uuml;stlemezt kell elh&uacute;zni a k&eacute;t orcza k&ouml;z&ouml;tt, mire a k&eacute;t k&eacute;p a f&eacute;nytől rajta megjelenik, majd gyorsan megford&iacute;tani.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720276639046,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "XvkB9QslWzqGnAmp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!XvkB9QslWzqGnAmp"
+}

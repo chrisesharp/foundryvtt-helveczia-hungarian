@@ -1,0 +1,37 @@
+{
+  "name": "Mértékletes Móres",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ER3HMq6AdzRgV93H",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "cleric",
+    "range": "közepes",
+    "duration": "a küzdelem végéig vagy míg a botot el nem törik",
+    "area": "udvarnyi",
+    "save": "-",
+    "component": "",
+    "description": "<p class=\"p1\">Sokszor kell komisz embert megregul&aacute;zni, &eacute;s &ndash; mint B&ouml;lcs Salamon mondta volt a Szent&iacute;r&aacute;sban &ndash; nincs is erre jobb m&oacute;d, mint egy erős p&aacute;lcza. Ez a var&aacute;zslat egy illyen botot vagy hus&aacute;ngot eleven&iacute;t meg. K&eacute;tf&eacute;le haszn&aacute;lata is van. Harczban az ellen ir&aacute;nt k&uuml;ldhető, &eacute;s&nbsp;1+1., harmadik szinttől 2+1., &ouml;t&ouml;dik szinttől pedig 3+1. szintűk&eacute;nt k&uuml;zd, VO-ja 12, sebz&eacute;se 1d6+1, de nem okoz maradand&oacute; sebes&uuml;l&eacute;seket, csak kicsit helybenhagyja, akit el&eacute;r.</p>\n<p class=\"p1\">M&aacute;sf&eacute;lek&eacute;ppen arra is j&oacute;, hogy kamr&aacute;t, l&aacute;dafi&aacute;t, pincz&eacute;t vagy hasonl&oacute;t őrizzenek vele, s ha azt csintalan betolakod&oacute; h&aacute;borgatn&aacute;, a falnak vagy l&oacute;cz&aacute;nak t&aacute;masztott bot felemelkedik &eacute;s ell&aacute;tja a baj&aacute;t.&nbsp;Ekkor egy alkalommal eggyel t&ouml;bb &uuml;t&eacute;st tud leadni, mint amennyi szintje van, de ha az oktalan bűn&eacute;t b&aacute;nva elfut, nem fogja k&ouml;vetni, hanem ism&eacute;t megnyugszik. Ez addig tart, am&iacute;g a botot el nem t&ouml;rik.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720296229707,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "JYrO4rTwZLyOttF8",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!JYrO4rTwZLyOttF8"
+}

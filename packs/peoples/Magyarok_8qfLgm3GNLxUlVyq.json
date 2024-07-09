@@ -1,0 +1,123 @@
+{
+  "name": "Magyarok",
+  "type": "people",
+  "img": "icons/svg/village.svg",
+  "effects": [
+    {
+      "_id": "YFCB3PcwUYouioB4",
+      "changes": [
+        {
+          "key": "system.attack.melee.bonus",
+          "mode": 2,
+          "value": "2",
+          "priority": null
+        },
+        {
+          "key": "system.ac",
+          "mode": 2,
+          "value": "2",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Item.9v9m0oBZhjSivWni",
+      "transfer": true,
+      "flags": {},
+      "tint": "#ffffff",
+      "name": "Heroic",
+      "description": "",
+      "statuses": [],
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "img": "icons/svg/aura.svg",
+      "type": "base",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!8qfLgm3GNLxUlVyq.YFCB3PcwUYouioB4"
+    },
+    {
+      "_id": "bqVSNie2EXkdaNal",
+      "changes": [
+        {
+          "key": "system.saves",
+          "mode": 0,
+          "value": "{\"type\":\"random_save\",\"value\":\"-2\"}",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Item.9v9m0oBZhjSivWni",
+      "transfer": true,
+      "flags": {},
+      "tint": "#ffffff",
+      "name": "Ill-fated",
+      "description": "",
+      "statuses": [],
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "img": "icons/svg/aura.svg",
+      "type": "base",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!8qfLgm3GNLxUlVyq.bqVSNie2EXkdaNal"
+    }
+  ],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>A magyarok dali&aacute;s n&eacute;pe vit&eacute;zs&eacute;gre &eacute;s harczra termett, s erej&eacute;t tat&aacute;r, t&ouml;r&ouml;k ellen mind-mind megpr&oacute;b&aacute;lta. Nincs is nagyobb ellens&eacute;ge, mint &ouml;nn&ouml;nmaga: Ferencz cs&aacute;sz&aacute;r &eacute;s vit&eacute;z II. Győző fejedelem hadai k&ouml;z&ouml;tt nagyobb a h&aacute;bor&uacute;s&aacute;g &eacute;s a a t&eacute;pő belvisz&aacute;ly, mint amennyit III. Mehemet ellen hadakozn&aacute;nak.</p>\n<ul>\n<li>+2-t kapnak k&ouml;zelharczi t&aacute;mad&oacute;&eacute;rt&eacute;k&uuml;kre &eacute;s VO-jukra.</li>\n<li>Az őket t&eacute;pő balsors hat&aacute;sak&eacute;nt minden kaland sor&aacute;n -2-t kapnak egy mentődob&aacute;sukra (v&eacute;letlenszerűen hat&aacute;rozzuk meg az első dob&aacute;sn&aacute;l). Ezen t&uacute;l mindenf&eacute;le balszerencse, visz&aacute;ly &eacute;s sorscsap&aacute;s &eacute;ri őket, a mes&eacute;lő k&eacute;nye&ndash;kedve szerint.</li>\n</ul>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829666347,
+    "modifiedTime": 1720161153839,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "8qfLgm3GNLxUlVyq",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!8qfLgm3GNLxUlVyq"
+}

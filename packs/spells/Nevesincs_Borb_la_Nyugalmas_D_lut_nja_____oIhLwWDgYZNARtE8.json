@@ -1,0 +1,37 @@
+{
+  "name": "Nevesincs Borbála Nyugalmas Délutánja (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ziA7MU7yGTlbURi0",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "student",
+    "range": "-",
+    "duration": "három óráig",
+    "area": "önmagára",
+    "save": "-",
+    "component": "egy hegyikristály golyóbis",
+    "description": "<p class=\"p1\">A b&aacute;jjal &eacute;s kellemmel bős&eacute;ggel meg&aacute;ldott Stranz Borb&aacute;la (ki csal&aacute;dj&aacute;t s jegyes&eacute;t megtagadv&aacute;n vette f&ouml;l a Nevesincs nevet) &ouml;tl&ouml;tte ki ezt a var&aacute;zslatot, hogy a gavall&eacute;rokt&oacute;l, tolvajokt&oacute;l s minden m&aacute;s zaklat&oacute;kt&oacute;l nyugton legyen. &Uacute;gy veszi k&ouml;r&uuml;l egy l&aacute;thatatlan erő, mint a burok; s azt &aacute;ltall&eacute;pni vagy h&aacute;bor&iacute;tani nem lehet. Csak ny&iacute;l vagy goly&oacute; f&eacute;rkőzik &aacute;t rajta, de ellene is +2 VO-t ad. A hat&aacute;s a m&aacute;sik ir&aacute;nyba is azonos.</p>\n<p class=\"p1\"><strong>Komponense:</strong> egy hegyikrist&aacute;ly goly&oacute;bis, minek k&ouml;zep&eacute;n egy par&aacute;nyi sz&iacute;v v&ouml;r&ouml;slik</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720277675333,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "oIhLwWDgYZNARtE8",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!oIhLwWDgYZNARtE8"
+}

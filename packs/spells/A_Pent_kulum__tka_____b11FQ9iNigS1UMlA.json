@@ -1,0 +1,37 @@
+{
+  "name": "A Pentákulum Átka (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ziA7MU7yGTlbURi0",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "student",
+    "range": "rövid",
+    "duration": "míg meg nem törik",
+    "area": "egy személyre",
+    "save": "temptation",
+    "component": "egy pentákulum-pecsét",
+    "description": "<p class=\"p1\">Oly bűv&ouml;letet babon&aacute;z egy cz&eacute;lpontra, hogy neh&eacute;z l&aacute;nczok &eacute;s s&uacute;lyok tagl&oacute;zz&aacute;k le minden tagj&aacute;t. Minden dob&aacute;s&aacute;ra -4 j&aacute;rul, s &aacute;tka addig tart, m&iacute;g valaki a pent&aacute;kulum pecs&eacute;tj&eacute;t vissza nem szerzi &eacute;s malomker&eacute;k alatt meg nem t&ouml;ri. Egy zsid&oacute; pall&eacute;r amond&oacute; volt, hogy egy csodarabbi a pent&aacute;kulumot megfejthetn&eacute;, sz&aacute;raira szedn&eacute; &eacute;s &iacute;gy levehetn&eacute;, &aacute;m ki tudja mi igaz belőle.</p>\n<p class=\"p1\"><strong>Komponens:</strong> egy pent&aacute;kulum-pecs&eacute;t, mit r&eacute;zből kell &ouml;tv&ouml;zni, arannyal futtatni &eacute;s czirkalmas v&eacute;setekkel czifr&aacute;zni. 25 Th-t k&oacute;st&aacute;l. T&ouml;bbsz&ouml;r is alkalmatos, &aacute;m egyszerre csak egy &aacute;tokra j&oacute;, s t&ouml;bbet belőle czipelni nem lehet.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720276740163,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "b11FQ9iNigS1UMlA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!b11FQ9iNigS1UMlA"
+}

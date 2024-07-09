@@ -1,0 +1,37 @@
+{
+  "name": "Alessandra Agnelli Tüdővizenyője (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ziA7MU7yGTlbURi0",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "student",
+    "range": "érintés",
+    "duration": "míg meg nem gyógyítják",
+    "area": "egy czélpont",
+    "save": "bravery",
+    "component": "egy holttest tüdeje",
+    "description": "<p class=\"p1\">K&uuml;l&ouml;n&ouml;sen &ouml;rd&ouml;gi var&aacute;zsige, mert egyetlen &eacute;rint&eacute;sre megsorvasztja &eacute;s elvizes&iacute;ti az &aacute;ldozat t&uuml;dej&eacute;t, ha nem dob ellene mentődob&aacute;st. A szerencs&eacute;tlen roncs ezut&aacute;n csak k&ouml;h&ouml;gve &eacute;s nehezen botork&aacute;lhat, mert minden nagyobb erőkifejt&eacute;sre &ndash; harcz, fut&aacute;s, v&aacute;gt&aacute;z&oacute; l&oacute; meg&uuml;l&eacute;se &eacute;s hasonl&oacute;k &ndash; mentődob&aacute;st kell dobnia, vagy 1d3 Hp-t, k&uuml;l&ouml;n&ouml;sen nagy erőkifejt&eacute;sn&eacute;l pedig 1d6 Hp-t vesz&iacute;t.</p>\n<p class=\"p1\"><strong>Komponense</strong>: egy holttest t&uuml;deje kell hozz&aacute;, ki t&uuml;dőbajban halt meg, s tinctura, melyben a mester azt elt&aacute;rolja.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720277460090,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "JguHYz3tiZFguuAo",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!JguHYz3tiZFguuAo"
+}

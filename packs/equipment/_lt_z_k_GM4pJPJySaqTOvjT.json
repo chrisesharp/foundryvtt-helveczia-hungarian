@@ -1,0 +1,22 @@
+{
+  "name": "Öltözék",
+  "sorting": "m",
+  "folder": "t06mlm9xZxH9G5ZA",
+  "type": "Item",
+  "_id": "GM4pJPJySaqTOvjT",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!GM4pJPJySaqTOvjT"
+}

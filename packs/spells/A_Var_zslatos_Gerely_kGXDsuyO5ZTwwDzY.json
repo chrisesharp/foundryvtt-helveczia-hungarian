@@ -1,0 +1,37 @@
+{
+  "name": "A Varázslatos Gerely",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "MUygynGYWUAKLwPj",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "student",
+    "range": "közepes",
+    "duration": "-",
+    "area": "egy személyre",
+    "save": "-",
+    "component": "egy metszett ólomvessző",
+    "description": "<p class=\"p1\">Egy gerelyt haj&iacute;t az ellen fel&eacute;, melly 2d6 Hp-t &eacute;s m&eacute;g 2 szintenk&eacute;nt 1 pontot sebez. Cz&eacute;lozni sz&uuml;ks&eacute;ges vele, de a p&aacute;ncz&eacute;lt-pajzsot &aacute;ltald&ouml;fi.</p>\n<p class=\"p1\"><strong>Komponense:</strong> egy metszett &oacute;lomvessző, melyet r&eacute;zg&aacute;liczban kell &aacute;ztatni &eacute;s kaszatokban t&aacute;rolni.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720278003805,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "kGXDsuyO5ZTwwDzY",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!kGXDsuyO5ZTwwDzY"
+}

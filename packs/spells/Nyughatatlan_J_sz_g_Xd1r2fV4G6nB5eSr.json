@@ -1,0 +1,37 @@
+{
+  "name": "Nyughatatlan Jószág",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "LUIL15KYrp683hE7",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "student",
+    "range": "közepes",
+    "duration": "egy óráig",
+    "area": "egy udvar minden jószága, de a nagyobbfé- lékből csak szintenként egy",
+    "save": "temptation",
+    "component": "házi jószágok agya",
+    "description": "<p class=\"p1\">A var&aacute;zslatt&oacute;l megv&eacute;sz minden h&aacute;zi barom, s mag&aacute;b&oacute;l kikelve r&uacute;g, &ouml;klel vagy harap; b&eacute;kly&oacute;j&aacute;t t&eacute;pi, a pal&aacute;nkot fell&ouml;ki, s ha teheti, szertefut vagy gazd&aacute;j&aacute;nak ront. Ebből ty&uacute;k&oacute;ln&aacute;l csak kisebb galiba sz&aacute;rmazik: de ahol bika, l&oacute; &eacute;s vad&aacute;szeb van, ott m&aacute;r nem tr&eacute;fadolog. Amikor a var&aacute;zslat erej&eacute;nek v&eacute;ge szakad, kimer&uuml;lv&eacute;n vaczk&aacute;ra t&eacute;r mind, hacsak messze el nem k&oacute;borolt: de gyakran ezut&aacute;n m&aacute;r nem lesz ollyan kezes, mint volt.</p>\n<p class=\"p1\"><strong>Komponense:</strong> h&aacute;zi j&oacute;sz&aacute;gok agy&aacute;b&oacute;l kell fluidumokat csapolni, majd egy veres rongyot benne &eacute;s kev&eacute;s higanyban megm&aacute;rtani.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720281973750,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "Xd1r2fV4G6nB5eSr",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!Xd1r2fV4G6nB5eSr"
+}

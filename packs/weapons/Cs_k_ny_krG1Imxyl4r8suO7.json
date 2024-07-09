@@ -1,0 +1,43 @@
+{
+  "name": "Csákány",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>K&eacute;tkezes, +1 j&aacute;r a sebz&eacute;sre</p>",
+    "attack": "melee",
+    "damage": "1d6",
+    "critical": {
+      "range": "20",
+      "multiple": "4"
+    },
+    "encumbrance": "1",
+    "bonus": "0",
+    "reload": 0,
+    "cost": {
+      "value": "6",
+      "coin": "pf"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719828918413,
+    "modifiedTime": 1720032318479,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "krG1Imxyl4r8suO7",
+  "sort": 1100000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!krG1Imxyl4r8suO7"
+}

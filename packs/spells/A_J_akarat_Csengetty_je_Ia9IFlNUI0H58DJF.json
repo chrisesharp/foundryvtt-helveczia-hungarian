@@ -1,0 +1,37 @@
+{
+  "name": "A Jóakarat Csengettyűje",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ER3HMq6AdzRgV93H",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "cleric",
+    "range": "-",
+    "duration": "egyetlen nap",
+    "area": "egy személyre",
+    "save": "temptation",
+    "component": "",
+    "description": "<p class=\"p2\">Ez a csengettyű csak annak l&aacute;that&oacute;, kinek feje mellett lebeg, s csilingel&eacute;s&eacute;t is ő hallja csak, mikor bűnt k&ouml;vetne el. Rem&eacute;lhető, hogy tett&eacute;től a figyelmeztet&eacute;sre visszahők&ouml;l &ndash; s k&uuml;l&ouml;n&ouml;sen, hogy nem pr&oacute;b&aacute;lja a var&aacute;zst ignor&aacute;lni.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720294894144,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "Ia9IFlNUI0H58DJF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!Ia9IFlNUI0H58DJF"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "A Tölgy Tanúságtétele",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "UNLAvFf46znK3j0K",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "cleric",
+    "range": "közepes",
+    "duration": "azonnal vagy egy napig",
+    "area": "tölgyfa",
+    "save": "-",
+    "component": "",
+    "description": "<p class=\"p1\">Akkor val&oacute; ezt haszn&aacute;lni, ha nagyon nagy hamiss&aacute;g fenyeget egy gy&uuml;lekezetet. Ekkor a pap vonjon a fa al&aacute; apr&oacute;t s nagyot, s sz&oacute;l&iacute;tsa a hatalmas t&ouml;lgyet, hogy engedelmeskedj&eacute;k az &Uacute;r J&eacute;zus Krisztus &eacute;s Minden Szentek nev&eacute;ben. Ekkor az legott megdűl s agyon&uuml;ti aki a jelenl&eacute;vőkből rosszat forral, m&aacute;sk&eacute;ppen koron&aacute;ja alatt egy napig v&eacute;delmet ad k&uuml;lső ellens&eacute;ggel szemben. &Aacute;mde lehet, hogy ekkor igen sok hamisak meghalnak, avagy az ellen k&ouml;rbeveszi a gy&uuml;lekezetet s kiv&aacute;rja a hat&aacute;s elm&uacute;lt&aacute;t, merthogy ezalatt se ki, se be. Ez&eacute;rt alkalmazni nagyon koczk&aacute;zatos, &eacute;s csak kevesen merik megtenni.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720300925519,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "XtXurdua0AoOYYm7",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!XtXurdua0AoOYYm7"
+}

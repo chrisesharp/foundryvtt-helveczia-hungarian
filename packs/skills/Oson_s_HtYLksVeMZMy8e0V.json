@@ -1,0 +1,33 @@
+{
+  "name": "Osonás",
+  "type": "skill",
+  "img": "icons/svg/temple.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>Cs&ouml;ndes &eacute;s gyors mozg&aacute;st tesz lehetőv&eacute;, s azt, hogy a karakter &ouml;nmag&aacute;t, t&aacute;rsait &eacute;s javait elrejtse a f&uuml;rk&eacute;sző tekintetek elől &ndash; igen nagy szak&eacute;rtelemmel ak&aacute;r s&ouml;t&eacute;t sarkokban vagy &aacute;rny&eacute;kokban is.</p>",
+    "ability": "dex",
+    "subtype": "practical",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829583790,
+    "modifiedTime": 1720132970676,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "HtYLksVeMZMy8e0V",
+  "sort": 1100000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!HtYLksVeMZMy8e0V"
+}

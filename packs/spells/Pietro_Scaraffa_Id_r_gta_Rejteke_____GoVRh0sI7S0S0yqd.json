@@ -1,0 +1,37 @@
+{
+  "name": "Pietro Scaraffa Időrágta Rejteke (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "MUygynGYWUAKLwPj",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "student",
+    "range": "közepes",
+    "duration": "végleges",
+    "area": "udvarnyi téren önmaga körül",
+    "save": "-",
+    "component": "sírokból gyűjtött por és repkény",
+    "description": "<p class=\"p1\">Rejtekhelyet, menek&uuml;lő csap&aacute;s&aacute;t, titkolt holttestet elrejt ez a var&aacute;zs, mert ollyan &aacute;llapotot teremt, mintha a hely időtlen idők &oacute;ta kietlen&uuml;l &aacute;llana: t&ouml;rmel&eacute;k, por &eacute;s repk&eacute;ny bor&iacute;t el mindent. Ak&aacute;r egy kisebb h&aacute;zat is r&eacute;giv&eacute; bűv&ouml;l, de csak ha elhagyatott.</p>\n<p class=\"p1\"><strong>Komponense</strong>: s&iacute;rokb&oacute;l gyűjt&ouml;tt port kell temetői repk&eacute;ny kivonat&aacute;val elvegy&iacute;teni, majd kisz&aacute;r&iacute;tv&aacute;n szertesz&oacute;rni.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720281049707,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "GoVRh0sI7S0S0yqd",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!GoVRh0sI7S0S0yqd"
+}

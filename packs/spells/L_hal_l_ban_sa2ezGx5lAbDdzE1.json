@@ -1,0 +1,37 @@
+{
+  "name": "Lóhalálában",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "MUygynGYWUAKLwPj",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "student",
+    "range": "érintés",
+    "duration": "egy napig",
+    "area": "lóra kell mondani",
+    "save": "bravery",
+    "component": "méreg",
+    "description": "<p class=\"p1\">Nagyon messzire el&eacute;rhet h&aacute;tasa &eacute;lete &aacute;r&aacute;n, aki ezt a var&aacute;zslatot felhaszn&aacute;lja: k&eacute;taddig, mint egy nap alatt rendesen, mi cz&eacute;ljai el&eacute;r&eacute;s&eacute;hez vagy &uuml;ld&ouml;zői lehagy&aacute;s&aacute;hoz egyar&aacute;nt hasznos lehet. Mire az időnek v&eacute;ge van, a l&oacute; felp&uuml;ffedve &eacute;s m&eacute;rges habot vetve borzaszt&oacute; r&aacute;ng&aacute;sok k&ouml;z&ouml;tt kim&uacute;lik. Van h&aacute;tas, ami mentődob&aacute;ssal t&uacute;l&eacute;li, de csak a nagyon kiv&aacute;l&oacute;ak, s ut&aacute;na ezeket is egy hetet kell pihentetni &eacute;s mediczin&aacute;kkal &aacute;polni. Emberre is mondhatni, de ilyet csak az igaz&aacute;n elvetem&uuml;ltek tesznek, &eacute;s az &aacute;ldozatnak itt egy K&iacute;s&eacute;rt&eacute;s mentődob&aacute;sa is lehet m&eacute;g ellene.</p>\n<p class=\"p1\"><strong>Komponens:</strong> m&eacute;reg, mit a l&oacute; f&uuml;l&eacute;n kell bef&uacute;ni, s mi az agyat sz&ouml;rnyűs&eacute;ges f&aacute;jdalmakkal izgatja.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720278508981,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "sa2ezGx5lAbDdzE1",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!sa2ezGx5lAbDdzE1"
+}

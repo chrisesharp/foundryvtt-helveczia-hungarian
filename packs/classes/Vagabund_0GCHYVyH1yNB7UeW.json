@@ -1,0 +1,133 @@
+{
+  "name": "Vagabund",
+  "type": "class",
+  "img": "icons/svg/coins.svg",
+  "effects": [
+    {
+      "_id": "JJZAEtiB0B7DOteB",
+      "changes": [
+        {
+          "key": "system.saves.deftness.base",
+          "mode": 0,
+          "value": "{\"type\":\"save\",\"primary\":\"true\"}",
+          "priority": null
+        },
+        {
+          "key": "system.saves.bravery.base",
+          "mode": 0,
+          "value": "{\"type\":\"save\",\"primary\":\"false\"}",
+          "priority": null
+        },
+        {
+          "key": "system.saves.temptation.base",
+          "mode": 0,
+          "value": "{\"type\":\"save\",\"primary\":\"false\"}",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Item.JZr56IoZquOrwlPL",
+      "transfer": true,
+      "flags": {},
+      "tint": "#ffffff",
+      "name": "Saves",
+      "description": "",
+      "statuses": [],
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "img": "icons/svg/aura.svg",
+      "type": "base",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!0GCHYVyH1yNB7UeW.JJZAEtiB0B7DOteB"
+    },
+    {
+      "_id": "KCH70gHQpjKjHgre",
+      "changes": [
+        {
+          "key": "system.attack",
+          "mode": 0,
+          "value": "{\"type\":\"attack_bonus\"}",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Item.JZr56IoZquOrwlPL",
+      "transfer": true,
+      "flags": {},
+      "tint": "#ffffff",
+      "name": "Attack",
+      "description": "",
+      "statuses": [],
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "img": "icons/svg/aura.svg",
+      "type": "base",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!0GCHYVyH1yNB7UeW.KCH70gHQpjKjHgre"
+    }
+  ],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>Helv&eacute;czi&aacute;ban, nemk&uuml;l&ouml;nben m&aacute;s f&ouml;ldek &uacute;tjain, v&aacute;ndorbottal vagy szer&eacute;ny h&aacute;tassal gyakran l&aacute;tni m&aacute;s &eacute;s m&aacute;s vagabundust: mesterleg&eacute;nyt &eacute;s botork&aacute;l&oacute; koldust, set&eacute;t sz&iacute;vű latrot &eacute;s h&aacute;zal&oacute; kereskedőt, mesterdalnokot &eacute;s &eacute;lelmes zsebest. Fortuna kegyeibe aj&aacute;nlv&aacute;n magukat, legjobbjaik egyszerre j&aacute;rtasak a fegyverek forgat&aacute;s&aacute;ban &eacute;s m&aacute;s hasznos praktik&aacute;kban.</p>\n<ul>\n<li>T&aacute;mad&aacute;sb&oacute;nusz: Szint*2/3</li>\n<li>Mentődob&aacute;s: F&uuml;rges&eacute;g az első, B&aacute;tors&aacute;g &eacute;s&nbsp;K&iacute;s&eacute;rt&eacute;s a m&aacute;sodik oszlop szerint</li>\n<li>Fegyverhaszn&aacute;lat: b&aacute;rmilyen</li>\n<li>P&aacute;ncz&eacute;lhaszn&aacute;lat: k&ouml;nnyű</li>\n<li>Hp: szintenk&eacute;nt 1d8</li>\n</ul>",
+    "specialism": false,
+    "parent": "cleric",
+    "quantity": null,
+    "weight": null
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829769836,
+    "modifiedTime": 1720164052092,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "0GCHYVyH1yNB7UeW",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!0GCHYVyH1yNB7UeW"
+}

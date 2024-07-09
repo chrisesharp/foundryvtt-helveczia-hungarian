@@ -1,0 +1,37 @@
+{
+  "name": "A Tekintet Magnetizmusa (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "LUIL15KYrp683hE7",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "student",
+    "range": "közepes",
+    "duration": "két-három óra ez is",
+    "area": "önmagára, s ki ezután megszemléli",
+    "save": "temptation",
+    "component": "egy mágneskő",
+    "description": "<p class=\"p1\">Mikor a bűb&aacute;j elmond&oacute;ja v&eacute;gigs&eacute;t&aacute;l az utcz&aacute;n, minden szem fel&eacute; fordul, mert mindegyik valami &eacute;rdekeset l&aacute;t meg benne. Nem lehet megmondani, mi lapul az emberek esz&eacute;ben &eacute;s sz&iacute;v&eacute;ben, de valamif&eacute;le oka mindenkinek akadni fog. Ez a var&aacute;zslat teh&aacute;t sokf&eacute;le hasznos &eacute;s &eacute;rdekes tal&aacute;lkoz&aacute;shoz vezet, de k&uuml;l&ouml;n&ouml;sen hasonszőrűekkel. M&aacute;sk&eacute;nt ford&iacute;tva meg pont ellenkezőleg, eltereli a figyelmet mag&aacute;r&oacute;l, &eacute;s aki l&aacute;tja, sem fogja &eacute;rdekesnek &iacute;t&eacute;lni. Nem vesz&eacute;lytelen a haszn&aacute;lata, mert olykor &ouml;nmaga tekintet&eacute;re is hat &eacute;s nagyon mag&aacute;ba fordul, vagy &ouml;nmag&aacute;t szem elől vesz&iacute;ti; m&aacute;sr&eacute;szről nem minden figyelem kifizetődő.</p>\n<p class=\"p1\"><strong>Komponense:</strong> egy m&aacute;gneskő, de csakis egyp&oacute;lus&uacute; lehet.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720281495772,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "MRWr3LRn7wbaTQ4c",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!MRWr3LRn7wbaTQ4c"
+}

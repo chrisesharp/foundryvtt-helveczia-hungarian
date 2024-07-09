@@ -1,0 +1,37 @@
+{
+  "name": "Az Enyhítő Balzsam",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ER3HMq6AdzRgV93H",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "cleric",
+    "range": "érintésre",
+    "duration": "azonnali",
+    "area": "önmagára avagy más személyre",
+    "save": "-",
+    "component": "",
+    "description": "<p class=\"p1\">F&aacute;jdalomra, kisebb sebes&uuml;l&eacute;sekre &eacute;s gondokra val&oacute; ez a var&aacute;zs, mi 1d6 Hp-t &eacute;s m&eacute;g k&eacute;t szintenk&eacute;nt 1-et gy&oacute;gy&iacute;t cz&eacute;lpontj&aacute;n, s a k&aacute;ros var&aacute;zslatok, hat&aacute;sok erej&eacute;t megsz&uuml;nteti. Betegs&eacute;gre &eacute;s m&eacute;regre nem hat&aacute;sos.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720296737634,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "hs2E8gwDotzynov9",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!hs2E8gwDotzynov9"
+}

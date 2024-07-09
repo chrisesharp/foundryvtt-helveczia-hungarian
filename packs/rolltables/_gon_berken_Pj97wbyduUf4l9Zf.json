@@ -1,0 +1,151 @@
+{
+  "name": "Ágon-berken",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>Az eredmények gyászos katalógusa</p>",
+  "results": [
+    {
+      "_id": "grlIRWdhhRoRtG2V",
+      "type": "text",
+      "text": "Vad s madár gyomra lőn földi koporsója",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "_key": "!tables.results!Pj97wbyduUf4l9Zf.grlIRWdhhRoRtG2V"
+    },
+    {
+      "_id": "KZq9anMhiFj7TqOp",
+      "type": "text",
+      "text": "Nyom nélkül veszett el a vadon útjain",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "_key": "!tables.results!Pj97wbyduUf4l9Zf.KZq9anMhiFj7TqOp"
+    },
+    {
+      "_id": "LpFkRFtatt6hXMfC",
+      "type": "text",
+      "text": "Zavarodottan találták, kik arra jártak",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "_key": "!tables.results!Pj97wbyduUf4l9Zf.LpFkRFtatt6hXMfC"
+    },
+    {
+      "_id": "qv03DbiEukLxQodp",
+      "type": "text",
+      "text": "Rablók vagy mások kezére jutott, s ki tudja, hogyan szabadul fogságából",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "_key": "!tables.results!Pj97wbyduUf4l9Zf.qv03DbiEukLxQodp"
+    },
+    {
+      "_id": "FdL7liNSmGgyg2do",
+      "type": "text",
+      "text": "Élve, de kirabolván találtatik a havasok alatt",
+      "weight": 1,
+      "range": [
+        6,
+        7
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "_key": "!tables.results!Pj97wbyduUf4l9Zf.FdL7liNSmGgyg2do"
+    },
+    {
+      "_id": "u0baED2N0cYUwIUq",
+      "type": "text",
+      "text": "Hosszas tévelygéssel, sebesülvén de czéljához ér",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "_key": "!tables.results!Pj97wbyduUf4l9Zf.u0baED2N0cYUwIUq"
+    },
+    {
+      "_id": "1HWXIHJWSPDLy9dP",
+      "type": "text",
+      "text": "Különös helyet látván tér meg útjáról",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "_key": "!tables.results!Pj97wbyduUf4l9Zf.1HWXIHJWSPDLy9dP"
+    },
+    {
+      "_id": "7HyiDkuQbIDI30zG",
+      "type": "text",
+      "text": "Épségben ér vissza, hová útja vezetett",
+      "weight": 1,
+      "range": [
+        10,
+        12
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "_key": "!tables.results!Pj97wbyduUf4l9Zf.7HyiDkuQbIDI30zG"
+    }
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719828988219,
+    "modifiedTime": 1720033151313,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "Pj97wbyduUf4l9Zf",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!tables!Pj97wbyduUf4l9Zf"
+}

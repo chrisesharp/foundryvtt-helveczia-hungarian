@@ -1,0 +1,33 @@
+{
+  "folder": "cpV1p0MeDo0bqyrH",
+  "name": "Kicsi gálya",
+  "type": "possession",
+  "_id": "MByN5jsAMixVZzZB",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "cost": {
+      "value": "300",
+      "coin": "th"
+    },
+    "encumbrance": "1"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719953710448,
+    "modifiedTime": 1719953713517,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!items!MByN5jsAMixVZzZB"
+}

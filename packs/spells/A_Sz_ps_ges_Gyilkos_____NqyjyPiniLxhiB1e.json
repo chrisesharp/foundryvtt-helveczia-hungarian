@@ -1,0 +1,37 @@
+{
+  "name": "A Szépséges Gyilkos (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "LUIL15KYrp683hE7",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "student",
+    "range": "rövid",
+    "duration": "míg le nem vágják",
+    "area": "egy rózsatő",
+    "save": "-",
+    "component": "a rózsabokorban egy embert kell elveszejteni.",
+    "description": "<p class=\"p1\">A b&aacute;jos k&uuml;lső sokszor leplez csalfas&aacute;got, s &iacute;gy van ez enn&eacute;l a var&aacute;zslatn&aacute;l is. Belegabalyodott &aacute;ldozat&aacute;nak v&eacute;re ugyanis megig&eacute;zi a r&oacute;zsat&ouml;vet, mire az hullik, s benne v&eacute;r ir&aacute;nti szomjat &eacute;s alattomos rosszindulatot &eacute;breszt. Innentől mint 3+2. szintű sz&ouml;rny (Gyilkos Inda) v&aacute;rja, hogy aki vir&aacute;got szak&iacute;tana r&oacute;la, t&uuml;sk&eacute;i megragadj&aacute;k s v&eacute;r&eacute;t kisz&iacute;vj&aacute;k test&eacute;ből.</p>\n<p class=\"p1\"><strong>Komponense:</strong> nincs m&aacute;s m&oacute;d: a r&oacute;zsabokorban egy embert kell elveszejteni.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720281447826,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "NqyjyPiniLxhiB1e",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!NqyjyPiniLxhiB1e"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "A Rettenetes Ládafia (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "LUIL15KYrp683hE7",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "student",
+    "range": "érintés",
+    "duration": "egy hétig",
+    "area": "egy lezárt láda",
+    "save": "deftness",
+    "component": "paprikajancsi",
+    "description": "<p class=\"p1\"><em>(Mentődob&aacute;s: Neh&eacute;z F&uuml;rges&eacute;g)</em></p>\n<p class=\"p1\">Csak v&eacute;gig kell sim&iacute;tani a l&aacute;da fedel&eacute;n, &eacute;s elmondani ezeket a szavakat, &eacute;s m&aacute;ris egy &ouml;rd&ouml;gfi&oacute;k&aacute;hoz hasonl&oacute; b&aacute;bu fog benne lapulni, hogy első kinyit&oacute;j&aacute;t bicsk&aacute;ival r&ouml;gvest sz&iacute;ven sz&uacute;rja. Mentődob&aacute;st lehet ellene dobni, sebz&eacute;se pedig 1d6 a bicsk&aacute;k &eacute;s p&aacute;ratlan szintenk&eacute;nt m&eacute;g 1d6 a meglepet&eacute;s ok&aacute;n. Sok k&iacute;v&aacute;ncsinak lett ez v&eacute;gzete, s nem mindig annak, akit a b&aacute;bu k&eacute;sz&iacute;tője ki&oacute;kuml&aacute;lt.</p>\n<p class=\"p1\"><strong>Komponense:</strong> paprikajancsi, amit rug&oacute;kb&oacute;l, fogaskerekekből &eacute;s k&eacute;sekből kell pontosan megszerkeszteni (6 Th).</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720281394452,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "QWO0oRl6WwoFHgx7",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!QWO0oRl6WwoFHgx7"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Rútság és Ragya (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "MUygynGYWUAKLwPj",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "student",
+    "range": "rövid",
+    "duration": "míg meg nem gyógyítják vagy el nem múlik",
+    "area": "egy czélpont",
+    "save": "bravery",
+    "component": "utálatos dolgok",
+    "description": "<p class=\"p1\">Randa p&ouml;rsen&eacute;sek &eacute;s hasonl&oacute;k cs&uacute;f&iacute;tj&aacute;k el a cz&eacute;lpont orcz&aacute;j&aacute;t, &eacute;s csak mindennapi hosszas mosd&aacute;s vagy k&uuml;l&ouml;nf&eacute;le tinctur&aacute;k mulasztj&aacute;k el.</p>\n<p class=\"p1\"><strong>Komponense:</strong> varangyb&oacute;l, patk&aacute;nyb&oacute;l, varj&uacute;b&oacute;l &eacute;s m&aacute;s ut&aacute;latos dolgokb&oacute;l kell szappant főzni.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720281109598,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "QnmtgPGChFqLEpJU",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!QnmtgPGChFqLEpJU"
+}

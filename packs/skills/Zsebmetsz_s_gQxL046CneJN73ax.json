@@ -1,0 +1,33 @@
+{
+  "name": "Zsebmetszés",
+  "type": "skill",
+  "img": "icons/svg/coins.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>Őrizetlen&uuml;l hagyott avagy &ouml;v&ouml;n, zsebben tal&aacute;lhat&oacute; kisebb t&aacute;rgyak &eacute;szrev&eacute;tlen elcsen&eacute;se. Ha a pr&oacute;ba sikertelen, a karaktert &eacute;szreveszik vagy legal&aacute;bbis gyan&uacute;t kelt.</p>",
+    "ability": "dex",
+    "subtype": "vagabond",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829583790,
+    "modifiedTime": 1720132970676,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "gQxL046CneJN73ax",
+  "sort": 2200000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!gQxL046CneJN73ax"
+}

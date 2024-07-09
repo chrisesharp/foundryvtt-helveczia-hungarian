@@ -1,0 +1,1346 @@
+{
+  "name": "Az Ördög Bibliája",
+  "type": "deck",
+  "description": "",
+  "img": "icons/svg/card-hand.svg",
+  "cards": [
+    {
+      "_id": "zj94LRtRnp74EgsP",
+      "name": "Makk Hetes",
+      "description": "",
+      "type": "base",
+      "suit": "Makk",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Makk Hetes",
+          "img": "systems/helveczia/assets/cards/acorns-07.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 3,
+      "flags": {},
+      "value": 7,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720130567581,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.zj94LRtRnp74EgsP",
+      "cards": []
+    },
+    {
+      "_id": "AjsjCB4qhwn8MAp3",
+      "name": "Makk Nyolcas",
+      "description": "",
+      "type": "base",
+      "suit": "Makk",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Makk Nyolcas",
+          "img": "systems/helveczia/assets/cards/acorns-08.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 4,
+      "flags": {},
+      "value": 8,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720130573485,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.AjsjCB4qhwn8MAp3",
+      "cards": []
+    },
+    {
+      "_id": "wZWHkVYRY50Iz6qC",
+      "name": "Makk Kilences",
+      "description": "",
+      "type": "base",
+      "suit": "Makk",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Makk Kilences",
+          "img": "systems/helveczia/assets/cards/acorns-09.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 5,
+      "flags": {},
+      "value": 9,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720130579088,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.wZWHkVYRY50Iz6qC",
+      "cards": []
+    },
+    {
+      "_id": "oluRtdGys4mDzjK0",
+      "name": "Makk Tízes",
+      "description": "",
+      "type": "base",
+      "suit": "Makk",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Makk Tízes",
+          "img": "systems/helveczia/assets/cards/acorns-10.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 6,
+      "flags": {},
+      "value": 10,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720130585680,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.oluRtdGys4mDzjK0",
+      "cards": []
+    },
+    {
+      "_id": "g6o1WsAyCQEBnv2x",
+      "name": "Makk Ász",
+      "description": "Tél / Hegyvidéken",
+      "type": "base",
+      "suit": "Makk",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Makk Ász",
+          "img": "systems/helveczia/assets/cards/acorns-ace.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 7,
+      "flags": {},
+      "value": 11,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720130591115,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.g6o1WsAyCQEBnv2x",
+      "cards": []
+    },
+    {
+      "_id": "zua6ZajLPNk9fdPf",
+      "name": "Makk Király",
+      "description": "5. és 6. szinten",
+      "type": "base",
+      "suit": "Makk",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Makk Király",
+          "img": "systems/helveczia/assets/cards/acorns-king.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 2,
+      "flags": {},
+      "value": 4,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720130561787,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.zua6ZajLPNk9fdPf",
+      "cards": []
+    },
+    {
+      "_id": "cHqPNl5dd0LNizu0",
+      "name": "Makk Felső",
+      "description": "Tell Vilmos / Nagy bajban",
+      "type": "base",
+      "suit": "Makk",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Makk Felső",
+          "img": "systems/helveczia/assets/cards/acorns-over.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 1,
+      "flags": {},
+      "value": 3,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720130557895,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.cHqPNl5dd0LNizu0",
+      "cards": []
+    },
+    {
+      "_id": "y8fe0FKfmeGl64MZ",
+      "name": "Makk Alsó",
+      "description": "Harras Rudolf / Harczban",
+      "type": "base",
+      "suit": "Makk",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Makk Alsó",
+          "img": "systems/helveczia/assets/cards/acorns-under.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "value": 2,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720130552208,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.y8fe0FKfmeGl64MZ",
+      "cards": []
+    },
+    {
+      "_id": "C9ywyr2ifbatalui",
+      "name": "Tök Hetes",
+      "description": "",
+      "type": "base",
+      "suit": "Tök",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Tök Hetes",
+          "img": "systems/helveczia/assets/cards/gourds-07.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 11,
+      "flags": {},
+      "value": 7,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720130662434,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.C9ywyr2ifbatalui",
+      "cards": []
+    },
+    {
+      "_id": "4Pm4mea0urxMyQih",
+      "name": "Tök Nyolcas",
+      "description": "",
+      "type": "base",
+      "suit": "Tök",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Tök Nyolcas",
+          "img": "systems/helveczia/assets/cards/gourds-08.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 12,
+      "flags": {},
+      "value": 8,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720130683684,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.4Pm4mea0urxMyQih",
+      "cards": []
+    },
+    {
+      "_id": "ZJ8DXDPlSMC2nmkp",
+      "name": "Tök Kilences",
+      "description": "",
+      "type": "base",
+      "suit": "Tök",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Tök Kilences",
+          "img": "systems/helveczia/assets/cards/gourds-09.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 13,
+      "flags": {},
+      "value": 9,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720130703386,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.ZJ8DXDPlSMC2nmkp",
+      "cards": []
+    },
+    {
+      "_id": "uySRIyzDoNVkRq1s",
+      "name": "Tök Tízes",
+      "description": "",
+      "type": "base",
+      "suit": "Tök",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Tök Tízes",
+          "img": "systems/helveczia/assets/cards/gourds-10.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 14,
+      "flags": {},
+      "value": 10,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720130809001,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.uySRIyzDoNVkRq1s",
+      "cards": []
+    },
+    {
+      "_id": "vY18l1QajGAxZAmg",
+      "name": "Tök Ász",
+      "description": "Nyár / Mezőn",
+      "type": "base",
+      "suit": "Tök",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Tök Ász",
+          "img": "systems/helveczia/assets/cards/gourds-ace.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 15,
+      "flags": {},
+      "value": 11,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720130841782,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.vY18l1QajGAxZAmg",
+      "cards": []
+    },
+    {
+      "_id": "FsIvfSqEH5jNFkX8",
+      "name": "Tök Király",
+      "description": "5. és 6. szinten",
+      "type": "base",
+      "suit": "Tök",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Tök Király",
+          "img": "systems/helveczia/assets/cards/gourds-king.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 10,
+      "flags": {},
+      "value": 4,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720130782271,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.FsIvfSqEH5jNFkX8",
+      "cards": []
+    },
+    {
+      "_id": "Y8IEJQFFM27TAP6Q",
+      "name": "Tök Felső",
+      "description": "Stüszi vadász / Vándorúton",
+      "type": "base",
+      "suit": "Tök",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Tök Felső",
+          "img": "systems/helveczia/assets/cards/gourds-over.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 9,
+      "flags": {},
+      "value": 3,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720130771213,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.Y8IEJQFFM27TAP6Q",
+      "cards": []
+    },
+    {
+      "_id": "uOKIt8YPg972hVTx",
+      "name": "Tök Alsó",
+      "description": "Reding Itell / Törvénynél",
+      "type": "base",
+      "suit": "Tök",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Tök Alsó",
+          "img": "systems/helveczia/assets/cards/gourds-under.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 8,
+      "flags": {},
+      "value": 2,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720130598657,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.uOKIt8YPg972hVTx",
+      "cards": []
+    },
+    {
+      "_id": "UuzV09HJbfFS3IjO",
+      "name": "Zöld Hetes",
+      "description": "",
+      "type": "base",
+      "suit": "Zöld",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Zöld Hetes",
+          "img": "systems/helveczia/assets/cards/greens-07.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 19,
+      "flags": {},
+      "value": 7,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720131008748,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.UuzV09HJbfFS3IjO",
+      "cards": []
+    },
+    {
+      "_id": "sswjoFOWCOyIY6MC",
+      "name": "Zöld Nyolcas",
+      "description": "",
+      "type": "base",
+      "suit": "Zöld",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Zöld Nyolcas",
+          "img": "systems/helveczia/assets/cards/greens-08.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 20,
+      "flags": {},
+      "value": 8,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720131031185,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.sswjoFOWCOyIY6MC",
+      "cards": []
+    },
+    {
+      "_id": "8C2xQZ5B99fMpDoN",
+      "name": "Zöld Kilences",
+      "description": "",
+      "type": "base",
+      "suit": "Zöld",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Zöld Kilences",
+          "img": "systems/helveczia/assets/cards/greens-09.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 21,
+      "flags": {},
+      "value": 9,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720131050294,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.8C2xQZ5B99fMpDoN",
+      "cards": []
+    },
+    {
+      "_id": "fe71iKJh2pC7wffZ",
+      "name": "Zöld Tízes",
+      "description": "",
+      "type": "base",
+      "suit": "Zöld",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Zöld Tízes",
+          "img": "systems/helveczia/assets/cards/greens-10.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 22,
+      "flags": {},
+      "value": 10,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720131066476,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.fe71iKJh2pC7wffZ",
+      "cards": []
+    },
+    {
+      "_id": "ty3fTRgQabBLmomP",
+      "name": "Zöld Ász",
+      "description": "Ősz / Erdőben",
+      "type": "base",
+      "suit": "Zöld",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Zöld Ász",
+          "img": "systems/helveczia/assets/cards/greens-ace.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 23,
+      "flags": {},
+      "value": 11,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720130983085,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.ty3fTRgQabBLmomP",
+      "cards": []
+    },
+    {
+      "_id": "NWpAOPQ4514efL1T",
+      "name": "Zöld Király",
+      "description": "5. és 6. szinten",
+      "type": "base",
+      "suit": "Zöld",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Zöld Király",
+          "img": "systems/helveczia/assets/cards/greens-king.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 18,
+      "flags": {},
+      "value": 4,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720130953227,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.NWpAOPQ4514efL1T",
+      "cards": []
+    },
+    {
+      "_id": "uoyzm5dWSEDCyN3X",
+      "name": "Zöld Felső",
+      "description": "Rudenz Ulrich / Cselvetésben",
+      "type": "base",
+      "suit": "Zöld",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Zöld Felső",
+          "img": "systems/helveczia/assets/cards/greens-over.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 17,
+      "flags": {},
+      "value": 3,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720130916968,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.uoyzm5dWSEDCyN3X",
+      "cards": []
+    },
+    {
+      "_id": "FKK3BiHhPTDPamuT",
+      "name": "Zöld Alsó",
+      "description": "Fürst Walter / Alkukban",
+      "type": "base",
+      "suit": "Zöld",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Zöld Alsó",
+          "img": "systems/helveczia/assets/cards/greens-under.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 16,
+      "flags": {},
+      "value": 2,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720130885196,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.FKK3BiHhPTDPamuT",
+      "cards": []
+    },
+    {
+      "_id": "JTr1wAymynYh6aL3",
+      "name": "Piros Hetes",
+      "description": "",
+      "type": "base",
+      "suit": "Piros",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Piros Hetes",
+          "img": "systems/helveczia/assets/cards/reds-07.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 27,
+      "flags": {},
+      "value": 7,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720131232800,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.JTr1wAymynYh6aL3",
+      "cards": []
+    },
+    {
+      "_id": "6EDksAdETBYRfzPc",
+      "name": "Piros Nyolcas",
+      "description": "",
+      "type": "base",
+      "suit": "Piros",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Piros Nyolcas",
+          "img": "systems/helveczia/assets/cards/reds-08.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 28,
+      "flags": {},
+      "value": 8,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720131251944,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.6EDksAdETBYRfzPc",
+      "cards": []
+    },
+    {
+      "_id": "kypkqEkcKMw7rYyy",
+      "name": "Piros Kilences",
+      "description": "",
+      "type": "base",
+      "suit": "Piros",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Piros Kilences",
+          "img": "systems/helveczia/assets/cards/reds-09.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 29,
+      "flags": {},
+      "value": 9,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720131270111,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.kypkqEkcKMw7rYyy",
+      "cards": []
+    },
+    {
+      "_id": "iZQEFQEee4lSNm7M",
+      "name": "Piros Tízes",
+      "description": "",
+      "type": "base",
+      "suit": "Piros",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Piros Tízes",
+          "img": "systems/helveczia/assets/cards/reds-10.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 30,
+      "flags": {},
+      "value": 10,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720131290622,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.iZQEFQEee4lSNm7M",
+      "cards": []
+    },
+    {
+      "_id": "gOolrXChRnQszOKf",
+      "name": "Piros Ász",
+      "description": "Tavasz / Településen",
+      "type": "base",
+      "suit": "Piros",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Piros Ász",
+          "img": "systems/helveczia/assets/cards/reds-ace.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 31,
+      "flags": {},
+      "value": 11,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720131214942,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.gOolrXChRnQszOKf",
+      "cards": []
+    },
+    {
+      "_id": "CuNQAXEdsNYFZiEk",
+      "name": "Piros Király",
+      "description": "5. és 6. szinten",
+      "type": "base",
+      "suit": "Piros",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Piros Király",
+          "img": "systems/helveczia/assets/cards/reds-king.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 26,
+      "flags": {},
+      "value": 4,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720131183198,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.CuNQAXEdsNYFZiEk",
+      "cards": []
+    },
+    {
+      "_id": "FKeD0Nvj3wRW8Kwx",
+      "name": "Piros Felső",
+      "description": "Geßler Hermann / Felsőbbségnél",
+      "type": "base",
+      "suit": "Piros",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Piros Felső",
+          "img": "systems/helveczia/assets/cards/reds-over.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 25,
+      "flags": {},
+      "value": 3,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720131155543,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.FKeD0Nvj3wRW8Kwx",
+      "cards": []
+    },
+    {
+      "_id": "cSl7mG0jGNcWcrX0",
+      "name": "Piros Alsó",
+      "description": "Kuoni pásztor / Szegényeknél",
+      "type": "base",
+      "suit": "Piros",
+      "back": {
+        "img": "systems/helveczia/assets/cards/reverse.png",
+        "name": "Hátlap",
+        "text": ""
+      },
+      "faces": [
+        {
+          "name": "Piros Alsó",
+          "img": "systems/helveczia/assets/cards/reds-under.png",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "ZtwgnrxWeU3gsOO4",
+      "rotation": 0,
+      "sort": 24,
+      "flags": {},
+      "value": 2,
+      "system": {},
+      "width": null,
+      "height": null,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": 1720131113236,
+        "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+      },
+      "_key": "!cards.cards!ZzowHIX2rbg883XH.cSl7mG0jGNcWcrX0",
+      "cards": []
+    }
+  ],
+  "width": null,
+  "height": null,
+  "rotation": 0,
+  "displayCount": false,
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719829013343,
+    "modifiedTime": 1720039251943,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "ZzowHIX2rbg883XH",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!cards!ZzowHIX2rbg883XH"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Megállj!",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "UNLAvFf46znK3j0K",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "cleric",
+    "range": "hosszú",
+    "duration": "azonnali",
+    "area": "ki a szózatot meghallja",
+    "save": "-",
+    "component": "",
+    "description": "<p class=\"p1\">Egyetlen sz&oacute; meg&aacute;ll&iacute;t malmot, marschiroz&oacute; sereget, csap&aacute;sra emelt kardot, h&oacute;csuszaml&aacute;st, m&eacute;lybe buk&oacute; embert &eacute;s &uuml;nnepi menetet, s nincs, mi az ig&eacute;nek ellent &aacute;llni tudna. De legyen hely&eacute;n az &iacute;t&eacute;lő k&eacute;pess&eacute;ge, aki haszn&aacute;ln&aacute;: mert ha a parancsb&oacute;l bűn k&ouml;vetkezik, h&aacute;romszorosan fog hullani az elmond&oacute;ra.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720300749123,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "aT9JVi51bLeCCnmi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!aT9JVi51bLeCCnmi"
+}

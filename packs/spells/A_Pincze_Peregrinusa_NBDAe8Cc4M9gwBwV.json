@@ -1,0 +1,37 @@
+{
+  "name": "A Pincze Peregrinusa",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ER3HMq6AdzRgV93H",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "cleric",
+    "range": "közepes",
+    "duration": "néhány óráig",
+    "area": "szobányi",
+    "save": "-",
+    "component": "",
+    "description": "<p class=\"p1\">Hib&aacute;tlanul felleli a kamar&aacute;ban &eacute;s pincz&eacute;ben a szalonn&aacute;t, kolb&aacute;szt &eacute;s m&aacute;s &eacute;tkeket, s mell&eacute; bort is, ha kell. M&aacute;s haszna az elrejtett kamr&aacute;k meglel&eacute;se, miket ha benn&uuml;k ehető dolog van, a v&aacute;ndorl&oacute; bar&aacute;t 1:2 es&eacute;llyel meg&eacute;rez. B&ouml;jt idej&eacute;n m&aacute;s haszna van, merthogy a szalonn&aacute;t, diszn&oacute;s&aacute;got s.a.t. hib&aacute;tlanul megmutatja, s &iacute;gy től&uuml;k a b&ouml;jt&ouml;lőt t&aacute;vol tartja. Ez&eacute;rt igen val&oacute;sz&iacute;nű, hogy eredetileg a zsid&oacute;kt&oacute;l j&ouml;hetett.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720296461937,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "NBDAe8Cc4M9gwBwV",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!NBDAe8Cc4M9gwBwV"
+}

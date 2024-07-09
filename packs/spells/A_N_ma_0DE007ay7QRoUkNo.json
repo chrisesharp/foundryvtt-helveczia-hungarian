@@ -1,0 +1,41 @@
+{
+  "name": "A Néma",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "DklZOXwgGCjyQb5s",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "cleric",
+    "range": "rövid",
+    "duration": "feloldozásig",
+    "area": "egy czélpontra",
+    "save": "bravery",
+    "component": "",
+    "data": {
+      "level": 2,
+      "class": "cleric"
+    },
+    "description": "<p class=\"p1\">Vezekl&eacute;sk&eacute;nt val&oacute; ez a var&aacute;zslat, mit a bűn&ouml;sre r&aacute;m&eacute;r az ige. Nem sz&oacute;lhat &eacute;s nem besz&eacute;lhet, m&iacute;g penitenczi&aacute;t nem kap egy papi szem&eacute;lytől.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720298067233,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "0DE007ay7QRoUkNo",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!0DE007ay7QRoUkNo"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Mordály",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<ul>\n<li>R&ouml;vid t&aacute;v</li>\n<li>M&aacute;sf&eacute;l k&ouml;r &uacute;jrat&ouml;lt&eacute;s</li>\n<li>1-es t&aacute;mad&aacute;sdob&aacute;sn&aacute;l felrobban vagy bes&uuml;l, s csak alapos puczol&aacute;ssal repar&aacute;lhat&oacute;</li>\n<li>T&ouml;bb egym&aacute;shoz k&ouml;zeli cz&eacute;lpontra is hathat</li>\n</ul>",
+    "attack": "ranged",
+    "damage": "2d6x",
+    "critical": {
+      "range": "20",
+      "multiple": "2"
+    },
+    "encumbrance": "1",
+    "bonus": "0",
+    "reload": "1.5",
+    "cost": {
+      "value": "7",
+      "coin": "th"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719828918413,
+    "modifiedTime": 1720032623830,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "GvRcOLthrE0Dmle1",
+  "sort": 3998438,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!GvRcOLthrE0Dmle1"
+}

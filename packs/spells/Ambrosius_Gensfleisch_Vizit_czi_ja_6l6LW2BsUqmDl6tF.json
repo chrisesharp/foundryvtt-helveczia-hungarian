@@ -1,0 +1,37 @@
+{
+  "name": "Ambrosius Gensfleisch Vizitácziója",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "LUIL15KYrp683hE7",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "student",
+    "range": "hét napnyi járóföldre",
+    "duration": "kakasszóig",
+    "area": "egy vagy több czélpont",
+    "save": "temptation",
+    "component": "mandragóra gyökér",
+    "description": "<p class=\"p1\"><em>(Mentődob&aacute;s: Neh&eacute;z K&iacute;s&eacute;rt&eacute;s)</em></p>\n<p class=\"p1\">Messzi t&aacute;volr&oacute;l is hat&oacute; var&aacute;zs, mely pokolbeli d&eacute;monok &eacute;s &ouml;rd&ouml;g&ouml;k processi&oacute;j&aacute;t var&aacute;zsolja a cz&eacute;lpont h&aacute;l&oacute;szob&aacute;j&aacute;ba. Csakis szombaton lehet haszn&aacute;lni, hiszen ez a nap az, amikor a lid&eacute;rczek, boszork&aacute;nyok, holt lelkek s.a.t. vigadnak. Ezek a csudaszerzetek addig gy&ouml;trik az er&eacute;nyes embert, hogy semmi pihen&eacute;se nem lesz, &eacute;s (hacsak Neh&eacute;z K&iacute;s&eacute;rt&eacute;s mentődob&aacute;s&aacute;t meg nem dobja) m&eacute;g 1d6 pontot meg szintenk&eacute;nt m&eacute;g kettőt sebződik. Aki azonban er&eacute;nyeiben k&uuml;l&ouml;n&ouml;sen rest, annak nem lesz b&aacute;nt&oacute;d&aacute;sa, &eacute;s csatlakozhatik is a menethez, melynek &uacute;ticz&eacute;lj&aacute;n&aacute;l enyelg&eacute;sre, f&eacute;ktelen iv&aacute;szatra &eacute;s m&aacute;s bűn&ouml;s dolgokra ker&uuml;l sor. A var&aacute;zslat nagy vesz&eacute;lye, hogy 1:3 es&eacute;llyel szint&eacute;n &aacute;lomba mer&uuml;lő elmond&oacute;j&aacute;ra is hat, s ekkor a cz&eacute;lpont a gomolyg&oacute; szellemek &eacute;s r&eacute;mek k&ouml;z&ouml;tt 1:3 es&eacute;llyel meg is l&aacute;tja megront&oacute;ja arczvon&aacute;sait. A var&aacute;zslatot egy&eacute;bk&eacute;nt t&ouml;bb cz&eacute;lpontra is lehet alkalmazni, m&eacute;ghozz&aacute; annyira, amennyit a mandrag&oacute;ra ereje enged.</p>\n<p class=\"p1\"><strong>Komponense:</strong> ehhez bizony nem kell kisebb dolog, mint a mandrag&oacute;ra gy&ouml;kere, amely v&aacute;s&aacute;rolva 25 Th-ba beleker&uuml;l, de a szok&aacute;soshoz m&eacute;rten k&eacute;tszeres alkalommal hasznos.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720281630800,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "6l6LW2BsUqmDl6tF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!6l6LW2BsUqmDl6tF"
+}

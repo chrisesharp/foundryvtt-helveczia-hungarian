@@ -1,0 +1,22 @@
+{
+  "name": "Ruhák",
+  "sorting": "m",
+  "folder": null,
+  "type": "Item",
+  "_id": "t06mlm9xZxH9G5ZA",
+  "description": "",
+  "sort": -50000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719918515134,
+    "modifiedTime": 1719952287021,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!folders!t06mlm9xZxH9G5ZA"
+}

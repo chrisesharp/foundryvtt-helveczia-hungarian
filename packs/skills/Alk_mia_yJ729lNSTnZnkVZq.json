@@ -1,0 +1,33 @@
+{
+  "name": "Alkímia",
+  "type": "skill",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>K&uuml;l&ouml;nf&eacute;le speczi&aacute;lis formul&aacute;k, &uacute;.m. savak,&nbsp; g&ouml;r&ouml;gtűz s. a. t. kikever&eacute;s&eacute;re szolg&aacute;l, s k&uuml;l&ouml;n&ouml;sen hasznos a var&aacute;zslatok&nbsp; komponenseinek elő&aacute;ll&iacute;t&aacute;s&aacute;ra. Haszn&aacute;lat&aacute;hoz gyakran sz&uuml;ks&eacute;ges egy felszerelt labor is. A k&eacute;pzetts&eacute;ggel a karakter k&eacute;pes beazonos&iacute;tani a k&uuml;l&ouml;nf&eacute;le vegyi anyagokat, m&eacute;rgeket &eacute;s var&aacute;zsitalokat is.</p>",
+    "ability": "int",
+    "subtype": "magical",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829583790,
+    "modifiedTime": 1720132984499,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "yJ729lNSTnZnkVZq",
+  "sort": 2450000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!yJ729lNSTnZnkVZq"
+}

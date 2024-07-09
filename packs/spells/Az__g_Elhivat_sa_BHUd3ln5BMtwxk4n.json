@@ -1,0 +1,37 @@
+{
+  "name": "Az Ég Elhivatása",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ziA7MU7yGTlbURi0",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "student",
+    "range": "míg a madár száll",
+    "duration": "egy parancsolatra",
+    "area": "önmaga körül",
+    "save": "deftness",
+    "component": "egy nagy, tiszta kristálygolyó",
+    "description": "<p class=\"p1\"><em>(Mentődob&aacute;s: Neh&eacute;z F&uuml;rges&eacute;g)</em></p>\n<p class=\"p1\">A term&eacute;szet erőinek parancsolhatni ezzel a var&aacute;zslattal, mert helybe h&iacute;vja a hegyek &eacute;s mezők madarait; hatalmas kavarg&aacute;sban j&ouml;nnek ezren, mint a forg&oacute;sz&eacute;l. &Eacute;s ezek a madarak v&aacute;laszolnak egy feltett k&eacute;rd&eacute;sre arr&oacute;l, mit l&aacute;thattak, &eacute;s m&eacute;g egyet minden h&aacute;rom szint&eacute;rt; elhozhatj&aacute;k vagy m&aacute;shov&aacute; vihetik, mit ezernyi mad&aacute;r elb&iacute;r vagy elragadhat (aki ellenkezik, Neh&eacute;z F&uuml;rges&eacute;get dobhat); &eacute;s megt&aacute;madhatnak valakiket, kik a sereg t&aacute;mad&aacute;s&aacute;t&oacute;l 6d6 Hp sebz&eacute;st szenvednek (mentődob&aacute;s ekkor is j&aacute;r). Meglehet, m&aacute;s dolgokat is k&eacute;rhet től&uuml;k a var&aacute;zserők alkalmaz&oacute;ja: de ha k&eacute;r&eacute;se balga vagy a term&eacute;szet rendje ellen val&oacute;, k&ouml;nnyen sz&eacute;tszaggathatj&aacute;k. Csak magas hegytetőn, b&eacute;rczen vagy hasonl&oacute; helyen alkalmazhat&oacute;.</p>\n<p class=\"p1\"><strong>Komponense:</strong> egy nagy, tiszta krist&aacute;lygoly&oacute;, mi az eget jelk&eacute;pezi, s a madarakat odavonzza. Legal&aacute;bb 15 Th-t k&oacute;st&aacute;l, s egyetlen haszn&aacute;latt&oacute;l elreped.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720275881269,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "BHUd3ln5BMtwxk4n",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!BHUd3ln5BMtwxk4n"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Kicsiny könyv",
+  "type": "book",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "",
+    "cost": {
+      "value": "1",
+      "coin": "th"
+    },
+    "encumbrance": "1",
+    "spells": []
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719829616044,
+    "modifiedTime": 1719912239304,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "DD3dHgMStYcYKdBt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!DD3dHgMStYcYKdBt"
+}

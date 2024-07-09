@@ -1,0 +1,33 @@
+{
+  "name": "Lövedékek",
+  "type": "possession",
+  "_id": "spZHCkuPk62eK9eY",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "description": "<p>10 l&ouml;ved&eacute;k</p>",
+    "cost": {
+      "value": "1",
+      "coin": "pf"
+    },
+    "encumbrance": "1"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 3975000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719869644605,
+    "modifiedTime": 1720032605521,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!items!spZHCkuPk62eK9eY"
+}

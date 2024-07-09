@@ -1,0 +1,37 @@
+{
+  "name": "Kígyóeső",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "UNLAvFf46znK3j0K",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "cleric",
+    "range": "igen hosszú",
+    "duration": "hetekig tarthat, avagy bűnbánatig",
+    "area": "egy faluban és határában",
+    "save": "-",
+    "component": "",
+    "description": "<p class=\"p1\">A bűn&ouml;s lelkek j&oacute; &uacute;tra t&eacute;r&iacute;t&eacute;s&eacute;re gyakran megteszi a j&aacute;mbor &uacute;tmutat&aacute;s, de sajnos vannak meg&aacute;talkodottak,&nbsp;kik gonosz term&eacute;szet&uuml;ktől nem t&aacute;g&iacute;tanak. Ez a var&aacute;zslat k&iacute;gy&oacute;j&aacute;r&aacute;ssal s&uacute;jt egy igen nagy ter&uuml;letet, &eacute;s b&aacute;r ezek a besti&aacute;k nem m&eacute;rgesek, mindenhol nagy sz&aacute;mban fognak előb&uacute;jni, &eacute;s a helyben &eacute;lőket, amint csak tehetik, alaposan meggy&ouml;trik. Nem lesz h&aacute;t sem nyugtuk, sem munk&aacute;juk, a bűn&ouml;s&ouml;knek pedig mindebből a k&eacute;tszerese kijut. A var&aacute;zslatot alkalmazni teh&aacute;t jogos figyelmeztet&eacute;s, de az irgalmas p&aacute;sztor megsz&uuml;nteti, ha cz&eacute;lpontjai bűnb&aacute;natot tartanak.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720300457878,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "WXnnt5JSEMtZ30wv",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!WXnnt5JSEMtZ30wv"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Adószedő",
+  "type": "skill",
+  "img": "icons/svg/hanging-sign.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "",
+    "ability": "int",
+    "subtype": "craft",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719829635931,
+    "modifiedTime": 1720133760983,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "kOwvUcXSuFhAGOvt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!kOwvUcXSuFhAGOvt"
+}

@@ -1,0 +1,86 @@
+{
+  "name": "Svédek",
+  "type": "people",
+  "img": "icons/svg/village.svg",
+  "effects": [
+    {
+      "_id": "XzkhZQE9nNnJuMbZ",
+      "changes": [
+        {
+          "key": "system.saves.bravery.bonus",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        },
+        {
+          "key": "system.hp.value",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        },
+        {
+          "key": "system.hp.max",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Item.EejLyAd0YODZcQlg",
+      "transfer": true,
+      "flags": {},
+      "tint": "#ffffff",
+      "name": "Swede",
+      "description": "",
+      "statuses": [],
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "img": "icons/svg/aura.svg",
+      "type": "base",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!wtObsoIJinWsRinW.XzkhZQE9nNnJuMbZ"
+    }
+  ],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>Kev&eacute;s v&eacute;rszomjasabb martal&oacute;cz &eacute;s katona ismert, mint a sv&eacute;kus zsoldos; a h&iacute;rek szerint kese haja &eacute;s s&aacute;padt orcz&aacute;ja mindnek k&uuml;l&ouml;n&ouml;s vads&aacute;got k&ouml;lcs&ouml;n&ouml;z. Amint az altat&oacute;dal mondja,</p>\n<p><em>&ldquo;Die Schweden sind gekommen</em><br><em>Haben alles mitgenommen</em><br><em>Haben&rsquo;s Fenster eingeschlagen</em><br><em>Haben&rsquo;s Blei davon getragen</em><br><em>Haben Kugeln daraus gegossen</em><br><em>Und die Bauern erschossen.&rdquo;</em></p>\n<p><em>[Megj&ouml;ttek a sv&eacute;dek,<br>Kiraboltak minket,<br>Bet&ouml;rt&eacute;k az ablakot,<br>Elvitt&eacute;k mind az &oacute;lmot,<br>Goly&oacute; lesz majd belőle,<br>A parasztot lelője!<br>/</em><em>dulcimer/]&nbsp;</em></p>\n<p>Hab&aacute;r ez a k&eacute;p kor&aacute;ntsem akkur&aacute;tus, annyi bizonyos, hogy kitart&aacute;sban a sv&eacute;dnek p&aacute;rja nem akad kerek e vil&aacute;gon.</p>\n<ul>\n<li>+1 B&aacute;tors&aacute;got &eacute;s szintenk&eacute;n +1 Hp-t kapnak.</li>\n<li>Rossz h&iacute;rn&eacute;vnek &ouml;rvendenek haz&aacute;juk hat&aacute;rain k&iacute;v&uuml;l.</li>\n</ul>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829666347,
+    "modifiedTime": 1720294773656,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "wtObsoIJinWsRinW",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!wtObsoIJinWsRinW"
+}

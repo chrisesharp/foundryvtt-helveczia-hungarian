@@ -1,0 +1,37 @@
+{
+  "name": "Herkules Ereje",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "LUIL15KYrp683hE7",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "student",
+    "range": "-",
+    "duration": "egy félórácska",
+    "area": "önmagára avagy más személyre",
+    "save": "-",
+    "component": "egy bika veséje",
+    "description": "<p class=\"p1\">Nem ad m&aacute;st, hanem a r&eacute;gi hős 18-as Erej&eacute;t s munk&aacute;ra val&oacute; f&aacute;radhatatlans&aacute;got. Csak egy kis idő ez, de m&eacute;gis csod&aacute;latos dolgokat v&eacute;gezhet el, ki nem rest kihaszn&aacute;lni.</p>\n<p class=\"p1\"><strong>Komponense:</strong> egy bika ves&eacute;j&eacute;ből nyert cseppek (a bika 3 Th, &aacute;m ves&eacute;j&eacute;t k&eacute;tszer csapolhatni).</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720281886851,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "Dcv4A0Mh9z2NY2mw",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!Dcv4A0Mh9z2NY2mw"
+}

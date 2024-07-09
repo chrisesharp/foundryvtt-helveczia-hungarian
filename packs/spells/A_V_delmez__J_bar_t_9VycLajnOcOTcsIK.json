@@ -1,0 +1,37 @@
+{
+  "name": "A Védelmező Jóbarát",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "UNLAvFf46znK3j0K",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "cleric",
+    "range": "-",
+    "duration": " szintenként egy nap",
+    "area": "egy személyre",
+    "save": "-",
+    "component": "",
+    "description": "<p class=\"p1\">Angyali őrs&eacute;g &eacute;s m&aacute;s l&aacute;thatatlan erők fognak str&aacute;zs&aacute;lni a kiv&aacute;lasztott f&ouml;l&ouml;tt, a kit &aacute;lm&aacute;ban sem &eacute;ps&eacute;g&eacute;ben, sem er&eacute;ny&eacute;ben senki nem h&aacute;bor&iacute;that. Az angyali v&eacute;derő azonban nem tűrhet semmi komiszs&aacute;got, s ha a cz&eacute;l alacsony Virtus&uacute;, avagy 2 pontos vagy rosszabb bűnt k&ouml;vet el, azonm&oacute;d elp&aacute;rtolnak tőle.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720300524038,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "9VycLajnOcOTcsIK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!9VycLajnOcOTcsIK"
+}

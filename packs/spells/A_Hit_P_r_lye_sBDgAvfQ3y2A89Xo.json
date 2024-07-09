@@ -1,0 +1,41 @@
+{
+  "name": "A Hit Pörölye",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "DklZOXwgGCjyQb5s",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "cleric",
+    "range": "közepes",
+    "duration": "negyedóráig",
+    "area": "udvarnyi téren önmaga körül",
+    "save": "-",
+    "component": "",
+    "data": {
+      "level": 2,
+      "class": "cleric"
+    },
+    "description": "<p class=\"p1\">A vad besti&aacute;k, hitetlenek &eacute;s m&aacute;s &ouml;rd&ouml;gadt&aacute;k ellen val&oacute; var&aacute;zsolat egy l&eacute;gben mozg&oacute; k&eacute;tkezi p&ouml;r&ouml;lyt teremt. Ez elmond&oacute;ja tud&aacute;sa szerint k&uuml;zd az ellennel, nagyon nagy sebeket okozv&aacute;n (1d10 sebz&eacute;s plusz Erőb&oacute;nusz). Ha a kiv&aacute;lasztott ellenf&eacute;l legyőzetik, &uacute;j cz&eacute;lpontra ir&aacute;ny&iacute;that&oacute;, &aacute;m akire egyszer r&aacute;k&uuml;ldt&eacute;k, att&oacute;l nem t&aacute;ntor&iacute;t. Kereszt&eacute;nyt meg nem t&aacute;mad, de kereszty&eacute;nt 1:2 es&eacute;llyel igen. Ezt a distinkczi&oacute;t, &uacute;gy mondj&aacute;k, vicze versa is tapasztalni k&aacute;lomista &ouml;rd&ouml;ng&ouml;s&ouml;ktől, kik a var&aacute;zslatot bizony&aacute;ra s&aacute;t&aacute;ni sugalomra &eacute;s az ő eszk&ouml;zeivel reproduk&aacute;lhatt&aacute;k.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720297459396,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "sBDgAvfQ3y2A89Xo",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!sBDgAvfQ3y2A89Xo"
+}

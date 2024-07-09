@@ -1,0 +1,37 @@
+{
+  "name": "Gonosz Érzékelése",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ER3HMq6AdzRgV93H",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "cleric",
+    "range": "rövid",
+    "duration": "szintenként egy óráig eltart",
+    "area": "önmaga elé s környül",
+    "save": "-",
+    "component": "",
+    "description": "<p class=\"p1\">Megmutatja a k&ouml;rny&eacute;kbeli gonosz akaratokat &eacute;s t&aacute;rgyakat, de csakis akkor, ha val&oacute;ban elvetem&uuml;ltek, s Virtusuk 3 vagy alacsonyabb. Hasonl&oacute;k&eacute;ppen a gonosz erőss&eacute;g&eacute;t is &eacute;rzi, mely lehet kicsiny, meglehetős, tetemes &eacute;s v&eacute;g&uuml;l igen nagy. Hogy ez sok gyeng&eacute;bb befoly&aacute;s vagy egy nagyon jelentős, azt a var&aacute;zslat nem mondja meg.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720295983798,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "ukxObjCWjnGBWsRj",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!ukxObjCWjnGBWsRj"
+}

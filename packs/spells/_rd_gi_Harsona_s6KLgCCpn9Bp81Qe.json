@@ -1,0 +1,37 @@
+{
+  "name": "Ördögi Harsona",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "MUygynGYWUAKLwPj",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "student",
+    "range": "rövid",
+    "duration": "negyedóráig",
+    "area": " aki a fellegnek útjában van",
+    "save": "bravery",
+    "component": "lenyelendő labdacs",
+    "description": "<p class=\"p1\">Tisztess&eacute;g ne ess&eacute;k, de e harson&aacute;z&aacute;s az alf&eacute;l sz&ouml;rnyű g&aacute;zaival sz&oacute;l, s mell&eacute; m&eacute;g roppant undok szagokat is ereget, &uacute;gyhogy kit ottan &eacute;r, minden dob&aacute;s&aacute;ra -2 j&aacute;r, ha mentődob&aacute;s&aacute;t elrontja, &eacute;s egy k&ouml;rig m&eacute;g cselekv&eacute;sre sem lesz k&eacute;pes. Jobb is nem besz&eacute;lni tov&aacute;bb erről.</p>\n<p class=\"p1\"><strong>Komponense:</strong> k&uuml;l&ouml;nf&eacute;le mat&eacute;ri&aacute;k &ouml;sszegy&uacute;rott labdacsa, mit haszn&aacute;lat előtt mindenest&uuml;l le kell nyelni.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720281004590,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "s6KLgCCpn9Bp81Qe",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!s6KLgCCpn9Bp81Qe"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Papi varázslatok - 3. szint",
+  "type": "Item",
+  "color": null,
+  "folder": null,
+  "_id": "UNLAvFf46znK3j0K",
+  "sorting": "a",
+  "sort": 300000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719829838101,
+    "modifiedTime": 1720209573453,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "description": "",
+  "_key": "!folders!UNLAvFf46znK3j0K"
+}

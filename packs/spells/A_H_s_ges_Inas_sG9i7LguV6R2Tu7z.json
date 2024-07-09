@@ -1,0 +1,37 @@
+{
+  "name": "A Hűséges Inas",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "MUygynGYWUAKLwPj",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "student",
+    "range": "rövid",
+    "duration": "egy óráig szolgál",
+    "area": "önmaga körül",
+    "save": "-",
+    "component": "rizspor és csillámló üvegreszelék",
+    "description": "<p class=\"p1\">Ez a lib&eacute;ri&aacute;s atyafi igaz&aacute;n engedelmes, pedig csak &aacute;ttetsző k&ouml;rvonalai &eacute;s valami halov&aacute;ny dereng&eacute;s l&aacute;tszanak hely&eacute;n a l&eacute;gben lebegni. Hűen k&ouml;veti ur&aacute;t, s b&aacute;r tőle nem t&aacute;g&iacute;that, szavai pedig nincsenek, a seg&iacute;ts&eacute;g&eacute;re van, amiben teheti. M&eacute;g egy k&ouml;nnyű kardot is lehet adni neki, b&aacute;r k&ouml;zrendű lehet, mert nem v&iacute;v j&oacute;l, &eacute;s egy sz&uacute;r&aacute;sra eloszlik.</p>\n<p class=\"p1\"><strong>Komponense:</strong> nem egy&eacute;b, mint rizspor &eacute;s csill&aacute;ml&oacute; &uuml;vegreszel&eacute;k.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720277919736,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "sG9i7LguV6R2Tu7z",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!sG9i7LguV6R2Tu7z"
+}

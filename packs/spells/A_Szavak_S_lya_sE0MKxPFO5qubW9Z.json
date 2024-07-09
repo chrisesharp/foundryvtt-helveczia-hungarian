@@ -1,0 +1,37 @@
+{
+  "name": "A Szavak Súlya",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ziA7MU7yGTlbURi0",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "student",
+    "range": "rövid",
+    "duration": "töredelmes bűnbánatig",
+    "area": "egy czélpont",
+    "save": "temptation",
+    "component": "vulgáris breviárium",
+    "description": "<p class=\"p1\"><em>(Mentődob&aacute;s: Neh&eacute;z K&iacute;s&eacute;rt&eacute;s)</em></p>\n<p class=\"p1\">Egy tanuls&aacute;gos var&aacute;zsige. Csakis arra hat, aki alacsony Virtust hord, de r&aacute; igen r&uacute;t m&oacute;don. Amint fogadkozik, &uacute;gy azokat a sz&oacute;kat a bűb&aacute;j kiforgatja, &eacute;s r&aacute;terheli: ha pl. azt mondja, hogy essen re&aacute; a h&aacute;z, bizony saj&aacute;t h&aacute;za fog r&aacute;szakadni, ha pedig az &ouml;rd&ouml;ggel p&eacute;ld&aacute;l&oacute;zik, az is tisztelet&eacute;t teszi. Nem szabadulhat pedig ebből a fog&oacute;s helyzetből, m&iacute;g legal&aacute;bb k&ouml;zepes Virtust nem szerez mag&aacute;nak.</p>\n<p class=\"p1\"><strong>Komponense:</strong> egy brevi&aacute;rium, amiben igen cs&uacute;nya kifejez&eacute;sek vannak.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720277279695,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "sE0MKxPFO5qubW9Z",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!sE0MKxPFO5qubW9Z"
+}

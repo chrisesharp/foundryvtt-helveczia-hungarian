@@ -1,0 +1,33 @@
+{
+  "folder": "3LyOQo8arzBzeUYk",
+  "name": "Gazdag ház",
+  "type": "possession",
+  "_id": "lALBVsNVg45vb9It",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "cost": {
+      "value": "200",
+      "coin": "th"
+    },
+    "encumbrance": "1"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719954668233,
+    "modifiedTime": 1719954673012,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!items!lALBVsNVg45vb9It"
+}

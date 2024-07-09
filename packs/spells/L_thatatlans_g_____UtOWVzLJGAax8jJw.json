@@ -1,0 +1,37 @@
+{
+  "name": "Láthatatlanság (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ziA7MU7yGTlbURi0",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "student",
+    "range": "-",
+    "duration": "félóráig-óráig",
+    "area": "önmagára avagy más személyre",
+    "save": "-",
+    "component": "különleges festék",
+    "description": "<p class=\"p1\">Nincs, ki erre a var&aacute;zslatra ne &aacute;h&iacute;tozna, s &eacute;ppen ez&eacute;rt őrzik olly kevesen olly f&eacute;lt&eacute;kenyen. Aki a l&aacute;thatatlans&aacute;g pal&aacute;stj&aacute;t mag&aacute;ra &ouml;lti, &uacute;gy j&aacute;rhat-kelhet, mintha ott sem lenne (b&aacute;r nyomaira, hangjaira &eacute;s szag&aacute;ra &uuml;gyelnie kell), &eacute;s azt tehet, amit kedve tartja. Csak akkor m&uacute;lik el idő előtt, ha seb &eacute;ri.</p>\n<p class=\"p1\"><strong>Komponense:</strong> ollyan sz&iacute;nt fest&eacute;kkel kikeverni, mi nem l&aacute;that&oacute;. Igen k&uuml;l&ouml;nleges szerek kellenek hozz&aacute;.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720276534517,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "UtOWVzLJGAax8jJw",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!UtOWVzLJGAax8jJw"
+}

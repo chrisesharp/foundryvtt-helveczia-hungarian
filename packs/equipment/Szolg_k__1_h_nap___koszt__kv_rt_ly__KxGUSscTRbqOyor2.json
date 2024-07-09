@@ -1,0 +1,22 @@
+{
+  "name": "Szolgák (1 hónap + koszt, kvártély)",
+  "sorting": "m",
+  "folder": null,
+  "type": "Item",
+  "_id": "KxGUSscTRbqOyor2",
+  "description": "",
+  "sort": -12500,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719918562427,
+    "modifiedTime": 1719953278503,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!folders!KxGUSscTRbqOyor2"
+}

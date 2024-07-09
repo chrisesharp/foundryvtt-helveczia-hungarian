@@ -1,0 +1,33 @@
+{
+  "folder": "t06mlm9xZxH9G5ZA",
+  "name": "Köpönyeg",
+  "type": "possession",
+  "_id": "XI1NrjMUNrpx6Z11",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "cost": {
+      "value": "5",
+      "coin": "pf"
+    },
+    "encumbrance": "1"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719952320180,
+    "modifiedTime": 1719952323557,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!items!XI1NrjMUNrpx6Z11"
+}

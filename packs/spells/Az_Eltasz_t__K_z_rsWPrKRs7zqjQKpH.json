@@ -1,0 +1,37 @@
+{
+  "name": "Az Eltaszító Kéz",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "UNLAvFf46znK3j0K",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "cleric",
+    "range": "hosszú",
+    "duration": "azonnal hat",
+    "area": "egy czélpontra",
+    "save": "temptation",
+    "component": "",
+    "description": "<p class=\"p1\"><em>(Mentődob&aacute;s: Neh&eacute;z K&iacute;s&eacute;rt&eacute;s)</em></p>\n<p class=\"p1\">Nincsen rettenetesebb, mint az Anyaszentegyh&aacute;z, ha haragszik: a k&eacute;z, mely gy&aacute;mol&iacute;t &eacute;s befogad, a sz&uuml;ks&eacute;gben p&eacute;ld&aacute;s szigorral s&uacute;jt le a bűnre. Ezt az ig&eacute;t azon lehet alkalmazni, ki az isteni &eacute;s emberi rend ellen nagyot v&eacute;tett: ha mentődob&aacute;s&aacute;t elv&eacute;ti, nem l&eacute;phet addig templomba &eacute;s m&aacute;s megszentelt ter&uuml;letre, m&iacute;g rettentő tetteit meg nem b&aacute;nta, s &eacute;rt&uuml;k nem vezekelt.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720300697810,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "rsWPrKRs7zqjQKpH",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!rsWPrKRs7zqjQKpH"
+}

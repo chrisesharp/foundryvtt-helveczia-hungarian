@@ -1,0 +1,33 @@
+{
+  "name": "Erdészet",
+  "type": "skill",
+  "img": "icons/svg/temple.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>Seg&iacute;t a vadonbeli t&aacute;j&eacute;koz&oacute;d&aacute;sban, meg&eacute;lhet&eacute;sben &eacute;s t&uacute;l&eacute;l&eacute;sben.</p>",
+    "ability": "wis",
+    "subtype": "practical",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829583790,
+    "modifiedTime": 1720132970676,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "HcNFhLoWyx3pqSRn",
+  "sort": 1000000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!HcNFhLoWyx3pqSRn"
+}

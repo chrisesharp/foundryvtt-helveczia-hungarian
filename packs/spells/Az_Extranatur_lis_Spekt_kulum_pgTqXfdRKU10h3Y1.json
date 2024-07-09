@@ -1,0 +1,37 @@
+{
+  "name": "Az Extranaturális Spektákulum",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "UNLAvFf46znK3j0K",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "cleric",
+    "range": "közepes",
+    "duration": "tíz perczig",
+    "area": "önmaga elé s környül",
+    "save": "bravery",
+    "component": "",
+    "description": "<p class=\"p1\">Az ige szavaira csud&aacute;latos &eacute;s rettentő dolgok jelennek meg az &eacute;gbolton, mintha csak J&aacute;nos Jelen&eacute;seiből v&eacute;tettek volna: &eacute;s sokak l&aacute;tj&aacute;k majd ezt valami igen nagy dolognak. A hit&uuml;kben gyeng&eacute;k, kiknek Virtusa alacsony, &ouml;sszezavarodnak, &eacute;s sz&iacute;v&uuml;ket hal&aacute;lf&eacute;lelem szor&iacute;tja &ouml;ssze. A magas Virtus&uacute;ak megerős&ouml;dnek hit&uuml;kben, s akiknek &eacute;lete &eacute;s hite egy (21-es Virtus), nyugalomban &aacute;llnak a kinyilatkoztat&aacute;s sz&iacute;ne előtt. Sok hasonl&oacute; jelet lehetett l&aacute;tni, ami&oacute;ta a kereszt&eacute;ny hit nem egys&eacute;ges eg&eacute;sz, &eacute;s vannak, akik att&oacute;l tartanak, hogy m&eacute;g rettentőbbek j&ouml;nnek m&eacute;g, m&iacute;g &eacute;ps&eacute;g&eacute;t helyre nem &aacute;ll&iacute;tj&aacute;k.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720299730506,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "pgTqXfdRKU10h3Y1",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!pgTqXfdRKU10h3Y1"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Heroizmus",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ziA7MU7yGTlbURi0",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "student",
+    "range": "-",
+    "duration": "egy félóra lehet ez is",
+    "area": "önmagára avagy más személyre",
+    "save": "-",
+    "component": "egy kis palaczk tokaji bor",
+    "description": "<p class=\"p1\">A r&eacute;gi Ol&uuml;mposzon lehetett ilyen csoda, hogy valaki minden dolg&aacute;ban &iacute;gy megt&aacute;ltosodjon: mert b&aacute;rmihez fog, mint egy h&eacute;rosz, &uacute;gy fogja elv&eacute;gezni (18-as tulajdons&aacute;g minden pr&oacute;badob&aacute;sn&aacute;l). Egyed&uuml;l a tokaji k&uuml;l&ouml;nleges hat&aacute;sa, ami nem &eacute;rv&eacute;nyes&uuml;l, mert a var&aacute;zs azt mind felem&eacute;szti.</p>\n<p class=\"p1\"><strong>Komponense:</strong> egy kis palaczk tokaji bor, mit r&ouml;gvest f&ouml;l kell h&ouml;rpinteni.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720276439910,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "RceokQ4MDEMz22xi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!RceokQ4MDEMz22xi"
+}

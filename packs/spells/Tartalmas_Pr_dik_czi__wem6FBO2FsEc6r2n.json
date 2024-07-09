@@ -1,0 +1,37 @@
+{
+  "name": "Tartalmas Prédikáczió",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ER3HMq6AdzRgV93H",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "cleric",
+    "range": "közepes",
+    "duration": "három óránál tovább nem tarthat",
+    "area": "aki a prédikácziót meghallja",
+    "save": "temptation",
+    "component": "",
+    "description": "<p class=\"p1\">Nem helyes dolog, ha a n&eacute;p az ig&eacute;t meg nem hallgatja. Ha azonban ezzel kezdetik, akkor figyelmesek lesznek &eacute;s a v&eacute;g&eacute;ig nem t&aacute;g&iacute;tanak, sőt, m&aacute;sok is oda fognak gyűlni. Aki elmenne, mentődob&aacute;st kell dobnia, s am&iacute;g a besz&eacute;d tart, a pr&eacute;dik&aacute;tornak &eacute;s t&aacute;rsainak baja nem esik. Nem sokan vannak, akik a mező vadjait &eacute;s az &eacute;g madarait &iacute;gy maguk k&ouml;r&eacute; gyűjten&eacute;k, de a franczisk&aacute;nus testv&eacute;rek ezt a csud&aacute;t &eacute;s m&aacute;sokat mind megcseleked&eacute;k.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720295905124,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "wem6FBO2FsEc6r2n",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!wem6FBO2FsEc6r2n"
+}

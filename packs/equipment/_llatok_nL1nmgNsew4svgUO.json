@@ -1,0 +1,22 @@
+{
+  "name": "Állatok",
+  "sorting": "m",
+  "folder": null,
+  "type": "Item",
+  "_id": "nL1nmgNsew4svgUO",
+  "description": "",
+  "sort": -6250,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719918580576,
+    "modifiedTime": 1719953311115,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!folders!nL1nmgNsew4svgUO"
+}

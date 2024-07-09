@@ -1,0 +1,37 @@
+{
+  "name": "Narcissus Tükre",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "MUygynGYWUAKLwPj",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "student",
+    "range": "-",
+    "duration": "egypár óra",
+    "area": "önmagára",
+    "save": "temptation",
+    "component": "egy szép tükör",
+    "description": "<p class=\"p1\">Ki az elmond&oacute; szem&eacute;be n&eacute;z, s szem&eacute;ly&eacute;t meglatolja, &eacute;ppolyannak hiszi majd, mint &ouml;nmag&aacute;t, m&aacute;rpedig igen sokaknak van saj&aacute;t magukr&oacute;l j&oacute; v&eacute;leked&eacute;s&uuml;k. Csak aki k&eacute;telkedik ebben, pr&oacute;b&aacute;lkozhat mentődob&aacute;ssal. Igen sokszor az&eacute;rt ezek a legnagyobb &ouml;nhittek.</p>\n<p class=\"p1\"><strong>Komponense:</strong> egy sz&eacute;p t&uuml;k&ouml;r, amit struczmad&aacute;r toll&aacute;val kell czir&oacute;gatni &eacute;s csiklandani.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720278548559,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "efz9wDYXtEIyta1F",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!efz9wDYXtEIyta1F"
+}

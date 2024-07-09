@@ -1,0 +1,33 @@
+{
+  "name": "Kriptográfia (Mágikus)",
+  "type": "skill",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>A k&eacute;pzetts&eacute;ggel a karakter el tud olvasni m&aacute;s nyelven &iacute;rt &iacute;r&aacute;sokat &eacute;s feliratokat, k&uuml;l&ouml;n&ouml;sk&eacute;ppen az okkult &eacute;s titkos script&uacute;r&aacute;kat.</p>",
+    "ability": "int",
+    "subtype": "magical",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829583790,
+    "modifiedTime": 1720132970676,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "BbWt2hT9naMfuItm",
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!BbWt2hT9naMfuItm"
+}

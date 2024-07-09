@@ -1,0 +1,33 @@
+{
+  "name": "Megfigyelés",
+  "type": "skill",
+  "img": "icons/svg/temple.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>Olyan &eacute;rz&eacute;kel&eacute;si k&eacute;pess&eacute;get jelent, ami meghaladja az &aacute;tlagember&eacute;t. &Iacute;gy olyan r&eacute;szletek vehetők &eacute;szre, amelyek szabad szemmel l&aacute;that&oacute;ak, de csakis az avatott megfigyelő sz&aacute;m&aacute;ra.</p>",
+    "ability": "wis",
+    "subtype": "practical",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829583790,
+    "modifiedTime": 1720132970676,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "DaSE2Pa2JXYLmdIJ",
+  "sort": 700000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!DaSE2Pa2JXYLmdIJ"
+}

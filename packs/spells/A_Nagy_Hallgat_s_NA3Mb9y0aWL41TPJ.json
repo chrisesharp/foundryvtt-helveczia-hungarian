@@ -1,0 +1,37 @@
+{
+  "name": "A Nagy Hallgatás",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "UNLAvFf46znK3j0K",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "cleric",
+    "range": "közepes",
+    "duration": "feloldozásig avagy egy hónapig",
+    "area": "egy térre",
+    "save": "bravery",
+    "component": "",
+    "description": "<p class=\"p1\">A Teremt&eacute;s előtti idők cs&ouml;ndj&eacute;t hozza egy ny&iacute;lt avagy z&aacute;rt t&eacute;rre, amely akkora is lehet, mint egy kisebb falu. Ezt&aacute;n csakis a Bibli&aacute;ban meg&iacute;rt Ige csend&uuml;l fel, &eacute;s csak att&oacute;l, aki sikeres mentődob&aacute;st dob. Nagyon j&oacute;l k&eacute;sz&uuml;lj&ouml;n fel, aki ehhez fordulna, mert ha rossz cz&eacute;lra alkalmazn&aacute;, mentődob&aacute;st kell dobnia, vagy őt mag&aacute;t A N&eacute;ma var&aacute;zslat&aacute;nak ereje s&uacute;jtja.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720299826531,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "NA3Mb9y0aWL41TPJ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!NA3Mb9y0aWL41TPJ"
+}

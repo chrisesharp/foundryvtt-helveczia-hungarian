@@ -1,0 +1,32 @@
+{
+  "name": "Úti szerencse",
+  "type": "class",
+  "img": "icons/svg/coins.svg",
+  "effects": [],
+  "folder": "SsAP5eF6CyQzPsPM",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>Fortuna kiemelt figyelm&eacute;ből kalandonk&eacute;nt 1d3 alkalommal +2 adhat&oacute; egy mentődob&aacute;s vagy a kezdem&eacute;nyez&eacute;s &eacute;rt&eacute;k&eacute;hez. Ezt a sz&aacute;nd&eacute;kot a dob&aacute;s előtt kell bejelenteni, &eacute;s mindig az első alkalom ut&aacute;n der&uuml;l ki, h&aacute;nyszor r&eacute;szes&uuml;l a karakter Fortuna segedelm&eacute;ben.</p>",
+    "specialism": true,
+    "parent": "vagabond"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829788934,
+    "modifiedTime": 1720165944679,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "DL2tua5hAwlHcDVA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!DL2tua5hAwlHcDVA"
+}

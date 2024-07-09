@@ -1,0 +1,37 @@
+{
+  "name": "A Csontkulcs",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "MUygynGYWUAKLwPj",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "student",
+    "range": "érintésre",
+    "duration": "két szintenként egy próba jut",
+    "area": "egy zárra hat",
+    "save": "-",
+    "component": "akasztott ember mutatóujjának perczei",
+    "description": "<p class=\"p1\">Hozz&aacute;&eacute;rintve egy bűv&ouml;s ujjperczet valami z&aacute;rhoz, mintha azonos szintű s 18-as &Uuml;gyess&eacute;gű tolvajmester pattintan&aacute; fel. Ha a dob&aacute;s 1, belet&ouml;rik a z&aacute;rba.</p>\n<p class=\"p1\"><strong>Komponense: </strong>akasztott ember mutat&oacute;ujj&aacute;nak perczei.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720277867569,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "dlIqovrboXbNQeaj",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!dlIqovrboXbNQeaj"
+}

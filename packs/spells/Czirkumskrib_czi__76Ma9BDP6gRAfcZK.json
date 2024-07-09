@@ -1,0 +1,37 @@
+{
+  "name": "Czirkumskribáczió",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "LUIL15KYrp683hE7",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "student",
+    "range": "igen rövid",
+    "duration": "kakasszóig",
+    "area": "kamrányi területű kör",
+    "save": "deftness",
+    "component": "egy jatagán",
+    "description": "<p class=\"p1\">Ez pedig a k&ouml;vetkező. Egy jatag&aacute;nnal kell k&ouml;rt vonni, s am&iacute;g a kakas meg nem sz&oacute;lal, ott aki &aacute;tl&eacute;p, peng&eacute;k szabdalj&aacute;k darabokra, u.i. az elmond&oacute; minden szintj&eacute;&eacute;rt egy t&aacute;mad&aacute;st kap, mintha a k&ouml;rben &aacute;ll&oacute; s&uacute;jtott volna r&aacute; szably&aacute;val. A k&ouml;r megl&aacute;tszik, mint a csillog&oacute; acz&eacute;l, s hallik, mint f&eacute;mnek s&uacute;rl&oacute;d&aacute;sa.</p>\n<p class=\"p1\"><strong>Komponense:</strong> egy jatag&aacute;n kell hozz&aacute;, de csakis a t&ouml;r&ouml;ktől j&oacute; (25 Pfg).</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720281790114,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "76Ma9BDP6gRAfcZK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!76Ma9BDP6gRAfcZK"
+}

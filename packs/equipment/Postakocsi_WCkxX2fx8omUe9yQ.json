@@ -1,0 +1,33 @@
+{
+  "folder": "scVRL431SfWRT8Kg",
+  "name": "Postakocsi",
+  "type": "possession",
+  "_id": "WCkxX2fx8omUe9yQ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>1 stunde</p>",
+    "cost": {
+      "value": "2",
+      "coin": "pf"
+    },
+    "encumbrance": "1"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719952937863,
+    "modifiedTime": 1719952950601,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!items!WCkxX2fx8omUe9yQ"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Kőugrató (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "MUygynGYWUAKLwPj",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "student",
+    "range": "hosszú",
+    "duration": "azonnali",
+    "area": "önmagára avagy más személyre",
+    "save": "-",
+    "component": "fordítva patkolt csizma",
+    "description": "<p class=\"p1\">&Uacute;gy ugorhat &aacute;t egy hasad&eacute;kot, mint annak a rendje, &eacute;s &eacute;ps&eacute;gben fog a t&uacute;ls&oacute; oldal&aacute;ra &eacute;rkezni. A m&eacute;lybe is lehet vele ugrani, de hirtelenj&eacute;ben, zuhanva is kimondhatni.</p>\n<p class=\"p1\"><strong>Komponense:</strong> a csizm&aacute;t kell ford&iacute;tva megpatkolni olyan vassal, amire embert akasztottak.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720278414644,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "nd4OtvkbwGGrg7cS",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!nd4OtvkbwGGrg7cS"
+}

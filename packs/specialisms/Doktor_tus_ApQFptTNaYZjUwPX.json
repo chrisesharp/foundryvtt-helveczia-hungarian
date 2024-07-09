@@ -1,0 +1,30 @@
+{
+  "folder": "jYzqAI6RbyYhjCtW",
+  "name": "Doktorátus",
+  "type": "class",
+  "img": "icons/svg/cowled.svg",
+  "system": {
+    "description": "<p>A hatodik szintet el&eacute;rt papok teol&oacute;giai doktor&aacute;tust szerezhetnek valamelyik egyetemen. Ez a fokozat a tekint&eacute;lyen t&uacute;l speczifikus előny&ouml;kkel is j&aacute;r. A karakter 6 extra pontot oszthat el tudom&aacute;nyos k&eacute;pzetts&eacute;gei k&ouml;z&ouml;tt (egyre maxim&aacute;lisan 3 pont tehető), vagy &uacute;j tudom&aacute;nyt tanulhat ki.</p>\n<p>M&aacute;sodszor vagy egy szent ereklye, vagy egy terjedelmes &eacute;s jelentős birtok gazd&aacute;ja lesz, s mindk&eacute;t kegyhez 2d4*10 fegyveres k&ouml;vető is j&aacute;r.</p>",
+    "specialism": true,
+    "parent": "cleric"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829788934,
+    "modifiedTime": 1720164944616,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "ApQFptTNaYZjUwPX",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!ApQFptTNaYZjUwPX"
+}

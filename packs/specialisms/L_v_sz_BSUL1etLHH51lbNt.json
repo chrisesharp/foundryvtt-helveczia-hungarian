@@ -1,0 +1,76 @@
+{
+  "name": "Lövész",
+  "type": "class",
+  "img": "icons/svg/combat.svg",
+  "effects": [
+    {
+      "_id": "lPkjMXSm2c0kaTQ6",
+      "changes": [
+        {
+          "key": "system.attack.ranged.bonus",
+          "mode": 2,
+          "value": "2",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Item.p96VzZiFLUxkGuWq",
+      "transfer": true,
+      "flags": {},
+      "tint": "#ffffff",
+      "name": "Sharpshooter",
+      "description": "",
+      "statuses": [],
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "img": "icons/svg/aura.svg",
+      "type": "base",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!BSUL1etLHH51lbNt.lPkjMXSm2c0kaTQ6"
+    }
+  ],
+  "folder": "Ov21n03SbW2TZT8u",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>Hab&aacute;r e kor pontatlan lőfegyvereivel ink&aacute;bb sort&uuml;zet lőnek, n&eacute;h&aacute;nyan m&eacute;gis elsaj&aacute;t&iacute;tj&aacute;k a hal&aacute;lpontos cz&eacute;lz&aacute;s k&eacute;pess&eacute;g&eacute;t.</p>\n<p>A l&ouml;v&eacute;szek csakis k&ouml;nnyű v&eacute;rteket viselhetnek, de lőfegyverekkel vagy +2-t kapnak t&aacute;mad&aacute;saikra, vagy gyorsabban t&ouml;ltik &uacute;jra azokat: sz&aacute;mszer&iacute;jat, pisztolyt &eacute;s karab&eacute;lyt 1/2 k&ouml;r, mord&aacute;lyt &eacute;s musk&eacute;t&aacute;t 1 k&ouml;r, &aacute;gyut 2 &eacute;s 1/2 k&ouml;r alatt. Mindig k&ouml;r&uuml;lm&eacute;nyeik szerint v&aacute;laszthatnak, melyik előny &eacute;rv&eacute;nyes&uuml;l.</p>",
+    "specialism": true,
+    "parent": "fighter"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829788934,
+    "modifiedTime": 1720165382132,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "BSUL1etLHH51lbNt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!BSUL1etLHH51lbNt"
+}

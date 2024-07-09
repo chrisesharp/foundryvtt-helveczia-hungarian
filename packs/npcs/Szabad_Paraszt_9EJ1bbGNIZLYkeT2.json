@@ -1,0 +1,239 @@
+{
+  "name": "Szabad Paraszt",
+  "type": "npc",
+  "img": "systems/helveczia/assets/people/male/man_18.png",
+  "items": [
+    {
+      "_id": "JnVEMCvS8EUVUIgX",
+      "name": "Vasvilla",
+      "type": "weapon",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "attack": "melee",
+        "damage": "1d6",
+        "critical": {
+          "range": "20",
+          "multiple": "2"
+        },
+        "encumbrance": "1",
+        "bonus": "0",
+        "reload": 0,
+        "cost": {
+          "value": "",
+          "coin": "th"
+        }
+      },
+      "ownership": {
+        "default": 0,
+        "k52po8UVGe0kJkBK": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!9EJ1bbGNIZLYkeT2.JnVEMCvS8EUVUIgX"
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "helveczia": {
+      "rolled-hits-lvl": 1
+    },
+    "core": {}
+  },
+  "system": {
+    "description": "",
+    "hp": {
+      "value": 8,
+      "max": 8,
+      "hd": 8
+    },
+    "level": 1,
+    "people": "",
+    "class": "",
+    "origVirtue": 10,
+    "virtue": 11,
+    "initiative": 0,
+    "maxskills": 3,
+    "saves": {
+      "bravery": {
+        "base": 0,
+        "bonus": 0
+      },
+      "deftness": {
+        "base": 0,
+        "bonus": 0
+      },
+      "temptation": {
+        "base": 0,
+        "bonus": 0
+      }
+    },
+    "attack": {
+      "melee": {
+        "base": 0,
+        "bonus": 0
+      },
+      "ranged": {
+        "base": 0,
+        "bonus": 0
+      },
+      "cc": {
+        "base": 0,
+        "bonus": 0
+      }
+    },
+    "scores": {
+      "str": {
+        "value": 10,
+        "base": 10
+      },
+      "dex": {
+        "value": 10,
+        "base": 10
+      },
+      "con": {
+        "value": 10,
+        "base": 10
+      },
+      "int": {
+        "value": 10,
+        "base": 10
+      },
+      "wis": {
+        "value": 10,
+        "base": 10
+      },
+      "cha": {
+        "value": 10,
+        "base": 10
+      }
+    },
+    "wealth": {
+      "th": 0,
+      "pf": 0,
+      "gr": 0
+    },
+    "levelBonus": "1",
+    "baseAC": 11,
+    "experience": 50,
+    "stats": {}
+  },
+  "prototypeToken": {
+    "name": "Free Farmer",
+    "displayName": 30,
+    "actorLink": true,
+    "width": 1,
+    "height": 1,
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "color": null,
+      "attenuation": 0.5,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "systems/helveczia/assets/people/male/man_18.png",
+      "tint": "#ffffff",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": true,
+      "range": 30,
+      "brightness": 0,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1720372439592,
+    "modifiedTime": 1720372439592,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "9EJ1bbGNIZLYkeT2",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!actors!9EJ1bbGNIZLYkeT2"
+}

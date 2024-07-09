@@ -1,0 +1,22 @@
+{
+  "name": "Felszerelés",
+  "sorting": "m",
+  "folder": null,
+  "type": "Item",
+  "_id": "VXQRE2M8PihkoxBT",
+  "description": "",
+  "sort": -100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719918501712,
+    "modifiedTime": 1719953943858,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!folders!VXQRE2M8PihkoxBT"
+}

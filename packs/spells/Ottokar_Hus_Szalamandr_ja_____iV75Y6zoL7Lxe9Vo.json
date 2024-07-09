@@ -1,0 +1,37 @@
+{
+  "name": "Ottokar Hus Szalamandrája (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "LUIL15KYrp683hE7",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "student",
+    "range": "hosszú",
+    "duration": "egy hónapig, de tovább nem",
+    "area": "-",
+    "save": "-",
+    "component": "lombik szalamandra",
+    "description": "<p class=\"p1\">A tűz spher&aacute;j&aacute;b&oacute;l j&ouml;tt spekt&aacute;kulum, minek k&ouml;z&ouml;ns&eacute;gesen szalamandragy&iacute;k a neve, leggyakoribban lombikj&aacute;ban &eacute;l &eacute;s pihen, &aacute;m &eacute;jjel k&eacute;rd&eacute;seket lehet neki feltenni, &eacute;s duruzsol&oacute; hangj&aacute;n v&aacute;laszol re&aacute;, hetente egyet &eacute;s &ouml;t&ouml;dik szinttől m&eacute;g egy m&aacute;sikat. M&aacute;sfelől ha valahol eleresztik, bemegy a h&aacute;zba, mit neki kijel&ouml;lnek, s mintha cs&oacute;v&aacute;t dobtak volna r&aacute;, ki&eacute;geti. Nagyon k&eacute;nyes, k&uuml;l&ouml;n&ouml;sen a v&iacute;zre.</p>\n<p class=\"p1\"><strong>Komponense:</strong> lombikban kell ferment&aacute;tum &eacute;s igen becses fluidumok vegy&iacute;t&eacute;k&eacute;ből kinevelni, hol is par&aacute;zs, k&eacute;n &eacute;s phosphorus lesz &eacute;tke, &eacute;s mivel igen fal&aacute;nk, a rendes k&ouml;lts&eacute;g mellett hetente m&eacute;g 1 aranytall&eacute;rnyit felfal belől&ouml;k.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720282096498,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "iV75Y6zoL7Lxe9Vo",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!iV75Y6zoL7Lxe9Vo"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Pánczélszúró",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>P&aacute;ncz&eacute;lsz&uacute;r&oacute;, kiker&uuml;li a p&aacute;ncz&eacute;lokat.</p>",
+    "attack": "melee",
+    "damage": "1d6",
+    "critical": {
+      "range": "19",
+      "multiple": "2"
+    },
+    "encumbrance": "1",
+    "bonus": "0",
+    "reload": 0,
+    "cost": {
+      "value": "8",
+      "coin": "th"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719828918413,
+    "modifiedTime": 1720032507634,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "folder": null,
+  "_id": "asBHDNoF4nw0xG9b",
+  "sort": 2100000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!asBHDNoF4nw0xG9b"
+}

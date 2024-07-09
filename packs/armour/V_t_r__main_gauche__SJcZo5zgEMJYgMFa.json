@@ -1,0 +1,38 @@
+{
+  "name": "Vítőr (main-gauche)",
+  "type": "armour",
+  "img": "icons/svg/shield.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "",
+    "bonus": 2,
+    "encumbrance": 1,
+    "shield": true,
+    "cost": {
+      "value": "8",
+      "coin": "pf"
+    },
+    "img": "icons/shield.svg"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719828660737,
+    "modifiedTime": 1720164313602,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "SJcZo5zgEMJYgMFa",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!SJcZo5zgEMJYgMFa"
+}

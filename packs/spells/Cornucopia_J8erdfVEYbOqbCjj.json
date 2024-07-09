@@ -1,0 +1,41 @@
+{
+  "name": "Cornucopia",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "DklZOXwgGCjyQb5s",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "cleric",
+    "range": "-",
+    "duration": "egy kiadós ebéd- vagy vacsoraidő",
+    "area": "-",
+    "save": "-",
+    "component": "",
+    "data": {
+      "level": 2,
+      "class": "cleric"
+    },
+    "description": "<p class=\"p1\">A legk&uuml;l&ouml;nf&eacute;l&eacute;bb finoms&aacute;gokat &eacute;s italokat ter&iacute;ti az &ouml;sszesereglett t&aacute;rsas&aacute;g el&eacute;, mely szintenk&eacute;nt h&aacute;rom fő erej&eacute;ig bős&eacute;gesen lakm&aacute;rozhatik.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720297228482,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "J8erdfVEYbOqbCjj",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!J8erdfVEYbOqbCjj"
+}

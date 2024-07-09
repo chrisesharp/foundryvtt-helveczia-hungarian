@@ -1,0 +1,33 @@
+{
+  "name": "Nyomkeresés",
+  "type": "skill",
+  "img": "icons/svg/temple.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>A karakter k&eacute;pes a nyomok k&ouml;vet&eacute;s&eacute;re &eacute;s hozz&aacute;vetőleges azonos&iacute;t&aacute;s&aacute;ra, vagyis megtudhatja, milyen r&eacute;giek, mif&eacute;le szerzet hagyta őket, milyen gyorsan haladt a nyomokat hagy&oacute;, &eacute;s m&aacute;s hasznos r&eacute;szleteket.</p>",
+    "ability": "wis",
+    "subtype": "practical",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829583790,
+    "modifiedTime": 1720132970676,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "XIYKSQLraF4mYI4W",
+  "sort": 2000000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!XIYKSQLraF4mYI4W"
+}

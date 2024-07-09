@@ -1,0 +1,33 @@
+{
+  "name": "Okkultizmus",
+  "type": "skill",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>A karakter azonos&iacute;thatja a m&aacute;gikus jelens&eacute;geket, &iacute;gy a magnetizmust &eacute;s a spiritualis manifeszt&aacute;ci&oacute;kat, valamint a var&aacute;zslatos t&aacute;rgyak haszn&aacute;t. Ezen fel&uuml;l gyakorlati &eacute;s elm&eacute;leti betekint&eacute;st ny&uacute;jt a m&aacute;gi&aacute;t &eacute;rintő k&eacute;rd&eacute;sekbe.</p>",
+    "ability": "int",
+    "subtype": "magical",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829583790,
+    "modifiedTime": 1720132970676,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "yc55dm3aaJx03iTh",
+  "sort": 2800000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!yc55dm3aaJx03iTh"
+}

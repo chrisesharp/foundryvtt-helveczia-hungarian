@@ -1,0 +1,37 @@
+{
+  "name": "Az Erény Köpönyege",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "MUygynGYWUAKLwPj",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "student",
+    "range": "-",
+    "duration": "egy napot avagy egy éjszakát tart",
+    "area": "önmagára avagy más személyre",
+    "save": "temptation",
+    "component": "egy rózsafüzér, tömjén s szenteltvíz",
+    "description": "<p class=\"p1\">A magas Virtus t&uuml;nem&eacute;ny&eacute;t k&ouml;lcs&ouml;nzi annak, ki sz&aacute;m&aacute;ra ezt nehez&eacute;re esne dolgos munk&aacute;val el&eacute;rni. Hogy s mint forgol&oacute;dik, igen er&eacute;nyesnek fogj&aacute;k hinni, ami igen sok dologra hasznos. A k&aacute;pr&aacute;zatnak azonban csak azok &aacute;ldozatai, akik maguk is k&ouml;zepes vagy alacsony Virtus&uacute;ak.</p>\n<p class=\"p1\"><strong>Komponense:</strong> egy r&oacute;zsaf&uuml;z&eacute;r, t&ouml;mj&eacute;n s szenteltv&iacute;z, mint annak m&oacute;dja.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720278058464,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "1kE04ozqnoNFTDnc",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!1kE04ozqnoNFTDnc"
+}

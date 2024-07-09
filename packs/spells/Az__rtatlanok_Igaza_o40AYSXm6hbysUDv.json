@@ -1,0 +1,37 @@
+{
+  "name": "Az Ártatlanok Igaza",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ER3HMq6AdzRgV93H",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "cleric",
+    "range": "közepes",
+    "duration": "egy napnál nem több",
+    "area": "önmagára vagy másra",
+    "save": "-",
+    "component": "",
+    "description": "<p class=\"p1\">A pap, vagy b&aacute;rki, kit az felruh&aacute;z eme segedelemmel, 18-as Karizm&aacute;ra tesz szert, de csakis egyetlen cz&eacute;lb&oacute;l: hogy meggyőző erej&eacute;vel bizony&iacute;tsa egy &aacute;rtatlanul v&aacute;dolt ember igaz&aacute;t. Hat&aacute;sa csak akkor lesz, ha a v&eacute;dő Virtusa magas, &eacute;s ha a v&aacute;dolt szem&eacute;ly&eacute; is megvan legal&aacute;bb 3, mert aki enn&eacute;l erk&ouml;lcstelenebb, att&oacute;l m&aacute;r elfordult az Isten. Ha a v&aacute;dlottat felmentik, &uacute;gy annak egy h&oacute;napon bel&uuml;l zar&aacute;ndoklatra kell mennie, vagy h&aacute;laad&oacute; mis&eacute;t rendelnie. Azonban ha a v&aacute;dlott val&oacute;ban v&eacute;tkes, &uacute;gy a v&eacute;dő Karizm&aacute;ja 3-ra esik a bűn terh&eacute;től, &eacute;s a bűn&ouml;s v&eacute;delm&eacute;&eacute;rt m&eacute;g vesz&iacute;t is 2 pontnyi Virtust. Sz&uuml;letetlen Szent Rajmund kolostoraib&oacute;l ered, de m&aacute;shol is megtal&aacute;lhat&oacute; m&aacute;r.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720296690780,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "o40AYSXm6hbysUDv",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!o40AYSXm6hbysUDv"
+}

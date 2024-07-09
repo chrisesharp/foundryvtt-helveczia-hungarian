@@ -1,0 +1,37 @@
+{
+  "name": "Rodrigo del Córdoba Lilioma (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "LUIL15KYrp683hE7",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "student",
+    "range": "rövid",
+    "duration": "míg a fraternitást fel nem oldják",
+    "area": "egy csoport",
+    "save": "bravery",
+    "component": "liliom",
+    "description": "<p class=\"p1\"><em>(Mentődob&aacute;s: Neh&eacute;z B&aacute;tors&aacute;g)</em></p>\n<p class=\"p1\">Azt mondj&aacute;k, egy titkos hisp&aacute;niai t&aacute;rsas&aacute;g tagjai fogadt&aacute;k &iacute;gy elősz&ouml;r, hogy a m&aacute;siknak nem &aacute;rtanak, s ezt az elvar&aacute;zsolt liliom f&ouml;l&ouml;tt tett&eacute;k. Mindegyik mondta, hogy&nbsp;<em>&bdquo;Amint ezt a liliomot tov&aacute;bb adom, &uacute;gy s&uacute;jtson re&aacute;m a hal&aacute;l, ha ezt a k&ouml;rt megt&ouml;rn&eacute;m.&rdquo;</em> Minden tal&aacute;lkoz&aacute;sukkor k&ouml;rbeadt&aacute;k a liliomot, hanem egyszer az egyik&uuml;k, Rodrigo del C&oacute;rdoba felnyitotta a l&aacute;d&aacute;t, amiben őrizgett&eacute;k, &eacute;s m&aacute;sikra cser&eacute;lv&eacute;n ezt ellopta. &Iacute;gy feladta a t&ouml;bbi &ouml;sszeesk&uuml;vőt, pedig legk&ouml;zelebb Neh&eacute;z B&aacute;tors&aacute;got kellett volna dobnia, hogy holtan ne ess&eacute;k &ouml;ssze. Mondj&aacute;k, hogy hazugs&aacute;g &eacute;s m&aacute;s ellen is j&oacute; lehet.</p>\n<p class=\"p1\"><strong>Komponense:</strong> liliom, mit nadragulyalev&eacute;l cseppjeivel kell nevelgetni.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720282504153,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "HPpDhRjduq6CG3iC",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!HPpDhRjduq6CG3iC"
+}

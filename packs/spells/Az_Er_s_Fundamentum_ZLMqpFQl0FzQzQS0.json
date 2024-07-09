@@ -1,0 +1,37 @@
+{
+  "name": "Az Erős Fundamentum",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "UNLAvFf46znK3j0K",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "cleric",
+    "range": "közepes",
+    "duration": "negyed óráig",
+    "area": "önmaga elé s környül",
+    "save": "deftness",
+    "component": "",
+    "description": "<p class=\"p1\"><em>(Mentődob&aacute;s: Neh&eacute;z F&uuml;rges&eacute;g)</em></p>\n<p class=\"p1\">Akik hit&uuml;kben gyeng&eacute;k, s Virtusuk nem magas, azonm&oacute;d Neh&eacute;z F&uuml;rges&eacute;g mentődob&aacute;st kell dobniuk, vagy &uacute;gy dőlnek el, mint megannyi tekeb&aacute;bu. Ez 3d6 Hp sebes&uuml;l&eacute;ssel &eacute;s 1d3 k&ouml;r cselekv&eacute;sk&eacute;ptelens&eacute;ggel j&aacute;r; ha pedig felkeln&eacute;nek, &uacute;jra kell dobniuk, avagy &uacute;gy maradnak, ahogy voltak. Akiknek Virtusa magas, +3 VO-t nyernek a var&aacute;zslat &aacute;ltal. Nem t&eacute;tetik k&uuml;l&ouml;nbs&eacute;g ellens&eacute;g &eacute;s bar&aacute;t k&ouml;z&ouml;tt: csakis az igaz &eacute;s hamis &uacute;ton j&aacute;r&oacute; ember k&ouml;z&ouml;tt h&uacute;z&oacute;dik a v&aacute;laszt&oacute;vonal</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720299593813,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "ZLMqpFQl0FzQzQS0",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!ZLMqpFQl0FzQzQS0"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Ördög a Részletekben",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "MUygynGYWUAKLwPj",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "student",
+    "range": "rövid",
+    "duration": "tíz perczig",
+    "area": "egypár szobányi",
+    "save": "-",
+    "component": "kén vagy aranytallér",
+    "description": "<p class=\"p1\">Megid&eacute;z egy igaz&aacute;n kicsi, ujjnyi &ouml;rd&ouml;gfi&oacute;k&aacute;t. Ez a vasvill&aacute;s-szarvas koma &uacute;gy fut, mint az eg&eacute;r, &eacute;s b&aacute;rmi apr&oacute; r&eacute;sen &aacute;tf&eacute;rkőzik. Kihallgathatja a besz&eacute;lget&eacute;st, elcsenhet apr&oacute; dolgokat, vagy bel&uuml;lről megpr&oacute;b&aacute;lhatja felpattinatni egy bez&aacute;rt ajt&oacute;, esetleg l&aacute;da z&aacute;rj&aacute;t.</p>\n<p>1. szintű, VO-ja 14, 1 Hp sebz&eacute;st okoz &eacute;s egyetlen Hp-je van, vagyis &uacute;gy agyoncsaphat&oacute;, mint egy k&ouml;v&eacute;r b&ouml;g&ouml;ly.</p>\n<p><strong>Komponense</strong>: az &ouml;rd&ouml;gfi&oacute;ka legink&aacute;bb a k&eacute;nt szereti, &eacute;s &uacute;gy t&ouml;mi mag&aacute;ba, mint m&aacute;s a m&eacute;zes f&aacute;nkot, de egy kerek aranytall&eacute;rt is elfogad.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720280942667,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "ymt04l6dwC1tMT8o",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!ymt04l6dwC1tMT8o"
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Katona",
+  "type": "class",
+  "img": "icons/svg/combat.svg",
+  "effects": [
+    {
+      "_id": "NevmrJ3crU3T14qz",
+      "changes": [
+        {
+          "key": "system.attack.melee.bonus",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        },
+        {
+          "key": "system.attack.ranged.bonus",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Item.9jx6XGFanCKkqssZ",
+      "transfer": true,
+      "flags": {},
+      "tint": "#ffffff",
+      "name": "Soldier's Prowess",
+      "description": "",
+      "statuses": [],
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.325",
+        "systemId": "helveczia",
+        "systemVersion": "4.0.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "img": "icons/svg/aura.svg",
+      "type": "base",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!Mj22tJctO71Jx7NU.NevmrJ3crU3T14qz"
+    }
+  ],
+  "folder": "Ov21n03SbW2TZT8u",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>Az oszt&aacute;ly leggyakoribb k&eacute;pviselői, kik k&uuml;l&ouml;n&ouml;sen j&aacute;rtasak a h&aacute;bor&uacute;ban &eacute;s t&ouml;bb ellens&eacute;g elleni tus&aacute;ban.</p>\n<p>Egyr&eacute;szt +1-et kapnak alap t&aacute;mad&aacute;sb&oacute;nuszukhoz (vagyis m&aacute;r 5. szinten k&eacute;t t&aacute;mad&aacute;st kapnak),&nbsp;m&aacute;sr&eacute;szt amennyiben egy sikeres t&aacute;mad&oacute;dob&aacute;suk meg&ouml;li a kiszemelt cz&eacute;lpontot, a fennmarad&oacute; sebz&eacute;st a k&ouml;vetkező ellenf&eacute;l szenvedi el. Ha pl. Harras Rudolf hat poroszl&oacute;val viaskodva tal&aacute;lat&aacute;val 11 pontot sebez, akkor az első k&eacute;t ellen (4 &eacute;s 5 Hp) r&ouml;gvest meghal, &eacute;s a harmadik is 2 pont sebes&uuml;l&eacute;st szenved!</p>",
+    "specialism": true,
+    "parent": "fighter"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829788934,
+    "modifiedTime": 1720165514654,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "Mj22tJctO71Jx7NU",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!Mj22tJctO71Jx7NU"
+}

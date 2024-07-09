@@ -1,0 +1,33 @@
+{
+  "name": "Lovaglás",
+  "type": "skill",
+  "img": "icons/svg/temple.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>A karakter igen j&oacute;l &eacute;rt a lovagl&aacute;shoz; &iacute;gy harczban &eacute;s neh&eacute;z helyzetekben is csod&aacute;kra sarkallja h&aacute;tas&aacute;t.</p>",
+    "ability": "dex",
+    "subtype": "practical",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829583790,
+    "modifiedTime": 1720132970676,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "eKPH8QdEgfUbleRR",
+  "sort": 2100000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!eKPH8QdEgfUbleRR"
+}

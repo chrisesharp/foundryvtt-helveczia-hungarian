@@ -1,0 +1,33 @@
+{
+  "name": "Zárnyitás",
+  "type": "skill",
+  "img": "icons/svg/coins.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>Tolvajkulcs seg&iacute;ts&eacute;g&eacute;vel a karakter felnyithatja a k&uuml;l&ouml;nf&eacute;le mechanikus z&aacute;rakat, &eacute;s t&ouml;nkreteheti vagy meg&eacute;rtheti az &ouml;sszetett mechanikus szerkentyűket. Sikertelen pr&oacute;ba eset&eacute;n nem boldogul az adott szerkezettel.</p>",
+    "ability": "dex",
+    "subtype": "vagabond",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829583790,
+    "modifiedTime": 1720132970676,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "wjL8NqsWG5hvKW9B",
+  "sort": 2700000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!wjL8NqsWG5hvKW9B"
+}

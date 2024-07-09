@@ -1,0 +1,43 @@
+{
+  "name": "Furkósbot",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<ul>\n<li>Egy- s k&eacute;tkezesen is haszn&aacute;lhat&oacute;; k&eacute;tk&eacute;zre fogva +1 j&aacute;r a sebz&eacute;sre.</li>\n<li>\n<p>K&aacute;b&iacute;t&oacute; sebz&eacute;st okozhat</p>\n</li>\n</ul>",
+    "attack": "melee",
+    "damage": "1d6",
+    "critical": {
+      "range": "20",
+      "multiple": "2"
+    },
+    "encumbrance": "1",
+    "bonus": "0",
+    "reload": 0,
+    "cost": {
+      "value": "0",
+      "coin": "th"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719828918413,
+    "modifiedTime": 1720032318479,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "n5Tgl6KHpx9pChpG",
+  "sort": 1400000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!n5Tgl6KHpx9pChpG"
+}

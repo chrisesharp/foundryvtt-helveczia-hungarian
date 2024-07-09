@@ -1,0 +1,32 @@
+{
+  "name": "Mondák",
+  "type": "class",
+  "img": "icons/svg/coins.svg",
+  "effects": [],
+  "folder": "SsAP5eF6CyQzPsPM",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>K&uuml;l&ouml;n&ouml;sk&eacute;ppen a mesterdalnokok &eacute;s a sokat pr&oacute;b&aacute;lt &ouml;regek tudj&aacute;k, hogy minden hegynek, forr&aacute;snak &eacute;s romos posta&aacute;llom&aacute;snak t&ouml;rt&eacute;nete van, s ki e t&ouml;rt&eacute;neteket ismeri, nem v&aacute;rt veszedelmeket ker&uuml;lhet el, vagy gy&uuml;m&ouml;lcs&ouml;ző kalandokba bonyol&oacute;dhat.</p>\n<p>A karakter k&eacute;pzetts&eacute;gk&eacute;nt haszn&aacute;lhatja a Mond&aacute;k (B&ouml;l) ismeret&eacute;t, &eacute;s ha k&eacute;pzetts&eacute;gpr&oacute;b&aacute;ja sikeres, megtudhat valamit a kiv&aacute;lasztott hely, csal&aacute;d, szervezet s. a. t. h&aacute;tter&eacute;ről (K&ouml;zepes pr&oacute;ba eset&eacute;n &aacute;ltal&aacute;nos, Neh&eacute;z pr&oacute;ba eset&eacute;n speczifikus, Hősies pr&oacute;ba eset&eacute;n titkos ismeretek is).</p>",
+    "specialism": true,
+    "parent": "vagabond"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829788934,
+    "modifiedTime": 1720165799543,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "0gPLoxhaqDIAS3Pc",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!0gPLoxhaqDIAS3Pc"
+}

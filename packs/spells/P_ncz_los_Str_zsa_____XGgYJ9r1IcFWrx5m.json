@@ -1,0 +1,37 @@
+{
+  "name": "Pánczélos Strázsa (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ziA7MU7yGTlbURi0",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "student",
+    "range": "érintés",
+    "duration": "míg a strázsát le nem győzik",
+    "area": "egy hely, melyet őrizni kell",
+    "save": "-",
+    "component": "nehéz vértezet, ólompenna",
+    "description": "<p class=\"p1\">Jobb v&eacute;delmezőt neh&eacute;z tal&aacute;lni, mint egy megeleven&iacute;tett p&aacute;ncz&eacute;lv&eacute;rtet. F&aacute;radhatatlan, engedelmes, &eacute;s nagyon der&eacute;k harczos, b&aacute;r nem t&uacute;l gyors, s &eacute;rtelme is szűk. Őrhely&eacute;ről messzire nem mehet. 6. szintű katona m&oacute;dj&aacute;ra k&uuml;zd, VO-ja pedig annyi, mint a v&eacute;rt&eacute; volt.</p>\n<p class=\"p1\"><strong>Komponense:</strong> b&aacute;rmif&eacute;le neh&eacute;z v&eacute;rtezetből lehet k&eacute;sz&iacute;teni, de kell m&eacute;g hozz&aacute; egy &oacute;lompenna, amit r&eacute;zg&aacute;liczban &eacute;s k&uuml;l&ouml;nf&eacute;le szerekben kell prepar&aacute;lni, &eacute;s vele a v&eacute;rtre jelet ping&aacute;lni. Ez a penna, mi a var&aacute;zslat rendes k&ouml;lts&eacute;g&eacute;t adja, csakis egyszer haszn&aacute;latos.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720277749246,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "XGgYJ9r1IcFWrx5m",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!XGgYJ9r1IcFWrx5m"
+}

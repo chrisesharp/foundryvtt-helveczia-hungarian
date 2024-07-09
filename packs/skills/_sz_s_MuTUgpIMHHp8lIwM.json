@@ -1,0 +1,33 @@
+{
+  "name": "Úszás",
+  "type": "skill",
+  "img": "icons/svg/temple.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>A karakter j&oacute;l tud &uacute;szni, &eacute;s ak&aacute;r neh&eacute;z k&ouml;r&uuml;lm&eacute;nyek k&ouml;z&ouml;tt (zajl&oacute; folyamban, megterhelten s. a. t.) is k&eacute;pes a felsz&iacute;nen megmaradni.</p>",
+    "ability": "str",
+    "subtype": "practical",
+    "bonus": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829583790,
+    "modifiedTime": 1720132970676,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "MuTUgpIMHHp8lIwM",
+  "sort": 1500000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!MuTUgpIMHHp8lIwM"
+}

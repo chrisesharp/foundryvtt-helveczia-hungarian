@@ -1,0 +1,30 @@
+{
+  "name": "Zsidók",
+  "type": "people",
+  "img": "icons/svg/village.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>A M&oacute;zes-hit &eacute;s az &Oacute;test&aacute;mentom k&ouml;vetői nem nagy sz&aacute;m&uacute;ak, de k&ouml;nnyen felismerhetők fekete g&uacute;ny&aacute;jukr&oacute;l, amelyet v&aacute;ndorl&oacute; &uacute;tjaikon hordanak. Fők&eacute;nt vagabundok &eacute;s de&aacute;kok, n&eacute;ha rabbik, s csak ritk&aacute;n adj&aacute;k magukat a harczosok &eacute;let&eacute;re. Mint a Mindenhat&oacute; v&aacute;lasztott n&eacute;pe, a gondvisel&eacute;s szeme előtt vannak, annak minden előny&eacute;vel &eacute;s h&aacute;tul&uuml;tőj&eacute;vel.</p>\n<ul>\n<li>D&aacute;vid szerencs&eacute;je: magas Virtus mellett kalandonk&eacute;nt k&eacute;t alkalommal k&eacute;t koczk&aacute;val dobhatj&aacute;k egy megmenek&uuml;l&eacute;s&uuml;kh&ouml;z fontos pr&oacute;badob&aacute;sukat, &eacute;s a jobb &eacute;rt&eacute;ket vehetik figyelembe.</li>\n<li>L&oacute;t balsorsa: alacsony Virtus mellett kalandonk&eacute;nt egy alkalommal a mes&eacute;lő k&eacute;t koczk&aacute;val dobathatja egy pr&oacute;badob&aacute;sukat, &eacute;s a rosszabb &eacute;rt&eacute;ket kell elszenvedni&uuml;k.</li>\n<li>Virtus: a zsid&oacute;k n&eacute;p&uuml;k saj&aacute;t t&ouml;rv&eacute;nyei szerint &eacute;lnek, amelyek a T&iacute;zparancsolatb&oacute;l &eacute;s a Talmud rendelkez&eacute;seiből t&aacute;pl&aacute;lkoznak.</li>\n</ul>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829666347,
+    "modifiedTime": 1720161331788,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "6vh6MhItKGaHgpzV",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!6vh6MhItKGaHgpzV"
+}

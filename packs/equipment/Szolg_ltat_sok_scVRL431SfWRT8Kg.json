@@ -1,0 +1,22 @@
+{
+  "name": "Szolgáltatások",
+  "sorting": "m",
+  "folder": null,
+  "type": "Item",
+  "_id": "scVRL431SfWRT8Kg",
+  "description": "",
+  "sort": -25000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719918543944,
+    "modifiedTime": 1719952931071,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!folders!scVRL431SfWRT8Kg"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Dr. Mabuse Mesmerikus Delejezése",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "MUygynGYWUAKLwPj",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "student",
+    "range": "-",
+    "duration": "egy óra",
+    "area": "egy czélpont",
+    "save": "temptation",
+    "component": "szemüveg",
+    "description": "<p class=\"p1\">A tekintettel &aacute;tvitt akaraton alapul&oacute; mesmerizmus rendk&iacute;v&uuml;l erős, s a cz&eacute;lpont k&aacute;bulat&aacute;ban mozogni &eacute;s parancsra &uuml;gyetlen&uuml;l, de cselekedni fog. Ha a jobb &uuml;veggel mondj&aacute;k el, akkor egy parancs is motoszk&aacute;lhat a fej&eacute;ben, ami előtte teljesen titkos lesz, de egy &oacute;r&aacute;n bel&uuml;l ha megfelelő k&ouml;r&uuml;lm&eacute;nyek k&ouml;z&eacute; ker&uuml;l, meg fogja tenni.</p>\n<p class=\"p1\"><strong>Komponense:</strong> szem&uuml;veg kell hozz&aacute;, s a legjobb Tsi-nan-Fu v&aacute;ros&aacute;b&oacute;l (8 Th, de a mentődob&aacute;s Neh&eacute;z, s a szok&aacute;sosn&aacute;l k&eacute;tszer annyi alkalommal j&oacute;).</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720278281796,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "k3aqj2m2SzNEiPNG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!k3aqj2m2SzNEiPNG"
+}

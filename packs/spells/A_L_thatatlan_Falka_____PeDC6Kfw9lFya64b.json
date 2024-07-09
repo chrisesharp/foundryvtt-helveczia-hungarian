@@ -1,0 +1,37 @@
+{
+  "name": "A Láthatatlan Falka (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "LUIL15KYrp683hE7",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "2",
+    "class": "student",
+    "range": "közepes",
+    "duration": "félóráig, majd szintenként még addig",
+    "area": "egy csoport",
+    "save": "bravery",
+    "component": "kutyaszőr ostor",
+    "description": "<p class=\"p1\">A var&aacute;zslat cz&eacute;lpontjait egy falk&aacute;ra val&oacute; fekete kutya alakja űzi-hajtja: &eacute;s b&aacute;r az ebek az &oacute;vatos szeml&eacute;lő előtt csak gomolyg&oacute; k&eacute;pzetek, m&eacute;g ekkor is megfut elől&uuml;k, akiben nincs el&eacute;g kur&aacute;zsi (B&aacute;tors&aacute;g). A falka f&eacute;l &oacute;r&aacute;ig űzi cz&eacute;lpontjait, s őket visszat&eacute;rni szintenk&eacute;nt m&eacute;g f&eacute;l &oacute;r&aacute;ig nem hagyja. Aki futni rest vagy &uuml;gyetlen (ellent&eacute;tes kezdem&eacute;nyez&eacute;s), azt legyűrik &eacute;s alaposan helyben hagyj&aacute;k (3d6 Hp, de csak k&aacute;b&iacute;t&oacute; sebz&eacute;st okoznak).</p>\n<p class=\"p1\"><strong>Komponense:</strong> h&eacute;t fekete kutya szőr&eacute;ből kell ostort fonni, &eacute;s azt kiszipolyozott v&eacute;r&ouml;k főzet&eacute;ben megp&aacute;czolni.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720281364988,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "PeDC6Kfw9lFya64b",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!PeDC6Kfw9lFya64b"
+}

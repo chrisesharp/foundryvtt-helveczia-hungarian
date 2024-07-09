@@ -1,0 +1,33 @@
+{
+  "name": "Pergamen",
+  "type": "possession",
+  "_id": "jdytIEnIxSH8knyI",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Egy lap pergamen.</p>",
+    "cost": {
+      "value": "4",
+      "coin": "gr"
+    },
+    "encumbrance": "1"
+  },
+  "effects": [],
+  "folder": "VXQRE2M8PihkoxBT",
+  "sort": 3900000,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.4",
+    "createdTime": 1719912961349,
+    "modifiedTime": 1719954570059,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_key": "!items!jdytIEnIxSH8knyI"
+}

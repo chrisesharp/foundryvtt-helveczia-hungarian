@@ -1,0 +1,32 @@
+{
+  "name": "Fegyvermester",
+  "type": "class",
+  "img": "icons/svg/combat.svg",
+  "effects": [],
+  "folder": "Ov21n03SbW2TZT8u",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p>A kinek fegyvere becses műt&aacute;rgy, annak kez&eacute;ben &uacute;gy j&aacute;r, mint az olajozott veszedelem.</p>\n<p>Speczi&aacute;lis harczi tapasztalatuknak k&ouml;sz&ouml;nhetően minden p&aacute;ratlan szinten +2-t kapnak egy v&aacute;lasztott fegyvert&iacute;pus (pl. kardok, sz&aacute;lfegyverek, buzog&aacute;nyok &eacute;s p&ouml;r&ouml;ly&ouml;k s. a. t.) sebz&eacute;s&eacute;re. K&eacute;tszer ugyanarra v&aacute;lasztva vagy a sebz&eacute;sb&oacute;nusz emelhető +3-ra, vagy a t&aacute;mad&aacute;shoz j&aacute;rul +1; harmadj&aacute;ra mindk&eacute;t előnyt megkapj&aacute;k egyben arra a fegyvert&iacute;pusra.&rdquo;</p>",
+    "specialism": true,
+    "parent": "fighter"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829788934,
+    "modifiedTime": 1720165572058,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "1UZk0Ma2BYgP4WnD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!1UZk0Ma2BYgP4WnD"
+}

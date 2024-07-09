@@ -1,0 +1,37 @@
+{
+  "name": "Tűzgolyó (*)",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "ziA7MU7yGTlbURi0",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "3",
+    "class": "student",
+    "range": "hosszú",
+    "duration": "azonnali",
+    "area": "20’ sugarú gömb, s mi benne van",
+    "save": "deftness",
+    "component": "egy fekete kakas tojása",
+    "description": "<p class=\"p1\"><em>(Mentődob&aacute;s: F&uuml;rges&eacute;g 1/2)</em></p>\n<p class=\"p1\">Kis szikra pattan ki a var&aacute;zsig&eacute;t elmond&oacute; ujjaib&oacute;l, majd a kiv&aacute;lasztott helyre rep&uuml;lve nagy hanggal &eacute;s f&uuml;sttel felrobban. A t&uuml;zes deton&aacute;czi&oacute; sebz&eacute;se 5d6+ Hp, melly az ajt&oacute;t-gyaloghidat-s&aacute;nczot is b&iacute;zv&aacute;st sz&eacute;jjelveti. Z&aacute;rt terekben igen vesz&eacute;lyes lehet alkalmazni, mert k&ouml;veti azok form&aacute;j&aacute;t &eacute;s terjedelm&eacute;t.</p>\n<p class=\"p1\"><strong>Komponense:</strong> egy fekete kakas toj&aacute;sa, melyet tr&aacute;gy&aacute;ban kell melengetni, majd pedig eleven par&aacute;zsban &eacute;s k&eacute;nes f&uuml;rdőben tartani, m&iacute;g t&uuml;zes fekete spher&aacute;v&aacute; nem alakul.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720276257310,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "chJltqnxlo0vOhOp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!chJltqnxlo0vOhOp"
+}

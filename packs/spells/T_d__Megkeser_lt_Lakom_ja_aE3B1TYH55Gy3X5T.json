@@ -1,0 +1,37 @@
+{
+  "name": "Tádé Megkeserült Lakomája",
+  "type": "spell",
+  "img": "icons/svg/daze.svg",
+  "effects": [],
+  "folder": "MUygynGYWUAKLwPj",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "level": "1",
+    "class": "student",
+    "range": "rövid",
+    "duration": "a lakmározás végéig",
+    "area": "egy asztal",
+    "save": "bravery",
+    "component": "összesepert szemét",
+    "description": "<p class=\"p1\">Val&oacute;s&aacute;gos ter&uuml;lj-ter&uuml;lj asztalk&aacute;m, amin szintenk&eacute;nt nyolcz ember bőven j&oacute;llakhatik; csakhogy ut&aacute;na tapasztalj&aacute;k, hogy az &iacute;zes s&uuml;ltek teh&eacute;nlep&eacute;nyek voltak, a s&uuml;tem&eacute;nyek l&oacute;czitromok, a leves s&aacute;ros mosogat&oacute;l&eacute;, a gy&uuml;m&ouml;lcs rothadt czefre, a samp&aacute;nyi bor &ndash; tisztess&eacute;g ne ess&eacute;k &ndash; l&oacute;h&uacute;gy s.a.t. Ezut&aacute;n B&aacute;tors&aacute;got kell dobniuk, vagy ak&aacute;r egy h&eacute;tig is nyomj&aacute;k az &aacute;gyat. T&aacute;d&eacute;t nagyon sokan kerest&eacute;k m&aacute;r, de sehogysem tal&aacute;lt&aacute;k meg.</p>\n<p class=\"p1\"><strong>Komponense:</strong> csak &ouml;sszesepert szem&eacute;t kell hozz&aacute;, de abb&oacute;l sokf&eacute;le.</p>"
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
+    "systemId": "helveczia",
+    "systemVersion": "4.0.6",
+    "createdTime": 1719829838181,
+    "modifiedTime": 1720281150206,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "aE3B1TYH55Gy3X5T",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!items!aE3B1TYH55Gy3X5T"
+}
