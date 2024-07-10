@@ -18,8 +18,7 @@ const sourceDirectory = './src';
 const distDirectory = './dist';
 const stylesDirectory = `${sourceDirectory}/styles`;
 const stylesExtension = 'scss';
-const sourceFileExtension = 'ts';
-const staticFiles = ['module.json'];
+const staticFiles = ['module.json', 'lang'];
 const packsDirectory = `${sourceDirectory}/packs`;
 
 /********************/
