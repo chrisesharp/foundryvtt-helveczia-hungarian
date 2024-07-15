@@ -45,6 +45,11 @@
     "Unavailable": "Nem elérhető",
     "Damage": "Sebzés",
     "DamageMultiplier": "Sebzés szorzó",
+    "difficulties": {
+      "normal": "Közepes",
+      "hard": "Nehéz",
+      "heroic": "Hősies"
+    },
     "success": {
       "normal": "Siker",
       "hard": "Nehéz Siker",
