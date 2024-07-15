@@ -6,7 +6,7 @@
     "Import": "Importálás",
     "Create": "Létrehozás",
     "Choose": "Választás",
-    "ChooseOne": "Válasszon",
+    "ChooseOne": "Válassz",
     "ChooseOriginClass": "Válassz Népet és Osztályt",
     "Average": "Átlagos",
     "Cost": "Ár",
@@ -335,7 +335,7 @@
       "PDF": "Nyomtatás",
       "StatBlock": "Szörnyleírás beillesztése ide...\nPl.\nVámpírrózsa: Szint 3+2; VO 15; Tám +5 inda 1d6+2 és megragadásHM;\nSpecz fojtogatás 2d6+2/kör, 2 Hp/kör gyógyít vérszívással, Mászás +5, Osonás +5; +5/+3/+3; V 7.\nHp 15",
       "HolyWrit": "a Szentírásból keres útmutatást...",
-      "NewHitpoints": "Új életerőpontok",
+      "NewHitpoints": "Új életerőpontot",
       "NoNewHitpoints": "Sajnálom, nem dobtál magasabbat, mint a jelenlegi maximális életerőpontjaid!"
     },
     "rolled": "gurított",
