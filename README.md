@@ -4,11 +4,11 @@ This is the Magyar translation of the compendia for use with the [Helvéczia Fou
 
 ## Helvéczia pikareszk szerepjáték magyar nyelvű kompendium, Foundry VTT
 
-Ez modul az angol nyelvű Helvéczia FoundryVTT rendszerhez készült kompendiumok magyar fordítása.
+Ez a modul az angol nyelvű Helvéczia FoundryVTT rendszerhez készült kompendiumok magyar fordítása.
 
 ## Dokumentáció
 
-A Foundry VTT-be történő telepítéshez add meg ezt a URL-t:
+A Foundry VTT-ben történő telepítéshez add meg ezt a URL-t:
 
 [https://github.com/chrisesharp/foundryvtt-helveczia-hungarian/releases/latest/download/module.json](https://github.com/chrisesharp/foundryvtt-helveczia-hungarian/releases/latest/download/module.json)
 
