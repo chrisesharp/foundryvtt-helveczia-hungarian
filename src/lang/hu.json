@@ -1,7 +1,5 @@
 {
   "HV": {
-    "Source": "Forrás",
-    "Duration": "Hatóidő",
     "Details": "Részletek",
     "Import": "Importálás",
     "Create": "Létrehozás",
@@ -28,6 +26,7 @@
       "3": ".",
       "4": "."
     },
+    "modifier": "módosító",
     "randomCraft": "Guríts véletlen Mesterséget!",
     "randomScience": "Guríts véletlen Tudományokatt!",
     "rollCheck": "{type} gurítás",
@@ -246,33 +245,52 @@
       "max": "Max Hp"
     },
     "scores": {
-      "modifier": "módosító",
-      "str.short": "Erő",
-      "str.long": "Erő",
-      "dex.short": "Ügy",
-      "dex.long": "Ügyesség",
-      "con.short": "Egs",
-      "con.long": "Egészség",
-      "int.short": "Int",
-      "int.long": "Intelligenczia",
-      "wis.short": "Böl",
-      "wis.long": "Bölcsesség",
-      "cha.short": "Kar",
-      "cha.long": "Karizma"
+      "str": {
+        "short": "Erő",
+        "long": "Erő"
+      },
+      "dex": {
+        "short": "Ügy",
+        "long": "Ügyesség"
+      },
+      "con": {
+        "short": "Egs",
+        "long": "Egészség"
+      },
+      "int": {
+        "short": "Int",
+        "long": "Intelligenczia"
+      },
+      "wis": {
+        "short": "Böl",
+        "long": "Bölcsesség"
+      },
+      "cha": {
+        "short": "Kar",
+        "long": "Karizma"
+      }
     },
     "attack": {
-      "melee.long": "Közelharczi támadás",
-      "ranged.long": "Czélzó támadás",
-      "melee.short": "Közelharcz",
-      "ranged.short": "Czélzás",
-      "cc.short": "HM",
-      "cc.long": "Harczi Manőver"
+      "melee": {
+        "long": "Közelharczi támadás",
+        ".short": "Közelharcz"
+      },
+      "ranged": {
+        "long": "Czélzó támadás",
+        "short": "Czélzás"
+      },
+      "cc": {
+        "short": "HM",
+        "long": "Harczi Manőver"
+      }
     },
     "effect": {
       "Create": "Hatás létrehozása",
       "Delete": "Hatás törlése",
       "Edit": "Hatás szerkesztése",
-      "Toggle": "Hatás ki/bekapcsolása"
+      "Toggle": "Hatás ki/bekapcsolása",
+      "Source": "Forrás",
+      "Duration": "Hatóidő"
     },
     "messages": {
       "AttackFailure": "sikertelenül támadt {wp} {vs}",
@@ -358,9 +376,11 @@
       "gypsy": "Czigány",
       "jewish": "Zsidó"
     },
-    "deed.hdr": "Ez a cselekedet egy",
-    "deed.of": ",",
-    "deed.magnitude": "megnyilvánulása",
+    "deed": {
+      "hdr": "Ez a cselekedet egy",
+      "of": ",",
+      "magnitude": "megnyilvánulása"
+    },
     "cleric": {
       "spells": "Minden pap, ki betartja a rá vonatkozó regulákat, s engedelmes báránya a hitnek, varázslatokat tanulhat az Anyaszentegyház által felszentelt helyeken, imáiba mélyedvén megismerve, majd elméjébe vésve őket. A megtanult varázslatok maximális száma a pap szintjétől függ, a speczifikus varázslatok pedig a helytől: egy egyszerű kápolnában talán csak egy-két igét lel a betérő, míg egy kolostorban vagy katedrálisban számos erős formulát. Nem minden varázslatot könnyű megszerezni; egyeseket a föld alá temetett altemplomok rejtenek, másokat féltékenyen őrzik birtokosaik. Az elmondott varázslatok elvesznek. A szentek ritka ereklyéi az egyedüli dolgok, amelyekből bárhol varázslatos erő nyerhető. A kezdő karakterek varázslatai véletlenszerűek.",
       "exorcism": "A papok Isten igéjével képesek elűzni a pokolbéli kreatúrákat, úgymint ördögöket, gonosz szellemeket, vámpírokat s. a. t. Ez a képesség kalandonként egy, 5. szinttől két alkalommal használható; a czélpontoknak Kísértés mentődobást kell dobniuk, vagy rögvest menekülőre fogják.",
