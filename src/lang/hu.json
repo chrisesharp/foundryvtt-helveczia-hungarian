@@ -415,50 +415,6 @@
       "Actor": "Helveczia Actor Sheet",
       "Item": "Helveczia Item Sheet"
   },
-  "Actor": {
-    "tabs": {
-      "abilities": "Tulajdonságok",
-      "skills": "Képzettségek",
-      "combat": "Harcz",
-      "damage": "Sebzés",
-      "possessions": "Felszerelés",
-      "saves": "Mentődobások",
-      "deeds": "Bűnlajstrom",
-      "notes": "Jegyzet",
-      "effects": "Hatások"
-    },
-    "base": {
-      "FIELDS": {
-        "description": { "label": "Jegyzet" },
-        "hp": {
-          "value": { "label": "Aktuális Hp" },
-          "max": { "label": "Max Hp"}
-        },
-        "level": { "label": "Szint", "hint": "szintű" },
-        "people": { "label": "Népek" },
-        "class": { "label": "Osztály" },
-        "virtue": { "label": "Virtus" },
-        "initiative": { "label": "Kezd." },
-        "saves": {
-          "bravery": {
-            "base": { "label": "Alap" },
-            "bonus": { "label": "Bónusz" },
-            "value": { "label": "Bátorság" }
-          },
-          "deftness": {
-            "base": { "label": "Alap" },
-            "bonus": { "label": "Bónusz" },
-            "value": { "label": "Fürgeség" }
-          },
-          "temptation": {
-            "base": { "label": "Alap" },
-            "bonus": { "label": "Bónusz" },
-            "value": { "label": "Kísértés" }
-          }
-        }
-      }
-    }
-  },
   "TYPES": {
     "Actor": {
       "character": "Karakter",
