@@ -17,7 +17,7 @@
     "bonusGermanCraftSkill": "Szorgalmuknak köszönhetően egy extra (véletlenszerű) Mesterség képzettséget tanulhatnak, és abban +2 bónuszt élveznek. A czéhek regulái szerint a játék kezdetétől mesterlegények, és már 4. szinten elnyerhetik a mester rangját.",
     "bonusStudentScienceSkill": "Deák tanulmányaikból ismert véletlenszerű Tudomány.",
     "Level": {
-      "short": "Szint",
+      "abbr": "Szint",
       "long": "szintű"
     },
     "ordinal": {
@@ -215,12 +215,18 @@
       "worn": "Viselt",
       "mount": "Málha"
     },
-    "Thalers.long": "Tallér",
-    "Thalers.short": "Th",
-    "Pfennig.long": "Pfennig",
-    "Pfennig.short": "Pfg",
-    "Groschen.long": "Groschen",
-    "Groschen.short": "Gr",
+    "Thalers": {
+      "long": "Tallér",
+      "abbr": "Th"
+    },
+    "Pfennig": {
+      "long": "Pfennig",
+      "abbr": "Pfg"
+    },
+    "Groschen": {
+      "long": "Groschen",
+      "abbr": "Gr"
+    },
     "Encumbrance": "Megterheltség",
     "base": "Alap",
     "bonus": "Bónusz",
@@ -239,34 +245,34 @@
     "AC": "VO",
     "Shield": "Pajzsszerű",
     "HP": {
-      "short": "Hp",
+      "abbr": "Hp",
       "long": "Életerő",
       "current": "Aktuális Hp",
       "max": "Max Hp"
     },
     "scores": {
       "str": {
-        "short": "Erő",
+        "abbr": "Erő",
         "long": "Erő"
       },
       "dex": {
-        "short": "Ügy",
+        "abbr": "Ügy",
         "long": "Ügyesség"
       },
       "con": {
-        "short": "Egs",
+        "abbr": "Egs",
         "long": "Egészség"
       },
       "int": {
-        "short": "Int",
+        "abbr": "Int",
         "long": "Intelligenczia"
       },
       "wis": {
-        "short": "Böl",
+        "abbr": "Böl",
         "long": "Bölcsesség"
       },
       "cha": {
-        "short": "Kar",
+        "abbr": "Kar",
         "long": "Karizma"
       }
     },
@@ -277,10 +283,10 @@
       },
       "ranged": {
         "long": "Czélzó támadás",
-        "short": "Czélzás"
+        "abbr": "Czélzás"
       },
       "cc": {
-        "short": "HM",
+        "abbr": "HM",
         "long": "Harczi Manőver"
       }
     },
@@ -305,8 +311,10 @@
     "SpellCast": "Elmondtak egy varázslatot!",
     "SpellRememorize": "Varázslat újratanulva.",
     "SpellMemorize": "Varázslat megtanulva.",
-    "SpellLost.short": "Varázslat elveszett.",
-    "SpellLost.long": "Valami megzavart, és a varázslat elveszett!",
+    "SpellLost": {
+      "abbr": "Varázslat elveszett.",
+      "long": "Valami megzavart, és a varázslat elveszett!"
+    },
     "CastsSpell": "{caster} elmondja a {spell} varázslatot",
     "MemorizeSpell": "{caster} megtanulja a {spell} varázslatot",
     "errors": {
@@ -401,6 +409,54 @@
       "Sail": "Hajózás",
       "Appraise": "Értékbecslés",
       "Gambling": "Koczkavetés"
+    }
+  },
+  "SheetLabels": {
+      "Actor": "Helveczia Actor Sheet",
+      "Item": "Helveczia Item Sheet"
+  },
+  "Actor": {
+    "tabs": {
+      "abilities": "Tulajdonságok",
+      "skills": "Képzettségek",
+      "combat": "Harcz",
+      "damage": "Sebzés",
+      "possessions": "Felszerelés",
+      "saves": "Mentődobások",
+      "deeds": "Bűnlajstrom",
+      "notes": "Jegyzet",
+      "effects": "Hatások"
+    },
+    "base": {
+      "FIELDS": {
+        "description": { "label": "Jegyzet" },
+        "hp": {
+          "value": { "label": "Aktuális Hp" },
+          "max": { "label": "Max Hp"}
+        },
+        "level": { "label": "Szint", "hint": "szintű" },
+        "people": { "label": "Népek" },
+        "class": { "label": "Osztály" },
+        "virtue": { "label": "Virtus" },
+        "initiative": { "label": "Kezd." },
+        "saves": {
+          "bravery": {
+            "base": { "label": "Alap" },
+            "bonus": { "label": "Bónusz" },
+            "value": { "label": "Bátorság" }
+          },
+          "deftness": {
+            "base": { "label": "Alap" },
+            "bonus": { "label": "Bónusz" },
+            "value": { "label": "Fürgeség" }
+          },
+          "temptation": {
+            "base": { "label": "Alap" },
+            "bonus": { "label": "Bónusz" },
+            "value": { "label": "Kísértés" }
+          }
+        }
+      }
     }
   },
   "TYPES": {
