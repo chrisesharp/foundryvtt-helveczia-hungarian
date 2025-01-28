@@ -201,6 +201,10 @@
       {
         "id": "helveczia",
         "type": "system",
+        "compatibility": {
+          "minimum": "4.1.6",
+          "verified": "4.1.6"
+        },
         "manifest": "https://github.com/chrisesharp/foundryvtt-helveczia/releases/latest/download/system.json"
       }
     ]
