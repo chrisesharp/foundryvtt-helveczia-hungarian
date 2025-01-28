@@ -1,7 +1,5 @@
 {
   "HV": {
-    "Source": "Forrás",
-    "Duration": "Hatóidő",
     "Details": "Részletek",
     "Import": "Importálás",
     "Create": "Létrehozás",
@@ -19,7 +17,7 @@
     "bonusGermanCraftSkill": "Szorgalmuknak köszönhetően egy extra (véletlenszerű) Mesterség képzettséget tanulhatnak, és abban +2 bónuszt élveznek. A czéhek regulái szerint a játék kezdetétől mesterlegények, és már 4. szinten elnyerhetik a mester rangját.",
     "bonusStudentScienceSkill": "Deák tanulmányaikból ismert véletlenszerű Tudomány.",
     "Level": {
-      "short": "Szint",
+      "abbr": "Szint",
       "long": "szintű"
     },
     "ordinal": {
@@ -28,6 +26,7 @@
       "3": ".",
       "4": "."
     },
+    "modifier": "módosító",
     "randomCraft": "Guríts véletlen Mesterséget!",
     "randomScience": "Guríts véletlen Tudományokatt!",
     "rollCheck": "{type} gurítás",
@@ -216,12 +215,18 @@
       "worn": "Viselt",
       "mount": "Málha"
     },
-    "Thalers.long": "Tallér",
-    "Thalers.short": "Th",
-    "Pfennig.long": "Pfennig",
-    "Pfennig.short": "Pfg",
-    "Groschen.long": "Groschen",
-    "Groschen.short": "Gr",
+    "Thalers": {
+      "long": "Tallér",
+      "abbr": "Th"
+    },
+    "Pfennig": {
+      "long": "Pfennig",
+      "abbr": "Pfg"
+    },
+    "Groschen": {
+      "long": "Groschen",
+      "abbr": "Gr"
+    },
     "Encumbrance": "Megterheltség",
     "base": "Alap",
     "bonus": "Bónusz",
@@ -240,39 +245,58 @@
     "AC": "VO",
     "Shield": "Pajzsszerű",
     "HP": {
-      "short": "Hp",
+      "abbr": "Hp",
       "long": "Életerő",
       "current": "Aktuális Hp",
       "max": "Max Hp"
     },
     "scores": {
-      "modifier": "módosító",
-      "str.short": "Erő",
-      "str.long": "Erő",
-      "dex.short": "Ügy",
-      "dex.long": "Ügyesség",
-      "con.short": "Egs",
-      "con.long": "Egészség",
-      "int.short": "Int",
-      "int.long": "Intelligenczia",
-      "wis.short": "Böl",
-      "wis.long": "Bölcsesség",
-      "cha.short": "Kar",
-      "cha.long": "Karizma"
+      "str": {
+        "abbr": "Erő",
+        "long": "Erő"
+      },
+      "dex": {
+        "abbr": "Ügy",
+        "long": "Ügyesség"
+      },
+      "con": {
+        "abbr": "Egs",
+        "long": "Egészség"
+      },
+      "int": {
+        "abbr": "Int",
+        "long": "Intelligenczia"
+      },
+      "wis": {
+        "abbr": "Böl",
+        "long": "Bölcsesség"
+      },
+      "cha": {
+        "abbr": "Kar",
+        "long": "Karizma"
+      }
     },
     "attack": {
-      "melee.long": "Közelharczi támadás",
-      "ranged.long": "Czélzó támadás",
-      "melee.short": "Közelharcz",
-      "ranged.short": "Czélzás",
-      "cc.short": "HM",
-      "cc.long": "Harczi Manőver"
+      "melee": {
+        "long": "Közelharczi támadás",
+        ".short": "Közelharcz"
+      },
+      "ranged": {
+        "long": "Czélzó támadás",
+        "abbr": "Czélzás"
+      },
+      "cc": {
+        "abbr": "HM",
+        "long": "Harczi Manőver"
+      }
     },
     "effect": {
       "Create": "Hatás létrehozása",
       "Delete": "Hatás törlése",
       "Edit": "Hatás szerkesztése",
-      "Toggle": "Hatás ki/bekapcsolása"
+      "Toggle": "Hatás ki/bekapcsolása",
+      "Source": "Forrás",
+      "Duration": "Hatóidő"
     },
     "messages": {
       "AttackFailure": "sikertelenül támadt {wp} {vs}",
@@ -287,8 +311,10 @@
     "SpellCast": "Elmondtak egy varázslatot!",
     "SpellRememorize": "Varázslat újratanulva.",
     "SpellMemorize": "Varázslat megtanulva.",
-    "SpellLost.short": "Varázslat elveszett.",
-    "SpellLost.long": "Valami megzavart, és a varázslat elveszett!",
+    "SpellLost": {
+      "abbr": "Varázslat elveszett.",
+      "long": "Valami megzavart, és a varázslat elveszett!"
+    },
     "CastsSpell": "{caster} elmondja a {spell} varázslatot",
     "MemorizeSpell": "{caster} megtanulja a {spell} varázslatot",
     "errors": {
@@ -358,9 +384,11 @@
       "gypsy": "Czigány",
       "jewish": "Zsidó"
     },
-    "deed.hdr": "Ez a cselekedet egy",
-    "deed.of": ",",
-    "deed.magnitude": "megnyilvánulása",
+    "deed": {
+      "hdr": "Ez a cselekedet egy",
+      "of": ",",
+      "magnitude": "megnyilvánulása"
+    },
     "cleric": {
       "spells": "Minden pap, ki betartja a rá vonatkozó regulákat, s engedelmes báránya a hitnek, varázslatokat tanulhat az Anyaszentegyház által felszentelt helyeken, imáiba mélyedvén megismerve, majd elméjébe vésve őket. A megtanult varázslatok maximális száma a pap szintjétől függ, a speczifikus varázslatok pedig a helytől: egy egyszerű kápolnában talán csak egy-két igét lel a betérő, míg egy kolostorban vagy katedrálisban számos erős formulát. Nem minden varázslatot könnyű megszerezni; egyeseket a föld alá temetett altemplomok rejtenek, másokat féltékenyen őrzik birtokosaik. Az elmondott varázslatok elvesznek. A szentek ritka ereklyéi az egyedüli dolgok, amelyekből bárhol varázslatos erő nyerhető. A kezdő karakterek varázslatai véletlenszerűek.",
       "exorcism": "A papok Isten igéjével képesek elűzni a pokolbéli kreatúrákat, úgymint ördögöket, gonosz szellemeket, vámpírokat s. a. t. Ez a képesség kalandonként egy, 5. szinttől két alkalommal használható; a czélpontoknak Kísértés mentődobást kell dobniuk, vagy rögvest menekülőre fogják.",
@@ -382,6 +410,10 @@
       "Appraise": "Értékbecslés",
       "Gambling": "Koczkavetés"
     }
+  },
+  "SheetLabels": {
+      "Actor": "Helveczia Actor Sheet",
+      "Item": "Helveczia Item Sheet"
   },
   "TYPES": {
     "Actor": {
