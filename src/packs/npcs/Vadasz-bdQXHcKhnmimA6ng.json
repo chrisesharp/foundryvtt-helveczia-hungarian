@@ -35,14 +35,13 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
-        "coreVersion": "12.325",
+        "coreVersion": "12.331",
         "systemId": "helveczia",
-        "systemVersion": "4.0.6",
+        "systemVersion": "This is auto replaced",
         "createdTime": null,
         "modifiedTime": null,
         "lastModifiedBy": null
-      },
-      "_key": "!actors.items!F8HQkTQKci1Oz9TE.S7F8w3llVoRnNNSq"
+      }
     },
     {
       "_id": "G6ioBG2bNRGxfMcr",
@@ -76,84 +75,79 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
-        "coreVersion": "12.325",
+        "coreVersion": "12.331",
         "systemId": "helveczia",
-        "systemVersion": "4.0.6",
+        "systemVersion": "This is auto replaced",
         "createdTime": null,
         "modifiedTime": null,
         "lastModifiedBy": null
-      },
-      "_key": "!actors.items!F8HQkTQKci1Oz9TE.G6ioBG2bNRGxfMcr"
+      }
     },
     {
-      "_id": "egPUt2MsPC9vdd7p",
-      "name": "Forestry",
+      "name": "Erdészet",
       "type": "skill",
       "img": "icons/svg/temple.svg",
       "effects": [],
       "folder": null,
-      "sort": 0,
       "flags": {
-        "core": {
-          "sourceId": "Compendium.helveczia.skills.zCKTaUJBH7P2QpUw"
-        }
+        "core": {}
       },
       "system": {
-        "description": "<p>Helps in navigating the wilderness, foraging, survival, finding shelter and other tasks.</p>",
+        "description": "<p>Seg&iacute;t a vadonbeli t&aacute;j&eacute;koz&oacute;d&aacute;sban, meg&eacute;lhet&eacute;sben &eacute;s t&uacute;l&eacute;l&eacute;sben.</p>",
         "ability": "wis",
         "subtype": "practical",
         "bonus": 0
       },
+      "_stats": {
+        "compendiumSource": "Compendium.helveczia-magyar-kompendium.skills.Item.HcNFhLoWyx3pqSRn",
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "helveczia",
+        "systemVersion": "This is auto replaced",
+        "createdTime": 1740158196256,
+        "modifiedTime": 1740158196256,
+        "lastModifiedBy": "NXzBOHU9djhaYTix"
+      },
+      "_id": "F8pgQhchZfoHyQ33",
+      "sort": 1000000,
       "ownership": {
         "default": 0,
-        "k52po8UVGe0kJkBK": 3
-      },
-      "_stats": {
-        "compendiumSource": "Compendium.helveczia.skills.zCKTaUJBH7P2QpUw",
-        "duplicateSource": null,
-        "coreVersion": "12.325",
-        "systemId": "helveczia",
-        "systemVersion": "4.0.6",
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "_key": "!actors.items!F8HQkTQKci1Oz9TE.egPUt2MsPC9vdd7p"
+        "yuqBqWmnEo7nCJiE": 3,
+        "NXzBOHU9djhaYTix": 3
+      }
     },
     {
-      "_id": "o9A9egSjdTBqqN5f",
-      "name": "Track",
+      "name": "Nyomkeresés",
       "type": "skill",
       "img": "icons/svg/temple.svg",
       "effects": [],
       "folder": null,
-      "sort": 0,
       "flags": {
-        "core": {
-          "sourceId": "Compendium.helveczia.skills.P1S3Le1d7B7CFkaC"
-        }
+        "core": {}
       },
       "system": {
-        "description": "<p>The character can follow trails, and roughly identify them &ndash; establishing how old they are, who made them, how many of them were there, how quickly did they travel, and other useful details.</p>",
+        "description": "<p>A karakter k&eacute;pes a nyomok k&ouml;vet&eacute;s&eacute;re &eacute;s hozz&aacute;vetőleges azonos&iacute;t&aacute;s&aacute;ra, vagyis megtudhatja, milyen r&eacute;giek, mif&eacute;le szerzet hagyta őket, milyen gyorsan haladt a nyomokat hagy&oacute;, &eacute;s m&aacute;s hasznos r&eacute;szleteket.</p>",
         "ability": "wis",
         "subtype": "practical",
         "bonus": 0
       },
+      "_stats": {
+        "compendiumSource": "Compendium.helveczia-magyar-kompendium.skills.Item.XIYKSQLraF4mYI4W",
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "helveczia",
+        "systemVersion": "This is auto replaced",
+        "createdTime": 1740158440625,
+        "modifiedTime": 1740158440625,
+        "lastModifiedBy": "NXzBOHU9djhaYTix"
+      },
+      "_id": "COFZFH3KyUe1HPCS",
+      "sort": 2000000,
       "ownership": {
         "default": 0,
-        "k52po8UVGe0kJkBK": 3
-      },
-      "_stats": {
-        "compendiumSource": "Compendium.helveczia.skills.P1S3Le1d7B7CFkaC",
-        "duplicateSource": null,
-        "coreVersion": "12.325",
-        "systemId": "helveczia",
-        "systemVersion": "4.0.6",
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "_key": "!actors.items!F8HQkTQKci1Oz9TE.o9A9egSjdTBqqN5f"
+        "yuqBqWmnEo7nCJiE": 3,
+        "NXzBOHU9djhaYTix": 3
+      }
     }
   ],
   "effects": [],
@@ -162,7 +156,13 @@
     "helveczia": {
       "rolled-hits-lvl": 1
     },
-    "core": {}
+    "core": {},
+    "exportSource": {
+      "world": "helveczia",
+      "system": "helveczia",
+      "coreVersion": "12.331",
+      "systemVersion": "This is auto replaced"
+    }
   },
   "system": {
     "description": "",
@@ -331,20 +331,11 @@
     }
   },
   "_stats": {
-    "compendiumSource": null,
-    "duplicateSource": null,
-    "coreVersion": "12.325",
+    "coreVersion": "12.331",
     "systemId": "helveczia",
-    "systemVersion": "4.0.6",
-    "createdTime": 1720372439592,
-    "modifiedTime": 1720372439592,
-    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
-  },
-  "_id": "F8HQkTQKci1Oz9TE",
-  "sort": 0,
-  "ownership": {
-    "default": 0,
-    "yuqBqWmnEo7nCJiE": 3
-  },
-  "_key": "!actors!F8HQkTQKci1Oz9TE"
+    "systemVersion": "This is auto replaced",
+    "createdTime": 1740158094247,
+    "modifiedTime": 1740158094247,
+    "lastModifiedBy": "NXzBOHU9djhaYTix"
+  }
 }
