@@ -279,7 +279,7 @@
     "attack": {
       "melee": {
         "long": "Közelharczi támadás",
-        ".short": "Közelharcz"
+        "abbr": "Közelharcz"
       },
       "ranged": {
         "long": "Czélzó támadás",

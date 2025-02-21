@@ -16,16 +16,16 @@
     "encumbrance": "1",
     "spells": [
       {
-        "id": "@Compendium[helveczia.student-spells-1.U188e5Ic5c3afTpr]{Barrel of Dr. Faustus}",
-        "name": "Barrel of Dr. Faustus"
+        "id": "@Compendium[helveczia.student-spells-1.CpvxiK23TidinG8F]{Dr. Faustus Hordója}",
+        "name": "Dr. Faustus Hordója"
       },
       {
-        "id": "@Compendium[helveczia.student-spells-1.1bhb4kOUGnFqfnVm]{Cagliostro's Purse}",
-        "name": "Cagliostro's Purse"
+        "id": "@Compendium[helveczia.student-spells-1.QzKtshPjzX15Btto]{Cagliostro Erszénye}",
+        "name": "Cagliostro Erszényekezek"
       },
       {
-        "id": "@Compendium[helveczia.student-spells-2.7wPh8NGOFBCnmagt]{Burning Hands}",
-        "name": "Burning Hands"
+        "id": "@Compendium[helveczia.student-spells-2.jKJMxdyKnSMVkcun]{Lángoló Kezek}",
+        "name": "Lángoló Kezek"
       }
     ]
   },
