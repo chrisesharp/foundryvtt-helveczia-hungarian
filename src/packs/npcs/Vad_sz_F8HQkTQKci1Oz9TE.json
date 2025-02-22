@@ -35,13 +35,14 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
-        "coreVersion": "12.331",
+        "coreVersion": "12.325",
         "systemId": "helveczia",
-        "systemVersion": "This is auto replaced",
+        "systemVersion": "4.0.6",
         "createdTime": null,
         "modifiedTime": null,
         "lastModifiedBy": null
-      }
+      },
+      "_key": "!actors.items!F8HQkTQKci1Oz9TE.S7F8w3llVoRnNNSq"
     },
     {
       "_id": "G6ioBG2bNRGxfMcr",
@@ -75,13 +76,14 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
-        "coreVersion": "12.331",
+        "coreVersion": "12.325",
         "systemId": "helveczia",
-        "systemVersion": "This is auto replaced",
+        "systemVersion": "4.0.6",
         "createdTime": null,
         "modifiedTime": null,
         "lastModifiedBy": null
-      }
+      },
+      "_key": "!actors.items!F8HQkTQKci1Oz9TE.G6ioBG2bNRGxfMcr"
     },
     {
       "name": "Erdészet",
@@ -104,17 +106,18 @@
         "coreVersion": "12.331",
         "systemId": "helveczia",
         "systemVersion": "This is auto replaced",
-        "createdTime": 1740158196256,
-        "modifiedTime": 1740158196256,
+        "createdTime": 1740217090246,
+        "modifiedTime": 1740217090246,
         "lastModifiedBy": "NXzBOHU9djhaYTix"
       },
-      "_id": "F8pgQhchZfoHyQ33",
+      "_id": "PQITHTw3vwuJtA6W",
       "sort": 1000000,
       "ownership": {
         "default": 0,
         "yuqBqWmnEo7nCJiE": 3,
         "NXzBOHU9djhaYTix": 3
-      }
+      },
+      "_key": "!actors.items!F8HQkTQKci1Oz9TE.PQITHTw3vwuJtA6W"
     },
     {
       "name": "Nyomkeresés",
@@ -137,17 +140,18 @@
         "coreVersion": "12.331",
         "systemId": "helveczia",
         "systemVersion": "This is auto replaced",
-        "createdTime": 1740158440625,
-        "modifiedTime": 1740158440625,
+        "createdTime": 1740217122615,
+        "modifiedTime": 1740217122615,
         "lastModifiedBy": "NXzBOHU9djhaYTix"
       },
-      "_id": "COFZFH3KyUe1HPCS",
+      "_id": "iJL73px4OT7vDS0o",
       "sort": 2000000,
       "ownership": {
         "default": 0,
         "yuqBqWmnEo7nCJiE": 3,
         "NXzBOHU9djhaYTix": 3
-      }
+      },
+      "_key": "!actors.items!F8HQkTQKci1Oz9TE.iJL73px4OT7vDS0o"
     }
   ],
   "effects": [],
@@ -156,13 +160,7 @@
     "helveczia": {
       "rolled-hits-lvl": 1
     },
-    "core": {},
-    "exportSource": {
-      "world": "helveczia",
-      "system": "helveczia",
-      "coreVersion": "12.331",
-      "systemVersion": "This is auto replaced"
-    }
+    "core": {}
   },
   "system": {
     "description": "",
@@ -331,11 +329,20 @@
     }
   },
   "_stats": {
-    "coreVersion": "12.331",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.325",
     "systemId": "helveczia",
-    "systemVersion": "This is auto replaced",
-    "createdTime": 1740158094247,
-    "modifiedTime": 1740158094247,
-    "lastModifiedBy": "NXzBOHU9djhaYTix"
-  }
+    "systemVersion": "4.0.6",
+    "createdTime": 1720372439592,
+    "modifiedTime": 1720372439592,
+    "lastModifiedBy": "yuqBqWmnEo7nCJiE"
+  },
+  "_id": "F8HQkTQKci1Oz9TE",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yuqBqWmnEo7nCJiE": 3
+  },
+  "_key": "!actors!F8HQkTQKci1Oz9TE"
 }

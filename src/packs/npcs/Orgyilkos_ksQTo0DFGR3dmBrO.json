@@ -45,7 +45,8 @@
         "createdTime": null,
         "modifiedTime": null,
         "lastModifiedBy": null
-      }
+      },
+      "_key": "!actors.items!ksQTo0DFGR3dmBrO.M17fOnXfKjtv1OOs"
     },
     {
       "_id": "vYUXTocf4NjMobTE",
@@ -85,7 +86,8 @@
         "createdTime": null,
         "modifiedTime": null,
         "lastModifiedBy": null
-      }
+      },
+      "_key": "!actors.items!ksQTo0DFGR3dmBrO.vYUXTocf4NjMobTE"
     },
     {
       "name": "Vagabund",
@@ -144,7 +146,8 @@
           "img": "icons/svg/aura.svg",
           "type": "base",
           "system": {},
-          "sort": 0
+          "sort": 0,
+          "_key": "!actors.items.effects!ksQTo0DFGR3dmBrO.VN1svNqhclHaPjuP.JJZAEtiB0B7DOteB"
         },
         {
           "_id": "KCH70gHQpjKjHgre",
@@ -186,7 +189,8 @@
           "img": "icons/svg/aura.svg",
           "type": "base",
           "system": {},
-          "sort": 0
+          "sort": 0,
+          "_key": "!actors.items.effects!ksQTo0DFGR3dmBrO.VN1svNqhclHaPjuP.KCH70gHQpjKjHgre"
         }
       ],
       "folder": null,
@@ -206,9 +210,9 @@
         "coreVersion": "12.331",
         "systemId": "helveczia",
         "systemVersion": "This is auto replaced",
-        "createdTime": 1740157654728,
-        "modifiedTime": 1740157654728,
-        "lastModifiedBy": "NXzBOHU9djhaYTix"
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
       },
       "_id": "VN1svNqhclHaPjuP",
       "sort": 0,
@@ -216,7 +220,8 @@
         "default": 0,
         "yuqBqWmnEo7nCJiE": 3,
         "NXzBOHU9djhaYTix": 3
-      }
+      },
+      "_key": "!actors.items!ksQTo0DFGR3dmBrO.VN1svNqhclHaPjuP"
     }
   ],
   "effects": [
@@ -272,7 +277,8 @@
       "img": "icons/svg/aura.svg",
       "type": "base",
       "system": {},
-      "sort": 0
+      "sort": 0,
+      "_key": "!actors.effects!ksQTo0DFGR3dmBrO.Yp9t957Lhu3nQESL"
     },
     {
       "_id": "OpfpcMlbBGCL6Moz",
@@ -314,7 +320,8 @@
       "img": "icons/svg/aura.svg",
       "type": "base",
       "system": {},
-      "sort": 0
+      "sort": 0,
+      "_key": "!actors.effects!ksQTo0DFGR3dmBrO.OpfpcMlbBGCL6Moz"
     }
   ],
   "folder": null,
@@ -323,13 +330,7 @@
       "vagabond-class": true,
       "sex": "female"
     },
-    "core": {},
-    "exportSource": {
-      "world": "helveczia",
-      "system": "helveczia",
-      "coreVersion": "12.331",
-      "systemVersion": "This is auto replaced"
-    }
+    "core": {}
   },
   "system": {
     "description": "",
@@ -498,11 +499,20 @@
     }
   },
   "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "helveczia",
     "systemVersion": "This is auto replaced",
-    "createdTime": 1740157532833,
-    "modifiedTime": 1740157654816,
+    "createdTime": 1740217828524,
+    "modifiedTime": 1740217828524,
     "lastModifiedBy": "NXzBOHU9djhaYTix"
-  }
+  },
+  "_id": "ksQTo0DFGR3dmBrO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "NXzBOHU9djhaYTix": 3
+  },
+  "_key": "!actors!ksQTo0DFGR3dmBrO"
 }
