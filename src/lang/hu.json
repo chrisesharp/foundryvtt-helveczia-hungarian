@@ -128,7 +128,8 @@
       "weapons": "Fegyverek",
       "rolltables": "Gurítás táblák",
       "npcs": "NJK-k",
-      "cards": "Kártya"
+      "cards": "Kártya",
+      "containers": "Tárolók"
     },
     "deeds": {
       "virtues": "Erények",
@@ -214,7 +215,10 @@
       "wealth": "Vagyon",
       "carried": "Czipelt",
       "worn": "Viselt",
-      "mount": "Málha"
+      "mount": "Málha",
+      "noMount": "Nincs málha",
+      "capacity": "Hely",
+      "noSpaceLeft": "Nincs már hely"
     },
     "Thalers": {
       "long": "Tallér",
@@ -431,7 +435,8 @@
       "weapon": "Fegyver",
       "deed": "Cselekedet",
       "spell": "Varázslat",
-      "book": "Könyv"
+      "book": "Könyv",
+      "container": "Tároló"
     }
   }
 }

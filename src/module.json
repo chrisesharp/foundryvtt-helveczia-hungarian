@@ -3,8 +3,8 @@
   "title": "Helvéczia Magyar Kompendium",
   "version": "This is auto replaced",
   "compatibility": {
-    "minimum": "11",
-    "verified": "12"
+    "minimum": "13",
+    "verified": "13"
   },
   "authors": [
     {
@@ -194,6 +194,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "containers",
+      "label": "Málha",
+      "path": "packs/containers",
+      "type": "Item",
+      "system": "helveczia",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "relationships": {
@@ -202,8 +213,8 @@
         "id": "helveczia",
         "type": "system",
         "compatibility": {
-          "minimum": "4.1.6",
-          "verified": "4.1.6"
+          "minimum": "5.2.0",
+          "verified": "5.2.0"
         },
         "manifest": "https://github.com/chrisesharp/foundryvtt-helveczia/releases/latest/download/system.json"
       }
