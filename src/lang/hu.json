@@ -170,6 +170,8 @@
       "debugHint": "Hibakeresési naplózási szint",
       "effects": "Hatások fül mutatása",
       "effectsHint": "Aktív hatások láthatósága (haladó)",
+      "encumbrance": "Túlterheltségi levonás érvényesítése",
+      "encumbranceHint": "Pipáld be az automatikus túlterheltségi levonás bekapcsolásához",
       "token": {
         "Flip": "Token tükrözés",
         "FlipHint": "SHIFT + bal/jobb mozgásbillentyű nyomására a token irányának megfordítása",
@@ -341,6 +343,7 @@
     },
     "needed": "Célszám: ",
     "Critical": "Kritikus",
+    "CriticalOn": "Kritikus",
     "RollingCritical": "{actor} kihasználja előnyét",
     "SecondCritical": "Második Siker!",
     "InstantDeath": "Dupla Kritikus Siker! Ez azonnali halál!",
@@ -438,5 +441,11 @@
       "book": "Könyv",
       "container": "Tároló"
     }
+  },
+  "CHAT": {
+    "RollBlind": "Vak KM gurítás",
+    "RollPublic": "Publikus gurítás",
+    "RollPrivate": "Privát KM gurítás",
+    "RollSelf": "Gurítás magadnak"
   }
 }
