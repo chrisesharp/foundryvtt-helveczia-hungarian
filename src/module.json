@@ -213,8 +213,8 @@
         "id": "helveczia",
         "type": "system",
         "compatibility": {
-          "minimum": "5.2.0",
-          "verified": "5.2.0"
+          "minimum": "5.2.1",
+          "verified": "5.2.1"
         },
         "manifest": "https://github.com/chrisesharp/foundryvtt-helveczia/releases/latest/download/system.json"
       }
