@@ -172,6 +172,8 @@
       "effectsHint": "Aktív hatások láthatósága (haladó)",
       "encumbrance": "Túlterheltségi levonás érvényesítése",
       "encumbranceHint": "Pipáld be az automatikus túlterheltségi levonás bekapcsolásához",
+      "playerDeedEdit": "A játékosok szerkeszthetik a cselekedeteket",
+      "playerDeedEditHint":"Pipáld be, hogy a játékosok szerkeszthessék a saját cselekedeteiket",
       "token": {
         "Flip": "Token tükrözés",
         "FlipHint": "SHIFT + bal/jobb mozgásbillentyű nyomására a token irányának megfordítása",
