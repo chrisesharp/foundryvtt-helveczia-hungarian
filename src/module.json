@@ -4,7 +4,7 @@
   "version": "This is auto replaced",
   "compatibility": {
     "minimum": "13",
-    "verified": "13"
+    "verified": "14"
   },
   "authors": [
     {
@@ -214,7 +214,7 @@
         "type": "system",
         "compatibility": {
           "minimum": "5.2.1",
-          "verified": "5.2.1"
+          "verified": "6.0.0"
         },
         "manifest": "https://github.com/chrisesharp/foundryvtt-helveczia/releases/latest/download/system.json"
       }
