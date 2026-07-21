@@ -10,7 +10,7 @@
   "system": {
     "description": "<p>Fortuna kiemelt figyelm&eacute;ből kalandonk&eacute;nt 1d3 alkalommal +2 adhat&oacute; egy mentődob&aacute;s vagy a kezdem&eacute;nyez&eacute;s &eacute;rt&eacute;k&eacute;hez. Ezt a sz&aacute;nd&eacute;kot a dob&aacute;s előtt kell bejelenteni, &eacute;s mindig az első alkalom ut&aacute;n der&uuml;l ki, h&aacute;nyszor r&eacute;szes&uuml;l a karakter Fortuna segedelm&eacute;ben.</p>",
     "specialism": true,
-    "parent": "vagabond"
+    "parentClass": "vagabond"
   },
   "_stats": {
     "compendiumSource": null,

@@ -10,7 +10,7 @@
   "system": {
     "description": "<p>Az orvt&aacute;mad&aacute;s akkor haszn&aacute;lhat&oacute;, ha a karakter meglepi &aacute;ldozat&aacute;t, teh&aacute;t pl. cs&ouml;ndesen a h&aacute;t&aacute;ba ker&uuml;l, vagy besz&eacute;lget&eacute;s k&ouml;zben tőrt r&aacute;nt &eacute;s egyetlen mozdulattal gyomron sz&uacute;rja.</p>\n<p>Az orvt&aacute;mad&aacute;s minden p&aacute;ratlan szint&eacute;rt 1d6 b&oacute;nusz sebz&eacute;st okoz (maximuma +3d6).</p>\n<p>Dob&oacute;- &eacute;s lőfegyverrel is haszn&aacute;lhat&oacute;, &eacute;s ha a karakter &uacute;gy d&ouml;nt, illetve a haszn&aacute;lt fegyver lehetőv&eacute; teszi, az ellenf&eacute;l elk&aacute;b&iacute;t&aacute;s&aacute;ra is alkalmazhat&oacute;.</p>",
     "specialism": true,
-    "parent": "vagabond"
+    "parentClass": "vagabond"
   },
   "_stats": {
     "compendiumSource": null,

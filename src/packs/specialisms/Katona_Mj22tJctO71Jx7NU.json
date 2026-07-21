@@ -60,7 +60,7 @@
   "system": {
     "description": "<p>Az oszt&aacute;ly leggyakoribb k&eacute;pviselői, kik k&uuml;l&ouml;n&ouml;sen j&aacute;rtasak a h&aacute;bor&uacute;ban &eacute;s t&ouml;bb ellens&eacute;g elleni tus&aacute;ban.</p>\n<p>Egyr&eacute;szt +1-et kapnak alap t&aacute;mad&aacute;sb&oacute;nuszukhoz (vagyis m&aacute;r 5. szinten k&eacute;t t&aacute;mad&aacute;st kapnak),&nbsp;m&aacute;sr&eacute;szt amennyiben egy sikeres t&aacute;mad&oacute;dob&aacute;suk meg&ouml;li a kiszemelt cz&eacute;lpontot, a fennmarad&oacute; sebz&eacute;st a k&ouml;vetkező ellenf&eacute;l szenvedi el. Ha pl. Harras Rudolf hat poroszl&oacute;val viaskodva tal&aacute;lat&aacute;val 11 pontot sebez, akkor az első k&eacute;t ellen (4 &eacute;s 5 Hp) r&ouml;gvest meghal, &eacute;s a harmadik is 2 pont sebes&uuml;l&eacute;st szenved!</p>",
     "specialism": true,
-    "parent": "fighter"
+    "parentClass": "fighter"
   },
   "_stats": {
     "compendiumSource": null,

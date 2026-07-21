@@ -54,7 +54,7 @@
   "system": {
     "description": "<p>Hab&aacute;r e kor pontatlan lőfegyvereivel ink&aacute;bb sort&uuml;zet lőnek, n&eacute;h&aacute;nyan m&eacute;gis elsaj&aacute;t&iacute;tj&aacute;k a hal&aacute;lpontos cz&eacute;lz&aacute;s k&eacute;pess&eacute;g&eacute;t.</p>\n<p>A l&ouml;v&eacute;szek csakis k&ouml;nnyű v&eacute;rteket viselhetnek, de lőfegyverekkel vagy +2-t kapnak t&aacute;mad&aacute;saikra, vagy gyorsabban t&ouml;ltik &uacute;jra azokat: sz&aacute;mszer&iacute;jat, pisztolyt &eacute;s karab&eacute;lyt 1/2 k&ouml;r, mord&aacute;lyt &eacute;s musk&eacute;t&aacute;t 1 k&ouml;r, &aacute;gyut 2 &eacute;s 1/2 k&ouml;r alatt. Mindig k&ouml;r&uuml;lm&eacute;nyeik szerint v&aacute;laszthatnak, melyik előny &eacute;rv&eacute;nyes&uuml;l.</p>",
     "specialism": true,
-    "parent": "fighter"
+    "parentClass": "fighter"
   },
   "_stats": {
     "compendiumSource": null,

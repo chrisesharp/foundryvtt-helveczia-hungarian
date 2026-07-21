@@ -6,7 +6,7 @@
   "system": {
     "description": "<p>A hatodik szintet el&eacute;rt de&aacute;kok tudom&aacute;nyos eredm&eacute;nyeik bemutat&aacute;s&aacute;val &eacute;s tetemes k&ouml;lts&eacute;gek &aacute;r&aacute;n doktor&aacute;tust szerezhetnek b&aacute;rmelyik egyetemen. Ez igen nagy tekint&eacute;lyt jelent, de speczifikus előny&ouml;kkel is j&aacute;r. A karakter 6 extra pontot oszthat el tudom&aacute;nyos k&eacute;pzetts&eacute;gei k&ouml;z&ouml;tt (egyre maxim&aacute;lisan 3 pont tehető), vagy &uacute;j tudom&aacute;nyt tanulhat ki.</p>\n<p>1d3+3 szintnyi &uacute;j var&aacute;zslatot saj&aacute;t&iacute;that el, &eacute;s ettől kezdve saj&aacute;t maga is alkothat &uacute;j var&aacute;zslatokat, amelyek a nev&eacute;t fogj&aacute;k viselni, m&iacute;g vil&aacute;g a vil&aacute;g.</p>",
     "specialism": true,
-    "parent": "student"
+    "parentClass": "student"
   },
   "effects": [],
   "flags": {},

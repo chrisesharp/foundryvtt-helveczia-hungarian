@@ -109,7 +109,7 @@
   "system": {
     "description": "<p>Helv&eacute;czi&aacute;ban, nemk&uuml;l&ouml;nben m&aacute;s f&ouml;ldek &uacute;tjain, v&aacute;ndorbottal vagy szer&eacute;ny h&aacute;tassal gyakran l&aacute;tni m&aacute;s &eacute;s m&aacute;s vagabundust: mesterleg&eacute;nyt &eacute;s botork&aacute;l&oacute; koldust, set&eacute;t sz&iacute;vű latrot &eacute;s h&aacute;zal&oacute; kereskedőt, mesterdalnokot &eacute;s &eacute;lelmes zsebest. Fortuna kegyeibe aj&aacute;nlv&aacute;n magukat, legjobbjaik egyszerre j&aacute;rtasak a fegyverek forgat&aacute;s&aacute;ban &eacute;s m&aacute;s hasznos praktik&aacute;kban.</p>\n<ul>\n<li>T&aacute;mad&aacute;sb&oacute;nusz: Szint*2/3</li>\n<li>Mentődob&aacute;s: F&uuml;rges&eacute;g az első, B&aacute;tors&aacute;g &eacute;s&nbsp;K&iacute;s&eacute;rt&eacute;s a m&aacute;sodik oszlop szerint</li>\n<li>Fegyverhaszn&aacute;lat: b&aacute;rmilyen</li>\n<li>P&aacute;ncz&eacute;lhaszn&aacute;lat: k&ouml;nnyű</li>\n<li>Hp: szintenk&eacute;nt 1d8</li>\n</ul>",
     "specialism": false,
-    "parent": "cleric",
+    "parentClass": "",
     "quantity": null,
     "weight": null
   },

@@ -10,7 +10,7 @@
   "system": {
     "description": "<p>A legjobb husz&aacute;rok a magyarok &eacute;s lengyelek k&ouml;z&ouml;tt teremnek, de regimentjeik m&aacute;r m&aacute;shol is l&oacute;ra kaptak.</p>\n<p>A nyeregből minden k&ouml;rben extra t&aacute;mad&aacute;st kapnak +1-es alap t&aacute;mad&oacute;&eacute;rt&eacute;kkel.</p>",
     "specialism": true,
-    "parent": "fighter"
+    "parentClass": "fighter"
   },
   "_stats": {
     "compendiumSource": null,

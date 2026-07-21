@@ -54,7 +54,7 @@
   "system": {
     "description": "<p>A karakter olyan gyors, mint az olajozott istennyila: +4-et kap kezdem&eacute;nyez&eacute;si dob&aacute;saira.</p>",
     "specialism": true,
-    "parent": "vagabond"
+    "parentClass": "vagabond"
   },
   "_stats": {
     "compendiumSource": null,

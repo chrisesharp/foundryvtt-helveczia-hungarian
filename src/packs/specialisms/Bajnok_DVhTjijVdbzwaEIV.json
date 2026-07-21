@@ -72,7 +72,7 @@
   "system": {
     "description": "<p>Marczona, mindent kib&iacute;r&oacute; fegyveresek a b&eacute;rczekről, s&ouml;t&eacute;t erdőkből &eacute;s a v&aacute;s&aacute;rok erőműv&eacute;szei k&ouml;z&uuml;l. Izmuk mint az edzett acz&eacute;l,&nbsp; csontjuk pedig kov&aacute;csolt vashoz hasonlatos.</p>\n<p>1d12-vel dobj&aacute;k a Hp-j&uuml;ket &eacute;s +1 b&oacute;nuszt kapnak a mentődob&aacute;saikra.</p>",
     "specialism": true,
-    "parent": "fighter"
+    "parentClass": "fighter"
   },
   "_stats": {
     "compendiumSource": null,
